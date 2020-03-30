@@ -64,6 +64,19 @@ backup = brit_dict.copy()
 
 brit_dict = backup.copy()
 
+##set overlap counter
+for i,current_node in enumerate(brit_dict):
+    current_proteins = brit_dict[current_node]["proteins"]
+    edges = {}
+    for other_node in brit_dict:
+        if other_node == current_node:
+            continue
+        other_proteins = brit_dict[other_node]["proteins"]
+        overlap = set(current_proteins).intersection(other_proteins)
+        if len(overlap)!= 0:
+            edges[other_node] =list(overlap)
+    brit_dict[current_node]["edges"] = edges
+
 
 ##not great code, exponential timing algorithm, small number of eles though
 for i,count_node in enumerate(brit_dict):
