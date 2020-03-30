@@ -1,0 +1,1084 @@
+Uniprot_ID,Protein_Description,Modified_Peptide,pSTY_Residue,Log2FC
+P28482,Mitogen-activated protein kinase 1 OS=Homo sapiens OX=9606 GN=MAPK1 PE=1 SV=3,VADPDHDHTGFLTEYVATR T18(Phospho), T190,2.2611
+P07814,Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiens OX=9606 GN=EPRS PE=1 SV=5,GFFICDQPYEPVSPYSCK S16(Phospho), Y690,2.1965
+Q9Y5P4,Collagen type IV alpha-3-binding protein OS=Homo sapiens OX=9606 GN=COL4A3BP PE=1 SV=1,SEDETEYGCR Y7(Phospho), Y63,2.1576
+Q15149,Plectin OS=Homo sapiens OX=9606 GN=PLEC PE=1 SV=3,GYYSPYSVSGSGSTAGSR S4(Phospho), S4613,2.1399
+Q03135,Caveolin-1 OS=Homo sapiens OX=9606 GN=CAV1 PE=1 SV=4,QVYDAHTK Y3(Phospho), Y42,2.1303
+O75563,Src kinase-associated phosphoprotein 2 OS=Homo sapiens OX=9606 GN=SKAP2 PE=1 SV=1,YGWWVGEMK Y1(Phospho), Y334,2.0951
+P0DP23;P0DP24;P0DP25,Calmodulin-1 OS=Homo sapiens OX=9606 GN=CALM1 PE=1 SV=1;Calmodulin-2 OS=Homo sapiens OX=9606 GN=CALM2 PE=1 SV=1;Calmodulin-3 OS=Homo sapiens OX=9606 GN=CALM3 PE=1 SV=1,VFDKDGNGYISAAELR Y9(Phospho), Y100,2.083
+P27361,Mitogen-activated protein kinase 3 OS=Homo sapiens OX=9606 GN=MAPK3 PE=1 SV=4,IADPEHDHTGFLTEYVATR Y15(Phospho), Y204,2.0687
+O00571,ATP-dependent RNA helicase DDX3X OS=Homo sapiens OX=9606 GN=DDX3X PE=1 SV=3,GFYDKDSSGWSSSK Y3(Phospho), Y53,2.0303
+P07814,Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiens OX=9606 GN=EPRS PE=1 SV=5,RGFFICDQPYEPVSPYSCK Y16(Phospho), Y690,2.0289
+P16333,Cytoplasmic protein NCK1 OS=Homo sapiens OX=9606 GN=NCK1 PE=1 SV=1,LYDLNMPAYVK Y2(Phospho), Y105,2.0204
+Q86VI3,Ras GTPase-activating-like protein IQGAP3 OS=Homo sapiens OX=9606 GN=IQGAP3 PE=1 SV=2,LGLAPQIHDLYGK Y11(Phospho), Y162,2.0102
+Q9NZM3,Intersectin-2 OS=Homo sapiens OX=9606 GN=ITSN2 PE=1 SV=3,LIYLVPEK Y3(Phospho), Y553,2.0081
+P30041,Peroxiredoxin-6 OS=Homo sapiens OX=9606 GN=PRDX6 PE=1 SV=3,DINAYNCEEPTEKLPFPIIDDR Y5(Phospho), Y89,2.0057
+O00151,PDZ and LIM domain protein 1 OS=Homo sapiens OX=9606 GN=PDLIM1 PE=1 SV=4,VTPPEGYEVVTVFPK Y7(Phospho), Y321,1.9906
+P07814,Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiens OX=9606 GN=EPRS PE=1 SV=5,GFFICDQPYEPVSPYSCK S13(Phospho), S688,1.9689
+Q8IZP0,Abl interactor 1 OS=Homo sapiens OX=9606 GN=ABI1 PE=1 SV=4,NTPYKTLEPVKPPTVPNDYMTSPAR T6(Phospho) Y19(Phospho), T200 Y213,1.9593
+P10398,Serine/threonine-protein kinase A-Raf OS=Homo sapiens OX=9606 GN=ARAF PE=1 SV=2,DSGYYWEVPPSEVQLLK Y5(Phospho), Y302,1.959
+Q14157,Ubiquitin-associated protein 2-like OS=Homo sapiens OX=9606 GN=UBAP2L PE=1 SV=2,DGSLASNPYSGDLTK Y9(Phospho), Y858,1.9581
+Q9UHR4,Brain-specific angiogenesis inhibitor 1-associated protein 2-like protein 1 OS=Homo sapiens OX=9606 GN=BAIAP2L1 PE=1 SV=2,DGWLYGEHDVSK Y5(Phospho), Y380,1.9398
+A6NMY6,Putative annexin A2-like protein OS=Homo sapiens OX=9606 GN=ANXA2P2 PE=5 SV=2; Annexin A2 OS=Homo sapiens OX=9606 GN=ANXA2 PE=1 SV=2,LSLEGDHSTPPSAYGSVK S12(Phospho), S22,1.938
+A6NMY6,Putative annexin A2-like protein OS=Homo sapiens OX=9606 GN=ANXA2P2 PE=5 SV=2; Annexin A2 OS=Homo sapiens OX=9606 GN=ANXA2 PE=1 SV=2,LSLEGDHSTPPSAYGSVK S8(Phospho), S18,1.9223
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TPEEGGYSYDISEK Y7(Phospho), Y1955,1.9141
+Q5TCQ9,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3 OS=Homo sapiens OX=9606 GN=MAGI3 PE=1 SV=3",IEDPQYGTYYVDHLNQK Y6(Phospho), Y353,1.9038
+Q5T0N5,Formin-binding protein 1-like OS=Homo sapiens OX=9606 GN=FNBP1L PE=1 SV=3,ESPEGSYTDDANQEVR Y7(Phospho), Y506,1.9014
+Q8WWB7,Glycosylated lysosomal membrane protein OS=Homo sapiens OX=9606 GN=GLMP PE=1 SV=1,YSEYQSIN Y4(Phospho), Y402,1.8889
+Q13177,Serine/threonine-protein kinase PAK 1 OS=Homo sapiens OX=9606 GN=PAK1 PE=1 SV=2; Serine/threonine-protein kinase PAK 2 OS=Homo sapiens OX=9606 GN=PAK2 PE=1 SV=3,ALYLIATNGTPELQNPEK Y3(Phospho), Y474,1.8798
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,LVQLYAVVSEEPIYIVTEYMSK T17(Phospho), T341,1.8708
+P29353,SHC-transforming protein 1 OS=Homo sapiens OX=9606 GN=SHC1 PE=1 SV=4,ELFDDPSYVNVQNLDK Y8(Phospho), Y427,1.868
+Q13480,GRB2-associated-binding protein 1 OS=Homo sapiens OX=9606 GN=GAB1 PE=1 SV=2,GDKQVEYLDLDLDSGK Y7(Phospho), Y627,1.8657
+O43609,Protein sprouty homolog 1 OS=Homo sapiens OX=9606 GN=SPRY1 PE=1 SV=2,GSNEYTEGPSVVK T6(Phospho), T54,1.8603
+Q5T6F2,Ubiquitin-associated protein 2 OS=Homo sapiens OX=9606 GN=UBAP2 PE=1 SV=1,SQASKPAYGNSPYWTN T15(Phospho), T1118,1.8489
+P35580,Myosin-10 OS=Homo sapiens OX=9606 GN=MYH10 PE=1 SV=3,AVIYNPATQADWTAK Y4(Phospho), Y22,1.8406
+Q7Z417,Nuclear fragile X mental retardation-interacting protein 2 OS=Homo sapiens OX=9606 GN=NUFIP2 PE=1 SV=1,GADNDGSGSESGYTTPK Y13(Phospho), Y218,1.8359
+Q9UNZ2,NSFL1 cofactor p47 OS=Homo sapiens OX=9606 GN=NSFL1C PE=1 SV=2,LGAAPEEESAYVAGEKR S9(Phospho), S165,1.8309
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,AKTQTPPVSPAPQPTEERLPSSPVYEDAASFK S9(Phospho) T15(Phospho) Y25(Phospho), S405 T411 Y421,1.8228
+Q5T6F2,Ubiquitin-associated protein 2 OS=Homo sapiens OX=9606 GN=UBAP2 PE=1 SV=1,GGYAGSSQAPNK Y3(Phospho), Y984,1.8188
+Q9Y5V3,Melanoma-associated antigen D1 OS=Homo sapiens OX=9606 GN=MAGED1 PE=1 SV=3,GPNGVYDFSQAHNAK Y6(Phospho), Y92,1.8148
+Q9Y262,Eukaryotic translation initiation factor 3 subunit L OS=Homo sapiens OX=9606 GN=EIF3L PE=1 SV=1,QYEQQTYQVIPEVIK Y2(Phospho), Y40,1.8139
+Q9P266,Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3,QVSSPYSQGESTCETQTK Y6(Phospho), Y545,1.8124
+P29353,SHC-transforming protein 1 OS=Homo sapiens OX=9606 GN=SHC1 PE=1 SV=4,ELFDDPSYVNVQNLDK S7(Phospho), S426,1.8109
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,SPSDSGYSYETIGK Y7(Phospho), Y1921,1.81
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,AASPYSQRPASPTAIR Y5(Phospho) S11(Phospho), Y275 S281,1.8051
+O75122,CLIP-associating protein 2 OS=Homo sapiens OX=9606 GN=CLASP2 PE=1 SV=2,SRDYNPYNYSDSISPFNK Y9(Phospho), Y1024,1.7829
+Q6FI81,Anamorsin OS=Homo sapiens OX=9606 GN=CIAPIN1 PE=1 SV=2,CASCPYLGMPAFKPGEK Y6(Phospho), Y290,1.7793
+O75563,Src kinase-associated phosphoprotein 2 OS=Homo sapiens OX=9606 GN=SKAP2 PE=1 SV=1,RGDVIYILSK Y6(Phospho), Y325,1.7759
+P46940,Ras GTPase-activating-like protein IQGAP1 OS=Homo sapiens OX=9606 GN=IQGAP1 PE=1 SV=1,LGLAPQIQDLYGKVDFTEEEINNMK Y11(Phospho), Y172,1.7634
+Q9HAU0,Pleckstrin homology domain-containing family A member 5 OS=Homo sapiens OX=9606 GN=PLEKHA5 PE=1 SV=1,AKSPTPESSTIASYVTLR T5(Phospho) Y14(Phospho), T857 Y866,1.7578
+O14828,Secretory carrier-associated membrane protein 3 OS=Homo sapiens OX=9606 GN=SCAMP3 PE=1 SV=3,NYGSYSTQASAAAATAELLK Y2(Phospho), Y83,1.7538
+Q9C0C2,182 kDa tankyrase-1-binding protein OS=Homo sapiens OX=9606 GN=TNKS1BP1 PE=1 SV=4,DVSLGTYGSR S9(Phospho), S942,1.7478
+Q5TCQ9,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3 OS=Homo sapiens OX=9606 GN=MAGI3 PE=1 SV=3",IEDPQYGTYYVDHLNQK Y10(Phospho), Y357,1.7396
+P46940,Ras GTPase-activating-like protein IQGAP1 OS=Homo sapiens OX=9606 GN=IQGAP1 PE=1 SV=1,LGLAPQIQDLYGKVDFTEEEINNMKTELEK T17(Phospho), T178,1.7364
+A6NMY6,Putative annexin A2-like protein OS=Homo sapiens OX=9606 GN=ANXA2P2 PE=5 SV=2; Annexin A2 OS=Homo sapiens OX=9606 GN=ANXA2 PE=1 SV=2,LSLEGDHSTPPSAYGSVK Y14(Phospho), Y24,1.7298
+Q96I24,Far upstream element-binding protein 3 OS=Homo sapiens OX=9606 GN=FUBP3 PE=1 SV=2,IDSIPHLNNSTPLVDPSVYGYGVQK Y21(Phospho), Y53,1.7273
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,AAEAGGAEEQYGFLTTPTK Y11(Phospho), Y1062,1.7253
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TPDTSTYCYETAEK Y9(Phospho), Y2042,1.7245
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TPEDGDYSYEIIEK Y9(Phospho), Y1940,1.7215
+P61024,Cyclin-dependent kinases regulatory subunit 1 OS=Homo sapiens OX=9606 GN=CKS1B PE=1 SV=1,QIYYSDKYDDEEFEYR Y3(Phospho), Y7,1.7208
+O75369,Filamin-B OS=Homo sapiens OX=9606 GN=FLNB PE=1 SV=2,SSTETCYSAIPK S8(Phospho), S2503,1.7207
+O75886,Signal transducing adapter molecule 2 OS=Homo sapiens OX=9606 GN=STAM2 PE=1 SV=1,LVNEAPVYSVYSK Y8(Phospho), Y371,1.7198
+Q15464,SH2 domain-containing adapter protein B OS=Homo sapiens OX=9606 GN=SHB PE=1 SV=2,GESAGYMEPYEAQR Y10(Phospho), Y272,1.7194
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,LVQLYAVVSEEPIYIVTEYMSK Y5(Phospho), Y329,1.7178
+Q14738,Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit delta isoform OS=Homo sapiens OX=9606 GN=PPP2R5D PE=1 SV=1,RKSELPQDVYTIK S3(Phospho) Y10(Phospho), S573 Y580,1.7145
+O94885,SAM and SH3 domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SASH1 PE=1 SV=3; SAM domain-containing protein SAMSN-1 OS=Homo sapiens OX=9606 GN=SAMSN1 PE=1 SV=1,VHTDFTPSPYDTDSLK Y10(Phospho), Y570,1.7132
+Q15056,Eukaryotic translation initiation factor 4H OS=Homo sapiens OX=9606 GN=EIF4H PE=1 SV=5,ELPTEPPYTAYVGNLPFNTVQGDIDAIFK T9(Phospho), T43,1.7124
+P28482,Mitogen-activated protein kinase 1 OS=Homo sapiens OX=9606 GN=MAPK1 PE=1 SV=3,VADPDHDHTGFLTEYVATR T9(Phospho) Y15(Phospho), T181 Y187,1.7073
+P42684,Tyrosine-protein kinase ABL1 OS=Homo sapiens OX=9606 GN=ABL1 PE=1 SV=4; Tyrosine-protein kinase ABL2 OS=Homo sapiens OX=9606 GN=ABL2 PE=1 SV=1,LMTGDTYTAHAGAK T8(Phospho), T394,1.706
+P28482,Mitogen-activated protein kinase 1 OS=Homo sapiens OX=9606 GN=MAPK1 PE=1 SV=3,VADPDHDHTGFLTEYVATR T13(Phospho), T185,1.7028
+Q9H0B6,Kinesin light chain 2 OS=Homo sapiens OX=9606 GN=KLC2 PE=1 SV=1,DSAPYGEYGSWYK Y8(Phospho), Y434,1.7002
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TPEDGDYSYEIIEK Y7(Phospho), Y1938,1.6986
+P25685,DnaJ homolog subfamily B member 4 OS=Homo sapiens OX=9606 GN=DNAJB4 PE=1 SV=1; DnaJ homolog subfamily B member 1 OS=Homo sapiens OX=9606 GN=DNAJB1 PE=1 SV=4,VSLEEIYSGCTK Y7(Phospho), Y172,1.6948
+Q15149,Plectin OS=Homo sapiens OX=9606 GN=PLEC PE=1 SV=3,GYYSPYSVSGSGSTAGSR Y6(Phospho), Y4615,1.6918
+Q5TCQ9,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3 OS=Homo sapiens OX=9606 GN=MAGI3 PE=1 SV=3",IEDPQYGTYYVDHLNQK T8(Phospho), T355,1.6915
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TTRTPDTSTYCYETAEK T4(Phospho) Y12(Phospho), T2034 Y2042,1.6901
+Q15052,Rho guanine nucleotide exchange factor 6 OS=Homo sapiens OX=9606 GN=ARHGEF6 PE=1 SV=2,QTNEDELSVCKGDIIYVTR Y16(Phospho), Y188,1.6898
+Q9NRY4,Rho GTPase-activating protein 35 OS=Homo sapiens OX=9606 GN=ARHGAP35 PE=1 SV=3,KSVSSSPWLPQDGFDPSDYAEPMDAVVKPR S6(Phospho) S17(Phospho), S1074 S1085,1.6892
+Q9UJU6,Drebrin-like protein OS=Homo sapiens OX=9606 GN=DBNL PE=1 SV=1,FQDVGPQAPVGSVYQK Y14(Phospho), Y162,1.6823
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,SPDEEDYDYESYEK Y9(Phospho), Y1889,1.6779
+Q9NRY4,Rho GTPase-activating protein 35 OS=Homo sapiens OX=9606 GN=ARHGAP35 PE=1 SV=3,KSVSSSPWLPQDGFDPSDYAEPMDAVVKPR S2(Phospho) Y19(Phospho), S1070 Y1087,1.6777
+P07947; P12931,Tyrosine-protein kinase Lck OS=Homo sapiens OX=9606 GN=LCK PE=1 SV=6; Tyrosine-protein kinase Yes OS=Homo sapiens OX=9606 GN=YES1 PE=1 SV=3; Tyrosine-protein kinase Fyn OS=Homo sapiens OX=9606 GN=FYN PE=1 SV=3; Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,LIEDNEYTAR Y7(Phospho), Y394,1.6721
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,VDQSAVGFEYQGKTEK T14(Phospho), T145,1.6677
+P31942,Heterogeneous nuclear ribonucleoprotein H3 OS=Homo sapiens OX=9606 GN=HNRNPH3 PE=1 SV=2,DGMDNQGGYGSVGR Y9(Phospho), Y296,1.6604
+O14786,Neuropilin-1 OS=Homo sapiens OX=9606 GN=NRP1 PE=1 SV=3,DKLNTQSTYSEA T8(Phospho), T919,1.6572
+Q92625,Ankyrin repeat and SAM domain-containing protein 1A OS=Homo sapiens OX=9606 GN=ANKS1A PE=1 SV=4,YFPLTASEVLSMRPR Y1(Phospho), Y427,1.656
+Q16181,Septin-7 OS=Homo sapiens OX=9606 GN=SEPT7 PE=1 SV=2,KLAAVTYNGVDNNK Y7(Phospho), Y319,1.6552
+O95295,SNARE-associated protein Snapin OS=Homo sapiens OX=9606 GN=SNAPIN PE=1 SV=1,AMLDSGIYPPGSPGK Y8(Phospho), Y129,1.6552
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TPEEGGYSYDISEK S8(Phospho), S1956,1.6523
+Q9UPQ9,Trinucleotide repeat-containing gene 6B protein OS=Homo sapiens OX=9606 GN=TNRC6B PE=1 SV=4,GPIPGYGSGFSSGGMDYGMVGGK Y17(Phospho), Y1382,1.6511
+Q9H7E9,UPF0488 protein C8orf33 OS=Homo sapiens OX=9606 GN=C8orf33 PE=1 SV=1,AAAYSAQVQPVDGATR Y4(Phospho), Y186,1.6455
+O14828,Secretory carrier-associated membrane protein 3 OS=Homo sapiens OX=9606 GN=SCAMP3 PE=1 SV=3,NYGSYSTQASAAAATAELLK Y5(Phospho), Y86,1.6451
+P49810,Presenilin-2 OS=Homo sapiens OX=9606 GN=PSEN2 PE=1 SV=1,SQENEEDGEEDPDRYVCSGVPGRPPGLEEELTLK Y15(Phospho), Y63,1.6431
+Q07866,Kinesin light chain 1 OS=Homo sapiens OX=9606 GN=KLC1 PE=1 SV=2,DGTSFGEYGGWYK Y8(Phospho), Y449,1.6347
+Q13439,Golgin subfamily A member 4 OS=Homo sapiens OX=9606 GN=GOLGA4 PE=1 SV=1,NVYATTVGTPYK Y3(Phospho), Y2148,1.6318
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TPGDFSYAYQKPEETTRSPDEEDYDYESYEK S18(Phospho), S1881,1.6308
+P50552,Vasodilator-stimulated phosphoprotein OS=Homo sapiens OX=9606 GN=VASP PE=1 SV=3,SSSSVTTSETQPCTPSSSDYSDLQR Y20(Phospho), Y341,1.6304
+O95147,Dual specificity protein phosphatase 14 OS=Homo sapiens OX=9606 GN=DUSP14 PE=1 SV=1,MVQTPYGIVPDVYEK Y6(Phospho), Y178,1.6296
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,DMSLYASLTSEK Y5(Phospho), Y1762,1.6284
+Q8IZP0,Abl interactor 1 OS=Homo sapiens OX=9606 GN=ABI1 PE=1 SV=4,NTPYKTLEPVKPPTVPNDYMTSPAR T6(Phospho), T200,1.6262
+P19174,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1 OS=Homo sapiens OX=9606 GN=PLCG1 PE=1 SV=1",NPGFYVEANPMPTFK Y5(Phospho), Y783,1.6225
+P07947; P12931,Tyrosine-protein kinase Lck OS=Homo sapiens OX=9606 GN=LCK PE=1 SV=6; Tyrosine-protein kinase Yes OS=Homo sapiens OX=9606 GN=YES1 PE=1 SV=3; Tyrosine-protein kinase Fyn OS=Homo sapiens OX=9606 GN=FYN PE=1 SV=3; Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,LIEDNEYTAR T8(Phospho), T395,1.6221
+O15511,Actin-related protein 2/3 complex subunit 5 OS=Homo sapiens OX=9606 GN=ARPC5 PE=1 SV=3,KVDVDEYDENKFVDEEDGGDGQAGPDEGEVDSCLR Y7(Phospho), Y19,1.6213
+Q7L8W6,Diphthine--ammonia ligase OS=Homo sapiens OX=9606 GN=DPH6 PE=1 SV=3,TSNYIYNF Y6(Phospho), Y265,1.6204
+O75122,CLIP-associating protein 2 OS=Homo sapiens OX=9606 GN=CLASP2 PE=1 SV=2,SRDYNPYNYSDSISPFNK Y7(Phospho), Y1022,1.619
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,AELSYRGPVSGTEPEPVYSMEAADYR Y18(Phospho), Y446,1.6185
+P28482,Mitogen-activated protein kinase 1 OS=Homo sapiens OX=9606 GN=MAPK1 PE=1 SV=3,VADPDHDHTGFLTEYVATR Y15(Phospho), Y187,1.6173
+Q9NRX4,14 kDa phosphohistidine phosphatase OS=Homo sapiens OX=9606 GN=PHPT1 PE=1 SV=1,AKYPDYEVTWANDGY Y15(Phospho), Y125,1.6035
+Q9UNZ2,NSFL1 cofactor p47 OS=Homo sapiens OX=9606 GN=NSFL1C PE=1 SV=2,LGAAPEEESAYVAGEKR Y11(Phospho), Y167,1.5985
+P33240,Cleavage stimulation factor subunit 2 OS=Homo sapiens OX=9606 GN=CSTF2 PE=1 SV=1,SLGTGAPVIESPYGETISPEDAPESISK Y13(Phospho), Y115,1.5977
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,LPSSPVYEDAASFK S3(Phospho) S4(Phospho), S417 S418,1.5956
+Q9UEU0,Vesicle transport through interaction with t-SNAREs homolog 1B OS=Homo sapiens OX=9606 GN=VTI1B PE=1 SV=3,YGIYAVENEHMNR Y1(Phospho), Y112,1.5953
+P31946,14-3-3 protein beta/alpha OS=Homo sapiens OX=9606 GN=YWHAB PE=1 SV=3,TAFDEAIAELDTLNEESYKDSTLIMQLLR Y18(Phospho), Y213,1.595
+O43865,S-adenosylhomocysteine hydrolase-like protein 1 OS=Homo sapiens OX=9606 GN=AHCYL1 PE=1 SV=2,EIEDAEKYSFMATVTK Y8(Phospho), Y28,1.5915
+Q9BYG5,Partitioning defective 6 homolog beta OS=Homo sapiens OX=9606 GN=PARD6B PE=1 SV=1,KEEADYSAFGTDTLIK S7(Phospho), S102,1.5896
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,AKTQTPPVSPAPQPTEERLPSSPVYEDAASFK T15(Phospho) Y25(Phospho), T411 Y421,1.5891
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,LLDDISNGYDDSEDGGHTLGDPSYSYETTEK S25(Phospho), S2007,1.5888
+Q96JA1,Leucine-rich repeats and immunoglobulin-like domains protein 1 OS=Homo sapiens OX=9606 GN=LRIG1 PE=1 SV=2,VVCSDCNTEVDCYSR S14(Phospho), S942,1.5876
+P25054,Adenomatous polyposis coli protein OS=Homo sapiens OX=9606 GN=APC PE=1 SV=2,SSNDSLNSVSSSDGYGKR Y15(Phospho), Y973,1.5842
+Q4VCS5,Angiomotin OS=Homo sapiens OX=9606 GN=AMOT PE=1 SV=1,KTPIQILGQEPDAEMVEYLI Y18(Phospho), Y1082,1.5812
+P07947; P12931,Tyrosine-protein kinase Yes OS=Homo sapiens OX=9606 GN=YES1 PE=1 SV=3; Tyrosine-protein kinase Fyn OS=Homo sapiens OX=9606 GN=FYN PE=1 SV=3; Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,WTAPEAALYGR Y9(Phospho), Y446,1.5769
+Q93052,Lipoma-preferred partner OS=Homo sapiens OX=9606 GN=LPP PE=1 SV=1,NDSDPTYGQQGHPNTWK Y7(Phospho), Y317,1.5728
+Q9NRY4,Rho GTPase-activating protein 35 OS=Homo sapiens OX=9606 GN=ARHGAP35 PE=1 SV=3,KSVSSSPWLPQDGFDPSDYAEPMDAVVKPR S4(Phospho) Y19(Phospho), S1072 Y1087,1.5727
+P19174,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1 OS=Homo sapiens OX=9606 GN=PLCG1 PE=1 SV=1",KLAEGSAYEEVPTSMMYSENDISNSIK Y8(Phospho), Y472,1.5719
+Q7Z417,Nuclear fragile X mental retardation-interacting protein 2 OS=Homo sapiens OX=9606 GN=NUFIP2 PE=1 SV=1,DYEIESQNPLASPTNTLLGSAK Y2(Phospho) S12(Phospho), Y619 S629,1.5701
+Q9UKY7,Protein CDV3 homolog OS=Homo sapiens OX=9606 GN=CDV3 PE=1 SV=1,LQLDNQYAVLENQK Y7(Phospho), Y244,1.569
+Q05655,Protein kinase C delta type OS=Homo sapiens OX=9606 GN=PRKCD PE=1 SV=2,TGVAGEDMQDNSGTYGK T14(Phospho), T333,1.5669
+O00151,PDZ and LIM domain protein 1 OS=Homo sapiens OX=9606 GN=PDLIM1 PE=1 SV=4,VITNQYNNPAGLYSSENISNFNNALESK Y13(Phospho), Y151,1.5665
+Q9H0B6,Kinesin light chain 2 OS=Homo sapiens OX=9606 GN=KLC2 PE=1 SV=1,DSAPYGEYGSWYK Y5(Phospho), Y431,1.566
+P62258,14-3-3 protein epsilon OS=Homo sapiens OX=9606 GN=YWHAE PE=1 SV=1,AAFDDAIAELDTLSEESYKDSTLIMQLLR S17(Phospho), S213,1.5616
+Q92900,Regulator of nonsense transcripts 1 OS=Homo sapiens OX=9606 GN=UPF1 PE=1 SV=2,TSQLLAELNFEEDEEDTYYTK Y18(Phospho), Y113,1.5603
+Q7Z417,Nuclear fragile X mental retardation-interacting protein 2 OS=Homo sapiens OX=9606 GN=NUFIP2 PE=1 SV=1,DYEIESQNPLASPTNTLLGSAK Y2(Phospho), Y619,1.5601
+Q9H792,Inactive tyrosine-protein kinase PEAK1 OS=Homo sapiens OX=9606 GN=PEAK1 PE=1 SV=4,ACSVEELYAIPPDADVAK Y8(Phospho), Y797,1.5588
+P28290,Sperm-specific antigen 2 OS=Homo sapiens OX=9606 GN=SSFA2 PE=1 SV=3,GPDPAAAPYSTQK T11(Phospho), T945,1.5563
+Q9NZ32,Actin-related protein 10 OS=Homo sapiens OX=9606 GN=ACTR10 PE=1 SV=1,PLYEGLGSGGEK Y3(Phospho), Y4,1.5558
+Q9HAU0,Pleckstrin homology domain-containing family A member 5 OS=Homo sapiens OX=9606 GN=PLEKHA5 PE=1 SV=1,AKSPTPESSTIASYVTLR S3(Phospho) Y14(Phospho), S855 Y866,1.5528
+Q15056,Eukaryotic translation initiation factor 4H OS=Homo sapiens OX=9606 GN=EIF4H PE=1 SV=5,SQKELPTEPPYTAYVGNLPFNTVQGDIDAIFK Y14(Phospho), Y45,1.5484
+O00571,ATP-dependent RNA helicase DDX3X OS=Homo sapiens OX=9606 GN=DDX3X PE=1 SV=3; ATP-dependent RNA helicase DDX3Y OS=Homo sapiens OX=9606 GN=DDX3Y PE=1 SV=2,QEVPSWLENMAYEHHYK Y16(Phospho), Y580,1.5481
+P41236,Protein phosphatase inhibitor 2 OS=Homo sapiens OX=9606 GN=PPP1R2 PE=1 SV=2,WDEMNILATYHPADKDYGLMK Y17(Phospho), Y63,1.5471
+Q7Z3E2,Coiled-coil domain-containing protein 186 OS=Homo sapiens OX=9606 GN=CCDC186 PE=1 SV=2,TYSESPYDTDCTK Y7(Phospho), Y141,1.547
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TPEDGDYSYEIIEK S8(Phospho), S1939,1.5462
+Q08AD1,Calmodulin-regulated spectrin-associated protein 2 OS=Homo sapiens OX=9606 GN=CAMSAP2 PE=1 SV=3,EEAAGAEDEKVYTDR T13(Phospho), T826,1.5449
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,SPDEEDYDYESYEK Y12(Phospho), Y1892,1.5449
+Q68D51,DENN domain-containing protein 2C OS=Homo sapiens OX=9606 GN=DENND2C PE=1 SV=2,YLSESGVTPYKER Y10(Phospho), Y228,1.5448
+Q9Y5K6,CD2-associated protein OS=Homo sapiens OX=9606 GN=CD2AP PE=1 SV=1,DTCYSPKPSVYLSTPSSASK S9(Phospho), S546,1.5448
+Q9Y5V3,Melanoma-associated antigen D1 OS=Homo sapiens OX=9606 GN=MAGED1 PE=1 SV=3,GPNAAYDFSQAATTGELAANK Y6(Phospho), Y126,1.5375
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TTSPPEVSGYSYEK Y10(Phospho), Y1972,1.5372
+Q15759,Mitogen-activated protein kinase 11 OS=Homo sapiens OX=9606 GN=MAPK11 PE=1 SV=2,QADEEMTGYVATR Y9(Phospho), Y182,1.5368
+P19174,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1 OS=Homo sapiens OX=9606 GN=PLCG1 PE=1 SV=1",IGTAEPDYGALYEGRNPGFYVEANPMPTFK Y12(Phospho), Y775,1.5339
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,GPNGRDPLLEVYDVPPSVEK Y12(Phospho), Y287,1.5321
+Q6P1N0,Coiled-coil and C2 domain-containing protein 1A OS=Homo sapiens OX=9606 GN=CC2D1A PE=1 SV=1,GPASTPTYSPAPTQPAPR Y8(Phospho), Y207,1.532
+P62633,Cellular nucleic acid-binding protein OS=Homo sapiens OX=9606 GN=CNBP PE=1 SV=1,DCDLQEDACYNCGR Y10(Phospho), Y75,1.53
+Q8N3R9,MAGUK p55 subfamily member 5 OS=Homo sapiens OX=9606 GN=MPP5 PE=1 SV=3,TGIDNPMFDTEEGIVLESPHYAVK Y21(Phospho), Y117,1.5289
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,TQTPPVSPAPQPTEERLPSSPVYEDAASFK T3(Phospho) S7(Phospho) Y23(Phospho), T401 S405 Y421,1.5284
+Q9NP73,Putative bifunctional UDP-N-acetylglucosamine transferase and deubiquitinase ALG13 OS=Homo sapiens OX=9606 GN=ALG13 PE=1 SV=2,ESQYGFTPGNGQMPR Y4(Phospho), Y715,1.5275
+Q53EZ4,Centrosomal protein of 55 kDa OS=Homo sapiens OX=9606 GN=CEP55 PE=1 SV=3,DLLVHVEYCSK Y8(Phospho), Y461,1.5256
+O14639,Actin-binding LIM protein 1 OS=Homo sapiens OX=9606 GN=ABLIM1 PE=1 SV=3,STSQGSINSPVYSR S3(Phospho) Y12(Phospho), S452 Y461,1.524
+Q13043,Serine/threonine-protein kinase 4 OS=Homo sapiens OX=9606 GN=STK4 PE=1 SV=2,IPQDGDYEFLK Y7(Phospho), Y433,1.5222
+P0DMV8;P0DMV9,Heat shock 70 kDa protein 1A OS=Homo sapiens OX=9606 GN=HSPA1A PE=1 SV=1;Heat shock 70 kDa protein 1B OS=Homo sapiens OX=9606 GN=HSPA1B PE=1 SV=1,ELEQVCNPIISGLYQGAGGPGPGGFGAQGPK Y14(Phospho), Y611,1.5154
+Q9NPH2,Inositol-3-phosphate synthase 1 OS=Homo sapiens OX=9606 GN=ISYNA1 PE=1 SV=1,VGPVAATYPMLNK T7(Phospho), T524,1.5146
+Q05655,Protein kinase C delta type OS=Homo sapiens OX=9606 GN=PRKCD PE=1 SV=2,KTGVAGEDMQDNSGTYGK Y16(Phospho), Y334,1.5137
+P15880,40S ribosomal protein S2 OS=Homo sapiens OX=9606 GN=RPS2 PE=1 SV=2,SPYQEFTDHLVK Y3(Phospho), Y266,1.5114
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,VDQSAVGFEYQGKTEK Y10(Phospho), Y141,1.5089
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,SPSDSGYSYETIGK Y9(Phospho), Y1923,1.5087
+Q00526,Cyclin-dependent kinase 2 OS=Homo sapiens OX=9606 GN=CDK2 PE=1 SV=2; Cyclin-dependent kinase 1 OS=Homo sapiens OX=9606 GN=CDK1 PE=1 SV=3; Cyclin-dependent kinase 3 OS=Homo sapiens OX=9606 GN=CDK3 PE=1 SV=1,IGEGTYGVVYK T5(Phospho) Y6(Phospho), T14 Y15,1.5086
+Q13480,GRB2-associated-binding protein 1 OS=Homo sapiens OX=9606 GN=GAB1 PE=1 SV=2,VDYVVVDQQK Y3(Phospho), Y659,1.5081
+P28482,Mitogen-activated protein kinase 1 OS=Homo sapiens OX=9606 GN=MAPK1 PE=1 SV=3,VADPDHDHTGFLTEYVATR T13(Phospho) Y15(Phospho), T185 Y187,1.5057
+P15311,Ezrin OS=Homo sapiens OX=9606 GN=EZR PE=1 SV=4,SQEQLAAELAEYTAK Y12(Phospho), Y424,1.503
+Q5JSZ5,Protein PRRC2B OS=Homo sapiens OX=9606 GN=PRRC2B PE=1 SV=2,SSPYGTLKPEEMSGPGLAEPK T6(Phospho), T1695,1.4956
+P13797,Plastin-3 OS=Homo sapiens OX=9606 GN=PLS3 PE=1 SV=4,ISFDEFVYIFQEVK Y8(Phospho), Y79,1.4923
+Q8N8Z6,"Discoidin, CUB and LCCL domain-containing protein 1 OS=Homo sapiens OX=9606 GN=DCBLD1 PE=1 SV=2",KGSPYGSAEAQK Y5(Phospho), Y490,1.4922
+Q13561,Dynactin subunit 2 OS=Homo sapiens OX=9606 GN=DCTN2 PE=1 SV=4,RTGYESGEYEMLGEGLGVK Y9(Phospho), Y86,1.49
+O43639,Cytoplasmic protein NCK2 OS=Homo sapiens OX=9606 GN=NCK2 PE=1 SV=2,DASPTPSTDAEYPANGSGADRIYDLNIPAFVK Y23(Phospho), Y110,1.4798
+Q9HB90,Ras-related GTP-binding protein C OS=Homo sapiens OX=9606 GN=RRAGC PE=1 SV=1,DFGYGVEEEEEEAAAAGGGVGAGAGGGCGPGGADSSKPR Y4(Phospho), Y28,1.4789
+Q92796,Disks large homolog 3 OS=Homo sapiens OX=9606 GN=DLG3 PE=1 SV=2,RDNEVDGQDYHFVVSR Y10(Phospho), Y673,1.4781
+Q8WXD9,Caskin-1 OS=Homo sapiens OX=9606 GN=CASKIN1 PE=1 SV=1,SQPPVAHAGQVYGEQPPK Y12(Phospho), Y457,1.4774
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,NASTFEDVTQVSSAYQK S13(Phospho), S332,1.4755
+P68363,Tubulin alpha-3C/D chain OS=Homo sapiens OX=9606 GN=TUBA3C PE=1 SV=3; Tubulin alpha-3E chain OS=Homo sapiens OX=9606 GN=TUBA3E PE=1 SV=2; Tubulin alpha-1A chain OS=Homo sapiens OX=9606 GN=TUBA1A PE=1 SV=1; Tubulin alpha-1B chain OS=Homo sapiens OX=9606 GN=TUBA1B PE=1 SV=1; Tubulin alpha-4A chain OS=Homo sapiens OX=9606 GN=TUBA4A PE=1 SV=1,AYHEQLSVAEITNACFEPANQMVK Y2(Phospho), Y282,1.4751
+Q9UPQ7,E3 ubiquitin-protein ligase PDZRN3 OS=Homo sapiens OX=9606 GN=PDZRN3 PE=1 SV=2,SATPYGLYYPSGPLDAGK Y5(Phospho), Y662,1.4746
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,LPSSPVYEDAASFK S4(Phospho) Y7(Phospho), S418 Y421,1.4738
+Q5T6F2,Ubiquitin-associated protein 2 OS=Homo sapiens OX=9606 GN=UBAP2 PE=1 SV=1,DGSLANNPYPGDVTK Y9(Phospho), Y862,1.4728
+P61978,Heterogeneous nuclear ribonucleoprotein K OS=Homo sapiens OX=9606 GN=HNRNPK PE=1 SV=1,AQPYDPNFYDETYDYGGFTMMFDDRR Y13(Phospho), Y234,1.4711
+P15924,Desmoplakin OS=Homo sapiens OX=9606 GN=DSP PE=1 SV=3,GVITDQNSDGYCQTGTMSR Y11(Phospho), Y56,1.4695
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,ADGSGYGSTLPPEK Y6(Phospho), Y375,1.4681
+Q12929,Epidermal growth factor receptor kinase substrate 8 OS=Homo sapiens OX=9606 GN=EPS8 PE=1 SV=1,ADPPYTHTIQK Y5(Phospho), Y602,1.4664
+Q5VT25,Serine/threonine-protein kinase MRCK alpha OS=Homo sapiens OX=9606 GN=CDC42BPA PE=1 SV=1,KLQESTQTVQALQYSTVDGPLTASK T16(Phospho), T476,1.4642
+Q68D51,DENN domain-containing protein 2C OS=Homo sapiens OX=9606 GN=DENND2C PE=1 SV=2,YCENNSCAQSSLASSQEPEPK Y1(Phospho), Y237,1.4639
+Q9BYG5,Partitioning defective 6 homolog beta OS=Homo sapiens OX=9606 GN=PARD6B PE=1 SV=1,KEEADYSAFGTDTLIK Y6(Phospho), Y101,1.4637
+O75674,TOM1-like protein 1 OS=Homo sapiens OX=9606 GN=TOM1L1 PE=1 SV=2,SDLQPPNYYEVMEFDPLAPAVTTEAIYEEIDAHQHK Y9(Phospho), Y442,1.4636
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,SMGYDDLDYGMMSDYGTAR Y15(Phospho), Y302,1.4539
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,MDKNASTFEDVTQVSSAYQK Y18(Phospho), Y334,1.4499
+Q8NE71,ATP-binding cassette sub-family F member 1 OS=Homo sapiens OX=9606 GN=ABCF1 PE=1 SV=2,LQGQLEQGDDTAAERLEKVYEELR Y20(Phospho), Y416,1.4494
+P07814,Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiens OX=9606 GN=EPRS PE=1 SV=5,SLYDEVAAQGEVVRK Y3(Phospho), Y827,1.4488
+Q01433,AMP deaminase 2 OS=Homo sapiens OX=9606 GN=AMPD2 PE=1 SV=2,SAPYEFPEESPIEQLEER Y4(Phospho), Y145,1.4457
+Q92574,Hamartin OS=Homo sapiens OX=9606 GN=TSC1 PE=1 SV=2,SADVTTSPYADTQNSYGCATSTPYSTSR T22(Phospho), T310,1.4453
+P42684,Tyrosine-protein kinase ABL1 OS=Homo sapiens OX=9606 GN=ABL1 PE=1 SV=4; Tyrosine-protein kinase ABL2 OS=Homo sapiens OX=9606 GN=ABL2 PE=1 SV=1,LMTGDTYTAHAGAK Y7(Phospho), Y393,1.4439
+Q5T9S5,Coiled-coil domain-containing protein 18 OS=Homo sapiens OX=9606 GN=CCDC18 PE=1 SV=1,LILDVQPSHPGLLNYSPYENVCK Y18(Phospho), Y81,1.4435
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,DLQYITVSKEELSSGDSLSPDPWK Y4(Phospho), Y1497,1.4425
+Q9NYB9; Q8IZP0,Abl interactor 2 OS=Homo sapiens OX=9606 GN=ABI2 PE=1 SV=1; Abl interactor 1 OS=Homo sapiens OX=9606 GN=ABI1 PE=1 SV=4,VVAIYDYTK Y5(Phospho), Y460,1.4409
+Q9BQE3,Tubulin alpha-1C chain OS=Homo sapiens OX=9606 GN=TUBA1C PE=1 SV=1,AYHEQLTVAEITNACFEPANQMVK Y2(Phospho), Y282,1.4396
+Q5VSY0,G kinase-anchoring protein 1 OS=Homo sapiens OX=9606 GN=GKAP1 PE=1 SV=2,LEYEEHKKEYEDAENTSTQSK Y10(Phospho), Y148,1.439
+Q9UKY7,Protein CDV3 homolog OS=Homo sapiens OX=9606 GN=CDV3 PE=1 SV=1,KTPQGPPEIYSDTQFPSLQSTAK S11(Phospho), S191,1.4388
+O14639,Actin-binding LIM protein 1 OS=Homo sapiens OX=9606 GN=ABLIM1 PE=1 SV=3,AIYDIERPDLITYEPFYTSGYDDKQER Y13(Phospho), Y406,1.4374
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,EADSSSDYVNMDFTKRESNTPAPSTQGLPDSWGIIAEPR Y8(Phospho) S18(Phospho), Y921 S931,1.4358
+Q05682,Caldesmon OS=Homo sapiens OX=9606 GN=CALD1 PE=1 SV=3,QERYEIEETETVTK Y4(Phospho), Y160,1.4351
+P24666,Low molecular weight phosphotyrosine protein phosphatase OS=Homo sapiens OX=9606 GN=ACP1 PE=1 SV=3,QLIIEDPYYGNDSDFETVYQQCVR Y9(Phospho), Y133,1.435
+Q9HB71,Calcyclin-binding protein OS=Homo sapiens OX=9606 GN=CACYBP PE=1 SV=2,IYEDGDDDMKR Y2(Phospho), Y199,1.4346
+P46109,Crk-like protein OS=Homo sapiens OX=9606 GN=CRKL PE=1 SV=1,TLYDFPGNDAEDLPFK Y3(Phospho), Y132,1.4327
+Q96I24,Far upstream element-binding protein 3 OS=Homo sapiens OX=9606 GN=FUBP3 PE=1 SV=2,IDSIPHLNNSTPLVDPSVYGYGVQK Y19(Phospho), Y51,1.4316
+P11274,Breakpoint cluster region protein OS=Homo sapiens OX=9606 GN=BCR PE=1 SV=2,GRSSESSCGVDGDYEDAELNPR S4(Phospho) Y14(Phospho), S236 Y246,1.4313
+P62258,14-3-3 protein epsilon OS=Homo sapiens OX=9606 GN=YWHAE PE=1 SV=1,AAFDDAIAELDTLSEESYKDSTLIMQLLR T12(Phospho), T208,1.4282
+Q13596,Sorting nexin-1 OS=Homo sapiens OX=9606 GN=SNX1 PE=1 SV=3,IGDGMNAYVAYK Y8(Phospho), Y162,1.4277
+Q99707,Methionine synthase OS=Homo sapiens OX=9606 GN=MTR PE=1 SV=2,VLNGTVEEEDPYQGTIVLATVK Y12(Phospho), Y771,1.4272
+Q9UJF2,Ras GTPase-activating protein nGAP OS=Homo sapiens OX=9606 GN=RASAL2 PE=1 SV=2,SPSQDNTDSYFR Y10(Phospho), Y672,1.4263
+O95817,BAG family molecular chaperone regulator 3 OS=Homo sapiens OX=9606 GN=BAG3 PE=1 SV=3,AIDVPGQVQVYELQPSNLEADQPLQAIMEMGAVAADK Y11(Phospho), Y508,1.4249
+Q16644,MAP kinase-activated protein kinase 3 OS=Homo sapiens OX=9606 GN=MAPKAPK3 PE=1 SV=1,ETTQNALQTPCYTPYYVAPEVLGPEK Y15(Phospho), Y207,1.4245
+Q96EK7,Constitutive coactivator of peroxisome proliferator-activated receptor gamma OS=Homo sapiens OX=9606 GN=FAM120B PE=1 SV=1,REVPVYTDSEPR Y6(Phospho), Y368,1.4239
+Q9H4G0,Band 4.1-like protein 1 OS=Homo sapiens OX=9606 GN=EPB41L1 PE=1 SV=2,IRPGEYEQFESTIGFK Y6(Phospho), Y343,1.4235
+Q92615,La-related protein 4B OS=Homo sapiens OX=9606 GN=LARP4B PE=1 SV=3,IQNPSAYAK Y7(Phospho), Y470,1.4217
+Q5T0N5,Formin-binding protein 1-like OS=Homo sapiens OX=9606 GN=FNBP1L PE=1 SV=3,ESPEGSYTDDANQEVR T8(Phospho), T507,1.4213
+Q8TEP8,Centrosomal protein of 192 kDa OS=Homo sapiens OX=9606 GN=CEP192 PE=1 SV=2,ATSISTPSDSYSSVR S10(Phospho), S310,1.4201
+O75665,Oral-facial-digital syndrome 1 protein OS=Homo sapiens OX=9606 GN=OFD1 PE=1 SV=1,QTQTALENEVYCNPK Y11(Phospho), Y558,1.4184
+Q99497,Protein/nucleic acid deglycase DJ-1 OS=Homo sapiens OX=9606 GN=PARK7 PE=1 SV=2,EGPYDVVVLPGGNLGAQNLSESAAVK Y4(Phospho), Y67,1.4159
+Q9C0C2,182 kDa tankyrase-1-binding protein OS=Homo sapiens OX=9606 GN=TNKS1BP1 PE=1 SV=4,DSLGTYSSR S8(Phospho), S878,1.4149
+P23246,"Splicing factor, proline- and glutamine-rich OS=Homo sapiens OX=9606 GN=SFPQ PE=1 SV=2",DKLESEMEDAYHEHQANLLR Y11(Phospho), Y527,1.4146
+P51149,Ras-related protein Rab-7a OS=Homo sapiens OX=9606 GN=RAB7A PE=1 SV=1,NALKQETEVELYNEFPEPIK Y12(Phospho), Y183,1.4138
+Q96AC1,Fermitin family homolog 2 OS=Homo sapiens OX=9606 GN=FERMT2 PE=1 SV=1,KLDDQSEDEALELEGPLITPGSGSIYSSPGLYSK Y26(Phospho), Y179,1.4131
+P33240,Cleavage stimulation factor subunit 2 OS=Homo sapiens OX=9606 GN=CSTF2 PE=1 SV=1,SLGTGAPVIESPYGETISPEDAPESISK T16(Phospho), T118,1.4125
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,ESSPLYSPTFSDSTSAVK Y6(Phospho), Y1796,1.4122
+Q9UK97,F-box only protein 9 OS=Homo sapiens OX=9606 GN=FBXO9 PE=1 SV=1,AVEEEQNGALYEAIK Y11(Phospho), Y111,1.4092
+Q9UKY7,Protein CDV3 homolog OS=Homo sapiens OX=9606 GN=CDV3 PE=1 SV=1,KTPQGPPEIYSDTQFPSLQSTAK T13(Phospho), T193,1.4079
+Q05209,Tyrosine-protein phosphatase non-receptor type 12 OS=Homo sapiens OX=9606 GN=PTPN12 PE=1 SV=3,QLQLYEIHGAQK Y5(Phospho), Y301,1.4068
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,SPDEEDYDYESYEK Y7(Phospho), Y1887,1.4062
+Q15464,SH2 domain-containing adapter protein B OS=Homo sapiens OX=9606 GN=SHB PE=1 SV=2,ERDFEDPYNGPGSSLR Y8(Phospho), Y96,1.4061
+Q8WUF5,RelA-associated inhibitor OS=Homo sapiens OX=9606 GN=PPP1R13L PE=1 SV=4,TPLYLQPDAYGSLDR Y10(Phospho), Y132,1.4057
+O15067,Phosphoribosylformylglycinamidine synthase OS=Homo sapiens OX=9606 GN=PFAS PE=1 SV=4,ELSDPAGAIIYTSR T12(Phospho), T539,1.4044
+Q53SF7,Cordon-bleu protein-like 1 OS=Homo sapiens OX=9606 GN=COBLL1 PE=1 SV=2,STDGQEPHSVVYDTSNGKK Y12(Phospho), Y571,1.4043
+C9JLW8,Mapk-regulated corepressor-interacting protein 1 OS=Homo sapiens OX=9606 GN=MCRIP1 PE=1 SV=1,FIYEAWQGVER Y3(Phospho), Y41,1.4032
+Q9H788,SH2 domain-containing protein 4A OS=Homo sapiens OX=9606 GN=SH2D4A PE=1 SV=1,SQYHDLQAPDNQQTK Y3(Phospho), Y131,1.4009
+Q9UHB6,LIM domain and actin-binding protein 1 OS=Homo sapiens OX=9606 GN=LIMA1 PE=1 SV=1,QSSSTNYTNELK Y7(Phospho), Y287,1.4005
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,LLDDISNGYDDSEDGGHTLGDPSYSYETTEK Y24(Phospho), Y2006,1.4003
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,ALCADEYR Y7(Phospho), Y336,1.3994
+P16591,Tyrosine-protein kinase Fer OS=Homo sapiens OX=9606 GN=FER PE=1 SV=2,QEDGGVYSSSGLK Y7(Phospho), Y714,1.3979
+Q9H792,Inactive tyrosine-protein kinase PEAK1 OS=Homo sapiens OX=9606 GN=PEAK1 PE=1 SV=4,EIEPNYESPSSNNQDKDSSQASK Y6(Phospho), Y387,1.3974
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,GPVSGTEPEPVYSMEAADYR T6(Phospho), T440,1.396
+O75122,CLIP-associating protein 2 OS=Homo sapiens OX=9606 GN=CLASP2 PE=1 SV=2,SRDYNPYNYSDSISPFNK S10(Phospho), S1025,1.395
+Q9UPQ9,Trinucleotide repeat-containing gene 6B protein OS=Homo sapiens OX=9606 GN=TNRC6B PE=1 SV=4,DMGTTDSGPYFEK Y10(Phospho), Y1134,1.391
+P53992,Protein transport protein Sec24C OS=Homo sapiens OX=9606 GN=SEC24C PE=1 SV=3,APPSSGAPPASTAQAPCGQAAYGQFGQGDVQNGPSSTVQMQR Y22(Phospho), Y83,1.3906
+Q9NXC5,GATOR complex protein MIOS OS=Homo sapiens OX=9606 GN=MIOS PE=1 SV=2,GFSQYGVSGSPTK Y5(Phospho), Y761,1.3902
+Q9H792,Inactive tyrosine-protein kinase PEAK1 OS=Homo sapiens OX=9606 GN=PEAK1 PE=1 SV=4,ASTDVAGQAVTINLVPTEEQAKPYR Y24(Phospho), Y462,1.388
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,DYEPPSPSPAPGAPPPPPQR Y2(Phospho), Y1692,1.3842
+Q9BRP8,Partner of Y14 and mago OS=Homo sapiens OX=9606 GN=PYM1 PE=1 SV=1,EGYVPQEEVPVYENK Y12(Phospho), Y45,1.3806
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,YQEAAPNVANNTGPHAASCFGAK Y1(Phospho), Y600,1.3802
+Q9UJV3,Probable E3 ubiquitin-protein ligase MID2 OS=Homo sapiens OX=9606 GN=MID2 PE=1 SV=3,QECNCRPQESPYVSGMK Y12(Phospho), Y727,1.3797
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,GLLPSQYGQEVYDTPPMAVK Y12(Phospho), Y267,1.3786
+Q9BY77,Polymerase delta-interacting protein 3 OS=Homo sapiens OX=9606 GN=POLDIP3 PE=1 SV=2,QNLYDLDEDDDGIASVPTK Y4(Phospho), Y182,1.3779
+Q9NXD2,Myotubularin-related protein 10 OS=Homo sapiens OX=9606 GN=MTMR10 PE=1 SV=3,SGPLEACYGELGQSR Y8(Phospho), Y708,1.3777
+Q70E73,Ras-associated and pleckstrin homology domains-containing protein 1 OS=Homo sapiens OX=9606 GN=RAPH1 PE=1 SV=3,RTESAYDWTSLSSSSIK Y6(Phospho), Y524,1.3775
+O43768,cAMP-regulated phosphoprotein 19 OS=Homo sapiens OX=9606 GN=ARPP19 PE=1 SV=2; Alpha-endosulfine OS=Homo sapiens OX=9606 GN=ENSA PE=1 SV=1,YFDSGDYNMAK Y7(Phospho), Y65,1.3748
+Q9UKY7,Protein CDV3 homolog OS=Homo sapiens OX=9606 GN=CDV3 PE=1 SV=1,TPQGPPEIYSDTQFPSLQSTAK Y9(Phospho), Y190,1.3745
+Q4VCS5,Angiomotin OS=Homo sapiens OX=9606 GN=AMOT PE=1 SV=1,AQPSSASYQPVPADPFAIVSR Y8(Phospho), Y420,1.3731
+Q13151,Heterogeneous nuclear ribonucleoprotein A0 OS=Homo sapiens OX=9606 GN=HNRNPA0 PE=1 SV=1,AVPKEDIYSGGGGGGSR Y8(Phospho), Y180,1.3705
+P51114,Fragile X mental retardation syndrome-related protein 1 OS=Homo sapiens OX=9606 GN=FXR1 PE=1 SV=3,RGPNYTSGYGTNSELSNPSETESER S13(Phospho), S403,1.37
+O00151,PDZ and LIM domain protein 1 OS=Homo sapiens OX=9606 GN=PDLIM1 PE=1 SV=4,VITNQYNNPAGLYSSENISNFNNALESK Y6(Phospho), Y144,1.3688
+Q07912,Activated CDC42 kinase 1 OS=Homo sapiens OX=9606 GN=TNK2 PE=1 SV=3,ALPQNDDHYVMQEHR Y9(Phospho), Y284,1.3688
+Q9UET6,Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase OS=Homo sapiens OX=9606 GN=FTSJ1 PE=1 SV=2,IIVPFVTCGDLSSYDSDR Y14(Phospho), Y244,1.3685
+Q9H6R7,WD repeat and coiled-coil-containing protein OS=Homo sapiens OX=9606 GN=WDCP PE=1 SV=1,EIMLEEEPSITSGESQTTYSTFSAPLNK Y19(Phospho), Y448,1.3673
+O95295,SNARE-associated protein Snapin OS=Homo sapiens OX=9606 GN=SNAPIN PE=1 SV=1,AMLDSGIYPPGSPGK Y8(Phospho) S12(Phospho), Y129 S133,1.3672
+P46109,Crk-like protein OS=Homo sapiens OX=9606 GN=CRKL PE=1 SV=1,RVPCAYDKTALALEVGDIVK Y6(Phospho), Y251,1.3666
+P37802,Transgelin-3 OS=Homo sapiens OX=9606 GN=TAGLN3 PE=1 SV=2; Transgelin-2 OS=Homo sapiens OX=9606 GN=TAGLN2 PE=1 SV=3,GASQAGMTGYGMPR Y10(Phospho), Y192,1.3662
+Q16539,Mitogen-activated protein kinase 14 OS=Homo sapiens OX=9606 GN=MAPK14 PE=1 SV=3,HTDDEMTGYVATR Y9(Phospho), Y182,1.3634
+O95721,Synaptosomal-associated protein 29 OS=Homo sapiens OX=9606 GN=SNAP29 PE=1 SV=1,GAGSAMSTDAYPKNPHLR Y11(Phospho), Y189,1.3623
+O75122,CLIP-associating protein 2 OS=Homo sapiens OX=9606 GN=CLASP2 PE=1 SV=2,SRDYNPYNYSDSISPFNK Y7(Phospho) S14(Phospho), Y1022 S1029,1.3612
+Q4VCS5,Angiomotin OS=Homo sapiens OX=9606 GN=AMOT PE=1 SV=1,MQNNEELPTYEEAKVQSQYFR Y10(Phospho), Y109,1.361
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,YQINNISTVPK Y1(Phospho), Y1602,1.3592
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,IAPCPSQDSLYSDPLDSTSAQAGEGVQR S12(Phospho), S316,1.359
+Q8TF74,WAS/WASL-interacting protein family member 2 OS=Homo sapiens OX=9606 GN=WIPF2 PE=1 SV=1,DAPPPPPPYR Y9(Phospho), Y346,1.3587
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,NGNGGPGPYVGQAGTATLPR Y9(Phospho), Y193,1.3584
+Q8TEQ0,Sorting nexin-29 OS=Homo sapiens OX=9606 GN=SNX29 PE=1 SV=3; Putative protein SNX29P2 OS=Homo sapiens OX=9606 GN=SNX29P2 PE=5 SV=2,SIDDEDVDENEDDVYGNSSGR Y15(Phospho), Y358,1.3546
+Q68D51,DENN domain-containing protein 2C OS=Homo sapiens OX=9606 GN=DENND2C PE=1 SV=2,SLENIYSEPEGQECGPSINPLPKPR Y6(Phospho), Y195,1.3533
+Q93052,Lipoma-preferred partner OS=Homo sapiens OX=9606 GN=LPP PE=1 SV=1,NDSDPTYGQQGHPNTWK T6(Phospho), T316,1.3524
+Q9NZZ3,Charged multivesicular body protein 5 OS=Homo sapiens OX=9606 GN=CHMP5 PE=1 SV=1,DNLAQQSFNMEQANYTIQSLK Y15(Phospho), Y94,1.3522
+Q9BWF3,RNA-binding protein 4 OS=Homo sapiens OX=9606 GN=RBM4 PE=1 SV=1,VADLTEQYNEQYGAVR Y12(Phospho), Y194,1.3512
+Q96EP9,Sodium/bile acid cotransporter 4 OS=Homo sapiens OX=9606 GN=SLC10A4 PE=1 SV=2,LKEEEMADTSYGTVK Y11(Phospho), Y419,1.35
+Q4VCS5,Angiomotin OS=Homo sapiens OX=9606 GN=AMOT PE=1 SV=1,NPTSSSEFYK Y9(Phospho), Y218,1.349
+P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4,LVSSPCCIVTSTYGWTANMER S11(Phospho), S594,1.3489
+Q9P2M7,Cingulin OS=Homo sapiens OX=9606 GN=CGN PE=1 SV=2,GANDQGASGALSSDLELPENPYSQVK Y22(Phospho), Y99,1.3479
+P27361,Mitogen-activated protein kinase 3 OS=Homo sapiens OX=9606 GN=MAPK3 PE=1 SV=4,IADPEHDHTGFLTEYVATR T18(Phospho), T207,1.3464
+Q15052,Rho guanine nucleotide exchange factor 6 OS=Homo sapiens OX=9606 GN=ARHGEF6 PE=1 SV=2,QTNEDELSVCKGDIIYVTR T18(Phospho), T190,1.3464
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TPEEGGYSYDISEK Y9(Phospho), Y1957,1.3449
+Q8TCG2,Phosphatidylinositol 4-kinase type 2-beta OS=Homo sapiens OX=9606 GN=PI4K2B PE=1 SV=1,SEEPYGQLNPK Y5(Phospho), Y155,1.344
+O94979,Protein transport protein Sec31A OS=Homo sapiens OX=9606 GN=SEC31A PE=1 SV=3,AQGEPVAGHESPKIPYEK S11(Phospho) Y16(Phospho), S799 Y804,1.3434
+Q13561,Dynactin subunit 2 OS=Homo sapiens OX=9606 GN=DCTN2 PE=1 SV=4,YADLPGIAR Y1(Phospho), Y6,1.3431
+Q04637,Eukaryotic translation initiation factor 4 gamma 1 OS=Homo sapiens OX=9606 GN=EIF4G1 PE=1 SV=4,IHNAENIQPGEQKYEYK Y14(Phospho), Y594,1.3415
+O60292,Signal-induced proliferation-associated 1-like protein 3 OS=Homo sapiens OX=9606 GN=SIPA1L3 PE=1 SV=3,RPVSFPETPYTVSPAGADR Y10(Phospho), Y1141,1.34
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,SYEQVPPQGFTSR S1(Phospho), S1198,1.3376
+Q01433,AMP deaminase 2 OS=Homo sapiens OX=9606 GN=AMPD2 PE=1 SV=2,SAPYEFPEESPIEQLEER S1(Phospho), S142,1.3372
+Q9H792,Inactive tyrosine-protein kinase PEAK1 OS=Homo sapiens OX=9606 GN=PEAK1 PE=1 SV=4,ASTDVAGQAVTINLVPTEEQAKPYR T11(Phospho), T449,1.3355
+P25054,Adenomatous polyposis coli protein OS=Homo sapiens OX=9606 GN=APC PE=1 SV=2,FQPHFGQQECVSPYR Y14(Phospho), Y1102,1.3346
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TSDVGGYYYEK Y9(Phospho), Y1906,1.3327
+P24666,Low molecular weight phosphotyrosine protein phosphatase OS=Homo sapiens OX=9606 GN=ACP1 PE=1 SV=3,QLIIEDPYYGNDSDFETVYQQCVR S13(Phospho), S137,1.3313
+Q9NSK0,Kinesin light chain 4 OS=Homo sapiens OX=9606 GN=KLC4 PE=1 SV=3,HHEGGTPYAEYGGWYK Y11(Phospho), Y449,1.3308
+P23921,Ribonucleoside-diphosphate reductase large subunit OS=Homo sapiens OX=9606 GN=RRM1 PE=1 SV=1,EQGPYETYEGSPVSK Y5(Phospho), Y553,1.3288
+Q9Y314,Nitric oxide synthase-interacting protein OS=Homo sapiens OX=9606 GN=NOSIP PE=1 SV=1,NCTAGAVYTYHEK T9(Phospho), T15,1.3285
+Q14587,Zinc finger protein 268 OS=Homo sapiens OX=9606 GN=ZNF268 PE=1 SV=2; Zinc finger protein 3 OS=Homo sapiens OX=9606 GN=ZNF3 PE=1 SV=3,IHTGENPYECSECGK Y8(Phospho), Y752,1.3282
+Q68CZ2,Tensin-3 OS=Homo sapiens OX=9606 GN=TNS3 PE=1 SV=2,ESMCSTPAFPVSPETPYVK Y17(Phospho), Y855,1.3277
+P33240,Cleavage stimulation factor subunit 2 OS=Homo sapiens OX=9606 GN=CSTF2 PE=1 SV=1,SLGTGAPVIESPYGETISPEDAPESISK S18(Phospho), S120,1.3261
+Q99966,Cbp/p300-interacting transactivator 1 OS=Homo sapiens OX=9606 GN=CITED1 PE=1 SV=2,GGTSPAKEDANQEMSSVAYSNLAVK Y19(Phospho), Y31,1.3249
+Q15154,Pericentriolar material 1 protein OS=Homo sapiens OX=9606 GN=PCM1 PE=1 SV=5,QTQTSEVYDGPK Y8(Phospho), Y1757,1.3243
+P51116,Fragile X mental retardation syndrome-related protein 2 OS=Homo sapiens OX=9606 GN=FXR2 PE=1 SV=2,TGGPAYGPSSDVSTASETESEKR Y6(Phospho), Y443,1.3242
+O14828,Secretory carrier-associated membrane protein 3 OS=Homo sapiens OX=9606 GN=SCAMP3 PE=1 SV=3,QYATLDVYNPFETREPPPAYEPPAPAPLPPPSAPSLQPSR Y2(Phospho), Y35,1.323
+O00192,Armadillo repeat protein deleted in velo-cardio-facial syndrome OS=Homo sapiens OX=9606 GN=ARVCF PE=1 SV=1,SLAADDEGGPELEPDYGTATR T20(Phospho), T286,1.3227
+Q96AC1,Fermitin family homolog 2 OS=Homo sapiens OX=9606 GN=FERMT2 PE=1 SV=1,KKLDDQSEDEALELEGPLITPGSGSIYSSPGLYSK S28(Phospho), S180,1.3217
+Q9UDY2,Tight junction protein ZO-2 OS=Homo sapiens OX=9606 GN=TJP2 PE=1 SV=2,TFLRPSPEDEAIYGPNTK Y13(Phospho), Y506,1.3213
+Q15019,Septin-2 OS=Homo sapiens OX=9606 GN=SEPT2 PE=1 SV=1,QQPTQFINPETPGYVGFANLPNQVHR Y14(Phospho), Y17,1.3206
+Q16555,Dihydropyrimidinase-related protein 2 OS=Homo sapiens OX=9606 GN=DPYSL2 PE=1 SV=1,GLYDGPVCEVSVTPK Y3(Phospho), Y499,1.3205
+Q96JJ3,Engulfment and cell motility protein 2 OS=Homo sapiens OX=9606 GN=ELMO2 PE=1 SV=2,EPSSYDFVYHYG Y11(Phospho), Y719,1.3171
+Q8TF74,WAS/WASL-interacting protein family member 2 OS=Homo sapiens OX=9606 GN=WIPF2 PE=1 SV=1,GSSGGYGSGGAALQPK Y6(Phospho), Y74,1.3159
+Q9Y3S2,Zinc finger protein 330 OS=Homo sapiens OX=9606 GN=ZNF330 PE=1 SV=1,QTGGEEGDGASGYDAYWK Y16(Phospho), Y253,1.3156
+P22314,Ubiquitin-like modifier-activating enzyme 1 OS=Homo sapiens OX=9606 GN=UBA1 PE=1 SV=3,QLYVLGHEAMK Y3(Phospho), Y60,1.3154
+Q9UPQ9,Trinucleotide repeat-containing gene 6B protein OS=Homo sapiens OX=9606 GN=TNRC6B PE=1 SV=4,GIQNIDPESDPYVTPGSVLGGTATSPIVDTDHQLLR T14(Phospho), T1501,1.3154
+P60228,Eukaryotic translation initiation factor 3 subunit E OS=Homo sapiens OX=9606 GN=EIF3E PE=1 SV=1,SEAPNWATQDSGFY Y14(Phospho), Y445,1.3132
+Q9HCH0,Nck-associated protein 5-like OS=Homo sapiens OX=9606 GN=NCKAP5L PE=1 SV=2,SWREPKPEYGDFQPVSSDPK Y9(Phospho), Y1046,1.3118
+Q13459,Unconventional myosin-IXb OS=Homo sapiens OX=9606 GN=MYO9B PE=1 SV=3,LGFSSPYEGVLNK Y7(Phospho), Y1928,1.3112
+Q9UIQ6,Leucyl-cystinyl aminopeptidase OS=Homo sapiens OX=9606 GN=LNPEP PE=1 SV=3,GLGEHEMEEDEEDYESSAK Y14(Phospho), Y70,1.3109
+P14923,Junction plakoglobin OS=Homo sapiens OX=9606 GN=JUP PE=1 SV=3,HVAAGTQQPYTDGVR Y10(Phospho), Y550,1.3106
+P35221,Catenin alpha-1 OS=Homo sapiens OX=9606 GN=CTNNA1 PE=1 SV=1,NAGNEQDLGIQYK Y12(Phospho), Y177,1.3105
+Q14019,Coactosin-like protein OS=Homo sapiens OX=9606 GN=COTL1 PE=1 SV=3,AGGANYDAQTE T10(Phospho), T141,1.31
+Q06124,Tyrosine-protein phosphatase non-receptor type 11 OS=Homo sapiens OX=9606 GN=PTPN11 PE=1 SV=2,YSLADQTSGDQSPLPPCTPTPPCAEMR S2(Phospho), S552,1.3091
+P78318,Immunoglobulin-binding protein 1 OS=Homo sapiens OX=9606 GN=IGBP1 PE=1 SV=1,YGALPDQGIAK Y1(Phospho), Y277,1.3082
+Q96HC4,PDZ and LIM domain protein 5 OS=Homo sapiens OX=9606 GN=PDLIM5 PE=1 SV=5,VTSTNNMAYNK Y9(Phospho), Y125,1.3082
+O00459,Phosphatidylinositol 3-kinase regulatory subunit beta OS=Homo sapiens OX=9606 GN=PIK3R2 PE=1 SV=2,SREYDQLYEEYTR Y8(Phospho), Y464,1.3077
+Q9Y230,RuvB-like 2 OS=Homo sapiens OX=9606 GN=RUVBL2 PE=1 SV=3,ARDYDAMGSQTK Y4(Phospho), Y215,1.3068
+O43164,E3 ubiquitin-protein ligase Praja-2 OS=Homo sapiens OX=9606 GN=PJA2 PE=1 SV=4,AGDDYEVLELDDVPKENSSGSSPLDQVDSSLPSEPIFEK Y5(Phospho), Y63,1.3063
+P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4,LVSSPCCIVTSTYGWTANMER S4(Phospho), S587,1.3061
+Q9C0H9,SRC kinase signaling inhibitor 1 OS=Homo sapiens OX=9606 GN=SRCIN1 PE=1 SV=4,GEGLYADPYGLLHEGR Y9(Phospho), Y400,1.3061
+Q96QZ7,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1 OS=Homo sapiens OX=9606 GN=MAGI1 PE=1 SV=3",IEDPVYGIYYVDHINRK Y6(Phospho), Y373,1.3059
+Q96QD8,Sodium-coupled neutral amino acid transporter 2 OS=Homo sapiens OX=9606 GN=SLC38A2 PE=1 SV=2,SHYADVDPENQNFLLESNLGKK Y3(Phospho), Y41,1.3059
+Q16513,Serine/threonine-protein kinase N2 OS=Homo sapiens OX=9606 GN=PKN2 PE=1 SV=1,SQSEYKPDTPQSGLEYSGIQELEDR Y16(Phospho), Y635,1.3052
+Q14444,Caprin-1 OS=Homo sapiens OX=9606 GN=CAPRIN1 PE=1 SV=2,DGYQQNFK Y3(Phospho), Y670,1.3039
+P24666,Low molecular weight phosphotyrosine protein phosphatase OS=Homo sapiens OX=9606 GN=ACP1 PE=1 SV=3,QLIIEDPYYGNDSDFETVYQQCVR Y8(Phospho), Y132,1.3025
+Q9Y520,Protein PRRC2C OS=Homo sapiens OX=9606 GN=PRRC2C PE=1 SV=4,LPSAQTPNGTDYVASGK Y12(Phospho), Y1971,1.301
+P23246,"Splicing factor, proline- and glutamine-rich OS=Homo sapiens OX=9606 GN=SFPQ PE=1 SV=2",MGGGGAMNMGDPYGSGGQK Y13(Phospho), Y624,1.3008
+Q8WXD9,Caskin-1 OS=Homo sapiens OX=9606 GN=CASKIN1 PE=1 SV=1,DYCNNYDLTSLNVK Y6(Phospho), Y296,1.3004
+Q5EBL8,PDZ domain-containing protein 11 OS=Homo sapiens OX=9606 GN=PDZD11 PE=1 SV=2,IPYDDYPVVFLPAYENPPAWIPPHER Y3(Phospho), Y7,1.2995
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,SSPLGQNDNSEYVPMLPGK Y12(Phospho), Y828,1.2979
+Q92945,Far upstream element-binding protein 2 OS=Homo sapiens OX=9606 GN=KHSRP PE=1 SV=4,DQGGFGDRNEYGSR Y11(Phospho), Y317,1.2969
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,STTNYVDFYSTK Y9(Phospho), Y1172,1.2963
+Q99966,Cbp/p300-interacting transactivator 1 OS=Homo sapiens OX=9606 GN=CITED1 PE=1 SV=2,GGTSPAKEDANQEMSSVAYSNLAVK S4(Phospho) Y19(Phospho), S16 Y31,1.2961
+Q9Y2I1,Nischarin OS=Homo sapiens OX=9606 GN=NISCH PE=1 SV=3,TPSPEPVDKDFYSEFGNK Y12(Phospho), Y1293,1.296
+Q8N6H7,ADP-ribosylation factor GTPase-activating protein 2 OS=Homo sapiens OX=9606 GN=ARFGAP2 PE=1 SV=1,EVDAEYEAR Y6(Phospho), Y445,1.2945
+Q9C026,E3 ubiquitin-protein ligase TRIM9 OS=Homo sapiens OX=9606 GN=TRIM9 PE=1 SV=1,AAGSGVSDYDYLDLDK Y9(Phospho), Y60,1.2939
+P11171,Protein 4.1 OS=Homo sapiens OX=9606 GN=EPB41 PE=1 SV=4,LDGENIYIR Y7(Phospho), Y660,1.2936
+Q00537,Cyclin-dependent kinase 17 OS=Homo sapiens OX=9606 GN=CDK17 PE=1 SV=2; Cyclin-dependent kinase 16 OS=Homo sapiens OX=9606 GN=CDK16 PE=1 SV=1,LGEGTYATVYK Y6(Phospho), Y203,1.2932
+O94885,SAM and SH3 domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SASH1 PE=1 SV=3,DSGCYESSENLENGK Y5(Phospho), Y728,1.2928
+O14828,Secretory carrier-associated membrane protein 3 OS=Homo sapiens OX=9606 GN=SCAMP3 PE=1 SV=3,QYATLDVYNPFETR Y8(Phospho), Y41,1.2925
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,EADSSSDYVNMDFTKRESNTPAPSTQGLPDSWGIIAEPR Y8(Phospho) T20(Phospho), Y921 T933,1.2908
+Q9Y4J8,Dystrobrevin alpha OS=Homo sapiens OX=9606 GN=DTNA PE=1 SV=2,GDMVTEDADPYVQPEDENYENDSVR Y11(Phospho), Y702,1.2907
+Q8WX93,Palladin OS=Homo sapiens OX=9606 GN=PALLD PE=1 SV=3,LISEIEYR Y7(Phospho), Y974,1.2899
+P29353,SHC-transforming protein 1 OS=Homo sapiens OX=9606 GN=SHC1 PE=1 SV=4,MAGFDGSAWDEEEEEPPDHQYYNDFPGKEPPLGGVVDMR Y21(Phospho), Y349,1.2888
+Q9BTC0,Death-inducer obliterator 1 OS=Homo sapiens OX=9606 GN=DIDO1 PE=1 SV=5,ALGSAQYEDPR Y7(Phospho), Y1700,1.2882
+Q96F86,Enhancer of mRNA-decapping protein 3 OS=Homo sapiens OX=9606 GN=EDC3 PE=1 SV=1,AAVFEEIDTYERR Y10(Phospho), Y225,1.2879
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TTRTPDTSTYCYETAEK T9(Phospho) Y12(Phospho), T2039 Y2042,1.2879
+P67809,Nuclease-sensitive element-binding protein 1 OS=Homo sapiens OX=9606 GN=YBX1 PE=1 SV=3,RPQYSNPPVQGEVMEGADNQGAGEQGRPVR S5(Phospho), S209,1.2877
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,YESSSYTDQFSR Y1(Phospho), Y1061,1.2873
+Q14694,Ubiquitin carboxyl-terminal hydrolase 10 OS=Homo sapiens OX=9606 GN=USP10 PE=1 SV=2,EASYGSIDCQYPGSALALDGSSNVEAEVLENDGVSGGLGQR Y4(Phospho), Y110,1.2872
+Q9NXV2,BTB/POZ domain-containing protein KCTD5 OS=Homo sapiens OX=9606 GN=KCTD5 PE=1 SV=1,ELHNTPYGTASEPSEK Y7(Phospho), Y214,1.2832
+Q9Y520,Protein PRRC2C OS=Homo sapiens OX=9606 GN=PRRC2C PE=1 SV=4,MNSIVYQK Y6(Phospho), Y2707,1.283
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,GLLPSQYGQEVYDTPPMAVK T14(Phospho), T269,1.2829
+P04626,Receptor tyrosine-protein kinase erbB-2 OS=Homo sapiens OX=9606 GN=ERBB2 PE=1 SV=1,LLDIDETEYHADGGKVPIK Y9(Phospho), Y877,1.2828
+Q9UDY2,Tight junction protein ZO-2 OS=Homo sapiens OX=9606 GN=TJP2 PE=1 SV=2,SYEYKSNPSAVAGNETPGASTK Y2(Phospho), Y1013,1.281
+Q9BSA4,Protein tweety homolog 2 OS=Homo sapiens OX=9606 GN=TTYH2 PE=1 SV=3,ATYLSVADEHLR Y3(Phospho), Y517,1.281
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,AGPLAGGVTTFVALYDYESR Y15(Phospho), Y93,1.28
+Q9H792,Inactive tyrosine-protein kinase PEAK1 OS=Homo sapiens OX=9606 GN=PEAK1 PE=1 SV=4,EDGKEDISDPMDPNPCSATYSNLGQSR T19(Phospho), T1106,1.2797
+O75420,GRB10-interacting GYF protein 1 OS=Homo sapiens OX=9606 GN=GIGYF1 PE=1 SV=2,EVESPYDVHDYIR Y6(Phospho), Y935,1.2791
+Q9BRS2,Serine/threonine-protein kinase RIO1 OS=Homo sapiens OX=9606 GN=RIOK1 PE=1 SV=2,LKEEDMAMNAQQDNILYQTVTGLK Y17(Phospho), Y466,1.279
+Q06124,Tyrosine-protein phosphatase non-receptor type 11 OS=Homo sapiens OX=9606 GN=PTPN11 PE=1 SV=2,VYENVGLMQQQK Y2(Phospho), Y584,1.2773
+O95391,Pre-mRNA-splicing factor SLU7 OS=Homo sapiens OX=9606 GN=SLU7 PE=1 SV=2,ENPYANAGKNPDEVSYAGDNFVR Y4(Phospho), Y297,1.2763
+P61978,Heterogeneous nuclear ribonucleoprotein K OS=Homo sapiens OX=9606 GN=HNRNPK PE=1 SV=1,GSYGDLGGPIITTQVTIPK Y3(Phospho), Y380,1.2761
+Q15019,Septin-2 OS=Homo sapiens OX=9606 GN=SEPT2 PE=1 SV=1,QQPTQFINPETPGYVGFANLPNQVHR T11(Phospho), T14,1.2756
+P40222,Alpha-taxilin OS=Homo sapiens OX=9606 GN=TXLNA PE=1 SV=3,QLEDILSTYCVDNNQGGPGEDGAQGEPAEPEDAEK Y9(Phospho), Y86,1.2753
+Q9UNS2,COP9 signalosome complex subunit 3 OS=Homo sapiens OX=9606 GN=COPS3 PE=1 SV=3,SMGSQEDDSGNKPSSYS S17(Phospho), S423,1.2748
+P35658,Nuclear pore complex protein Nup214 OS=Homo sapiens OX=9606 GN=NUP214 PE=1 SV=2,YYEDLDEVSSTSSVSQSLESEDAR Y2(Phospho), Y978,1.2744
+Q8N3R9,MAGUK p55 subfamily member 5 OS=Homo sapiens OX=9606 GN=MPP5 PE=1 SV=3,VAEQEMQLEPITDERVYESIGQYGGETVK S19(Phospho), S245,1.2735
+P09651,Heterogeneous nuclear ribonucleoprotein A1 OS=Homo sapiens OX=9606 GN=HNRNPA1 PE=1 SV=5,SSGPYGGGGQYFAKPR Y5(Phospho), Y341,1.2726
+Q14204,Cytoplasmic dynein 1 heavy chain 1 OS=Homo sapiens OX=9606 GN=DYNC1H1 PE=1 SV=5,YQVGVHYELTEEEKFYR Y7(Phospho), Y1010,1.2712
+O75116,Rho-associated protein kinase 2 OS=Homo sapiens OX=9606 GN=ROCK2 PE=1 SV=4,NKIYESIEEAK Y4(Phospho), Y722,1.2697
+P11274,Breakpoint cluster region protein OS=Homo sapiens OX=9606 GN=BCR PE=1 SV=2,DNLIDANGGSRPPWPPLEYQPYQSIYVGGMMEGEGK Y22(Phospho), Y279,1.2687
+Q9NZB2,Putative uncharacterized protein C9orf129 OS=Homo sapiens OX=9606 GN=C9orf129 PE=4 SV=1; Constitutive coactivator of PPAR-gamma-like protein 1 OS=Homo sapiens OX=9606 GN=FAM120A PE=1 SV=2,NLTEQNSYSNIPHEGK Y8(Phospho), Y67,1.268
+Q86V48,Leucine zipper protein 1 OS=Homo sapiens OX=9606 GN=LUZP1 PE=1 SV=2,NVESTNSNAYTQR T11(Phospho), T953,1.2678
+P22234,Multifunctional protein ADE2 OS=Homo sapiens OX=9606 GN=PAICS PE=1 SV=3,TKEVYELLDSPGK Y5(Phospho), Y22,1.2672
+P61978,Heterogeneous nuclear ribonucleoprotein K OS=Homo sapiens OX=9606 GN=HNRNPK PE=1 SV=1,GSYGDLGGPIITTQVTIPK S2(Phospho), S379,1.2671
+O75886,Signal transducing adapter molecule 2 OS=Homo sapiens OX=9606 GN=STAM2 PE=1 SV=1,LVNEAPVYSVYSK Y11(Phospho), Y374,1.2662
+P50402,Emerin OS=Homo sapiens OX=9606 GN=EMD PE=1 SV=1,GYNDDYYEESYFTTR Y7(Phospho), Y95,1.2658
+P33552,Cyclin-dependent kinases regulatory subunit 2 OS=Homo sapiens OX=9606 GN=CKS2 PE=1 SV=1,QIYYSDKYFDEHYEYR Y3(Phospho), Y7,1.265
+P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4; Putative heat shock protein HSP 90-beta-3 OS=Homo sapiens OX=9606 GN=HSP90AB3P PE=5 SV=1,DNSTMGYMMAK Y7(Phospho), Y619,1.2647
+Q8WWM7,Ataxin-2-like protein OS=Homo sapiens OX=9606 GN=ATXN2L PE=1 SV=2,TTYDSSLSSYTVPLEKDNSEEFR Y3(Phospho), Y270,1.264
+O15357,"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2 OS=Homo sapiens OX=9606 GN=INPPL1 PE=1 SV=2",TLSEVDYAPAGPAR Y7(Phospho), Y1135,1.2633
+Q9UPQ9,Trinucleotide repeat-containing gene 6B protein OS=Homo sapiens OX=9606 GN=TNRC6B PE=1 SV=4,GGSPYNQFDIIPGDTLGGHTGPAGDSWLPAK Y5(Phospho), Y1434,1.263
+P43405,Tyrosine-protein kinase SYK OS=Homo sapiens OX=9606 GN=SYK PE=1 SV=1,EALPMDTEVYESPYADPEEIRPK Y14(Phospho), Y352,1.2606
+P29353,SHC-transforming protein 1 OS=Homo sapiens OX=9606 GN=SHC1 PE=1 SV=4,MAGFDGSAWDEEEEEPPDHQYYNDFPGKEPPLGGVVDMR Y22(Phospho), Y350,1.2605
+Q6F5E8,"Capping protein, Arp2/3 and myosin-I linker protein 2 OS=Homo sapiens OX=9606 GN=CARMIL2 PE=1 SV=2",AYSMILLPAEEEATLGARPDK Y2(Phospho), Y1175,1.26
+P35221,Catenin alpha-1 OS=Homo sapiens OX=9606 GN=CTNNA1 PE=1 SV=1,QLQQAVTGISNAAQATASDDASQHQGGGGGELAYALNNFDK Y34(Phospho), Y280,1.2599
+Q5T0N5,Formin-binding protein 1-like OS=Homo sapiens OX=9606 GN=FNBP1L PE=1 SV=3,SGFEPPGDFPFEDYSQHIYR Y19(Phospho), Y291,1.2592
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,FHPEPYGLEDDQR Y6(Phospho), Y280,1.2585
+Q9UPQ9,Trinucleotide repeat-containing gene 6B protein OS=Homo sapiens OX=9606 GN=TNRC6B PE=1 SV=4,GIQNIDPESDPYVTPGSVLGGTATSPIVDTDHQLLR Y12(Phospho), Y1499,1.2585
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,GPVSGTEPEPVYSMEAADYR S13(Phospho), S447,1.2582
+Q96BY7,Autophagy-related protein 2 homolog B OS=Homo sapiens OX=9606 GN=ATG2B PE=1 SV=5,EGITDTAQTIYETAAR Y11(Phospho), Y2012,1.2575
+O43301,Heat shock 70 kDa protein 12A OS=Homo sapiens OX=9606 GN=HSPA12A PE=1 SV=2,ETAPTSAYSSPAR Y8(Phospho), Y21,1.2557
+Q9UL54,Serine/threonine-protein kinase TAO2 OS=Homo sapiens OX=9606 GN=TAOK2 PE=1 SV=2,LPGSDNLYDDPYQPEITPSPLQPPAAPAPTSTTSSAR Y12(Phospho), Y430,1.2532
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,GYRMPCPPECPESLHDLMCQCWR Y2(Phospho), Y482,1.251
+Q68D51,DENN domain-containing protein 2C OS=Homo sapiens OX=9606 GN=DENND2C PE=1 SV=2,SLENIYSEPEGQECGPSINPLPKPR S7(Phospho), S196,1.2505
+P07900,Heat shock protein HSP 90-alpha OS=Homo sapiens OX=9606 GN=HSP90AA1 PE=1 SV=5,LVTSPCCIVTSTYGWTANMER Y13(Phospho), Y604,1.2487
+P98172,Ephrin-B1 OS=Homo sapiens OX=9606 GN=EFNB1 PE=1 SV=1,TTENNYCPHYEK Y10(Phospho), Y317,1.248
+Q5JSZ5,Protein PRRC2B OS=Homo sapiens OX=9606 GN=PRRC2B PE=1 SV=2,QQQQQQQEQLYK Y11(Phospho), Y641,1.2472
+P62136,Serine/threonine-protein phosphatase PP1-alpha catalytic subunit OS=Homo sapiens OX=9606 GN=PPP1CA PE=1 SV=1,YGQFSGLNPGGRPITPPR Y1(Phospho), Y306,1.246
+Q71RC2,La-related protein 4 OS=Homo sapiens OX=9606 GN=LARP4 PE=1 SV=3,ETSTLQVEQNGDYGR Y13(Phospho), Y441,1.2452
+P48634,Protein PRRC2A OS=Homo sapiens OX=9606 GN=PRRC2A PE=1 SV=3,SEGSEYEEIPKR Y6(Phospho), Y1094,1.2445
+Q8TEW0,Partitioning defective 3 homolog OS=Homo sapiens OX=9606 GN=PARD3 PE=1 SV=2,EGHMMDALYAQVK Y9(Phospho), Y1127,1.2444
+Q02952,A-kinase anchor protein 12 OS=Homo sapiens OX=9606 GN=AKAP12 PE=1 SV=4,TEGTQEADQYADEKTK Y10(Phospho), Y1270,1.2444
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,SYEDMIGEEVPSDQYYWAPLAQHER S12(Phospho), S331,1.2443
+Q6ZV73,"FYVE, RhoGEF and PH domain-containing protein 6 OS=Homo sapiens OX=9606 GN=FGD6 PE=1 SV=2",ESSSQAPYK Y8(Phospho), Y737,1.2437
+Q15942,Zyxin OS=Homo sapiens OX=9606 GN=ZYX PE=1 SV=1,LGHPEALSAGTGSPQPPSFTYAQQR Y21(Phospho), Y316,1.2437
+Q4VCS5,Angiomotin OS=Homo sapiens OX=9606 GN=AMOT PE=1 SV=1,NLRQELEGCYEK Y10(Phospho), Y456,1.2432
+Q05655,Protein kinase C delta type OS=Homo sapiens OX=9606 GN=PRKCD PE=1 SV=2,RSDSASSEPVGIYQGFEK S4(Phospho) Y13(Phospho), S304 Y313,1.2431
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,FEEPAPLSYDSRPR Y9(Phospho), Y1140,1.2425
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TTKSPSDSGYSYETIGK S4(Phospho) Y10(Phospho), S1915 Y1921,1.2423
+O43491,Band 4.1-like protein 2 OS=Homo sapiens OX=9606 GN=EPB41L2 PE=1 SV=1,SYTLVVAK T3(Phospho), T89,1.2421
+P67809,Nuclease-sensitive element-binding protein 1 OS=Homo sapiens OX=9606 GN=YBX1 PE=1 SV=3,NYQQNYQNSESGEKNEGSESAPEGQAQQR Y2(Phospho), Y158,1.2417
+Q16539,Mitogen-activated protein kinase 14 OS=Homo sapiens OX=9606 GN=MAPK14 PE=1 SV=3,HTDDEMTGYVATR T7(Phospho), T180,1.2412
+O60784,Target of Myb protein 1 OS=Homo sapiens OX=9606 GN=TOM1 PE=1 SV=2,SSPDLTGVVTIYEDLRR T10(Phospho), T139,1.2408
+Q6F5E8,"Capping protein, Arp2/3 and myosin-I linker protein 2 OS=Homo sapiens OX=9606 GN=CARMIL2 PE=1 SV=2",AYSMILLPAEEEATLGARPDK S3(Phospho), S1176,1.2407
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,SYEQVPPQGFTSR Y2(Phospho), Y1199,1.2406
+Q8TD19,Serine/threonine-protein kinase Nek9 OS=Homo sapiens OX=9606 GN=NEK9 PE=1 SV=2,ELENAEFIPMPDSPSPLSAAFSESEKDTLPYEELQGLK Y31(Phospho), Y845,1.2396
+P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4,LVSSPCCIVTSTYGWTANMER T12(Phospho), T595,1.2383
+Q00587,Cdc42 effector protein 1 OS=Homo sapiens OX=9606 GN=CDC42EP1 PE=1 SV=1,NAISLPQLNQAAYDSLVVGK Y13(Phospho), Y130,1.2375
+P42771,Cyclin-dependent kinase inhibitor 2A OS=Homo sapiens OX=9606 GN=CDKN2A PE=1 SV=2,ALLEAGALPNAPNSYGR Y15(Phospho), Y44,1.2367
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,TQTPPVSPAPQPTEERLPSSPVYEDAASFK S19(Phospho) S20(Phospho) Y23(Phospho), S417 S418 Y421,1.2365
+Q9BZI7,Regulator of nonsense transcripts 3B OS=Homo sapiens OX=9606 GN=UPF3B PE=1 SV=1,EQLQEHLQPMPEHDYFEFFSNDTSLYPHMYAR Y15(Phospho), Y79,1.2354
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,SSYASQHSQLGQDLR Y3(Phospho), Y390,1.2344
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,SPGTWTIYFEGADYESHLLR Y14(Phospho), Y986,1.234
+Q9BVA0,Katanin p80 WD40 repeat-containing subunit B1 OS=Homo sapiens OX=9606 GN=KATNB1 PE=1 SV=1,AEIQNAEDYNEIFQPK Y9(Phospho), Y382,1.233
+Q86YV5,Tyrosine-protein kinase PRAG1 OS=Homo sapiens OX=9606 GN=PRAG1 PE=1 SV=4,QEDAPVVYLGSFR Y8(Phospho), Y132,1.2297
+Q05655,Protein kinase C delta type OS=Homo sapiens OX=9606 GN=PRKCD PE=1 SV=2,DYSNFDQEFLNEK S3(Phospho), S631,1.2297
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,SMGYDDLDYGMMSDYGTAR T17(Phospho), T304,1.2287
+Q8WXE0,Caskin-2 OS=Homo sapiens OX=9606 GN=CASKIN2 PE=1 SV=2,TPQPPAEEPPHPLTYSQLPR Y15(Phospho), Y384,1.2285
+Q6IAA8,Ragulator complex protein LAMTOR1 OS=Homo sapiens OX=9606 GN=LAMTOR1 PE=1 SV=2,ALNGAEPNYHSLPSAR Y9(Phospho), Y40,1.2283
+O15357,"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2 OS=Homo sapiens OX=9606 GN=INPPL1 PE=1 SV=2",NSFNNPAYYVLEGVPHQLLPPEPPSPARAPVPSATK Y8(Phospho) S25(Phospho), Y986 S1003,1.2274
+Q6NSI4,RPA-related protein RADX OS=Homo sapiens OX=9606 GN=RADX PE=1 SV=2,SHYLALWNNEDPYGDIWLTDKQPEEHNFSDTK Y13(Phospho), Y198,1.2269
+Q49A88,Coiled-coil domain-containing protein 14 OS=Homo sapiens OX=9606 GN=CCDC14 PE=1 SV=3,NEETIEPDKTYENVLSSR Y11(Phospho), Y724,1.2269
+Q13546,Receptor-interacting serine/threonine-protein kinase 1 OS=Homo sapiens OX=9606 GN=RIPK1 PE=1 SV=3,LQDEANYHLYGSR S12(Phospho), S389,1.2267
+Q96QK1,Vacuolar protein sorting-associated protein 35 OS=Homo sapiens OX=9606 GN=VPS35 PE=1 SV=2,ESPESEGPIYEGLIL Y10(Phospho), Y791,1.2267
+Q15369,Elongin-C OS=Homo sapiens OX=9606 GN=ELOC PE=1 SV=1,TYGGCEGPDAMYVK Y2(Phospho), Y8,1.2265
+Q92783,Signal transducing adapter molecule 1 OS=Homo sapiens OX=9606 GN=STAM PE=1 SV=3,LMNEDPMYSMYAK Y11(Phospho), Y384,1.2263
+Q9UHI6,Probable ATP-dependent RNA helicase DDX20 OS=Homo sapiens OX=9606 GN=DDX20 PE=1 SV=2,LQTEAQEDDWYDCHR Y11(Phospho), Y756,1.226
+Q7Z422,SUZ domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SZRD1 PE=1 SV=1,EAEYAEAR Y4(Phospho), Y95,1.2255
+Q02487,Desmocollin-2 OS=Homo sapiens OX=9606 GN=DSC2 PE=1 SV=1,HAQDYVLTYNYEGR Y5(Phospho), Y853,1.2238
+O14976,Cyclin-G-associated kinase OS=Homo sapiens OX=9606 GN=GAK PE=1 SV=2,GPPPPVGPAGSGYSGGLALAEYDQPYGGFLDILR Y26(Phospho), Y371,1.2236
+Q96PD2,"Discoidin, CUB and LCCL domain-containing protein 2 OS=Homo sapiens OX=9606 GN=DCBLD2 PE=1 SV=1",ATGNQPPPLVGTYNTLLSR T12(Phospho), T714,1.2234
+P67809,Nuclease-sensitive element-binding protein 1 OS=Homo sapiens OX=9606 GN=YBX1 PE=1 SV=3,NYQQNYQNSESGEKNEGSESAPEGQAQQR Y6(Phospho), Y162,1.2233
+Q6PJT7,Zinc finger CCCH domain-containing protein 14 OS=Homo sapiens OX=9606 GN=ZC3H14 PE=1 SV=1,FNHDGEEEEEDDDYGSR Y14(Phospho), Y321,1.2216
+O43303,Centriolar coiled-coil protein of 110 kDa OS=Homo sapiens OX=9606 GN=CCP110 PE=1 SV=3,ENCPYVITSGITEQER Y5(Phospho), Y602,1.2209
+Q92692,Nectin-2 OS=Homo sapiens OX=9606 GN=NECTIN2 PE=1 SV=1,TPYFDAGASCTEQEMPR Y3(Phospho), Y439,1.2202
+P21333,Filamin-A OS=Homo sapiens OX=9606 GN=FLNA PE=1 SV=4,EGPYSISVLYGDEEVPR Y4(Phospho), Y1519,1.2197
+Q63HQ0,AP-1 complex-associated regulatory protein OS=Homo sapiens OX=9606 GN=AP1AR PE=1 SV=1,HYDSIAEK Y2(Phospho), Y77,1.2197
+Q9HAU0,Pleckstrin homology domain-containing family A member 5 OS=Homo sapiens OX=9606 GN=PLEKHA5 PE=1 SV=1,LNSLPSEYESGSACPAQTVHYRPINLSSSENK Y8(Phospho), Y353,1.2168
+O00541,Pescadillo homolog OS=Homo sapiens OX=9606 GN=PES1 PE=1 SV=1,AGEGTYALDSESCMEK Y6(Phospho), Y265,1.2154
+Q9Y490,Talin-1 OS=Homo sapiens OX=9606 GN=TLN1 PE=1 SV=3,STVLQQQYNR Y8(Phospho), Y436,1.2152
+Q9H9C1,Spermatogenesis-defective protein 39 homolog OS=Homo sapiens OX=9606 GN=VIPAS39 PE=1 SV=1,TKGDEEEYWNSSK Y8(Phospho), Y11,1.2151
+O14976,Cyclin-G-associated kinase OS=Homo sapiens OX=9606 GN=GAK PE=1 SV=2,GPPPPVGPAGSGYSGGLALAEYDQPYGGFLDILR Y22(Phospho), Y367,1.2149
+Q96EB1,Elongator complex protein 4 OS=Homo sapiens OX=9606 GN=ELP4 PE=1 SV=2,EFDEDVYNHKTPESNIK Y7(Phospho), Y147,1.2146
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,TVQPVAMGPDGLPVDASSVSNNYIQTLGR Y23(Phospho), Y174,1.2146
+Q96P48,"Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 1 OS=Homo sapiens OX=9606 GN=ARAP1 PE=1 SV=3",LSSAYLLGVPGSEQPDR S2(Phospho), S428,1.2143
+P07900,Heat shock protein HSP 90-alpha OS=Homo sapiens OX=9606 GN=HSP90AA1 PE=1 SV=5,NPDDITNEEYGEFYK Y10(Phospho), Y309,1.2134
+P07814,Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiens OX=9606 GN=EPRS PE=1 SV=5,ERPTPSLNNNCTTSEDSLVLYNR Y21(Phospho), Y754,1.2132
+Q9NRY4,Rho GTPase-activating protein 35 OS=Homo sapiens OX=9606 GN=ARHGAP35 PE=1 SV=3,NEEENIYSVPHDSTQGK Y7(Phospho), Y1105,1.2123
+Q99952,Tyrosine-protein phosphatase non-receptor type 18 OS=Homo sapiens OX=9606 GN=PTPN18 PE=1 SV=2,ENCAPLYDDALFLR Y7(Phospho), Y314,1.212
+Q99614,Tetratricopeptide repeat protein 1 OS=Homo sapiens OX=9606 GN=TTC1 PE=1 SV=1,QDSSTGSYSINFVQNPNNNR Y8(Phospho), Y280,1.2115
+Q8WXD9,Caskin-1 OS=Homo sapiens OX=9606 GN=CASKIN1 PE=1 SV=1,YAASDSEPERDELLVPAAAGPYATVQR Y22(Phospho), Y907,1.2072
+Q14126,Desmoglein-2 OS=Homo sapiens OX=9606 GN=DSG2 PE=1 SV=2,VYAPASTLVDQPYANEGTVVVTER Y13(Phospho), Y979,1.2067
+O75815,Breast cancer anti-estrogen resistance protein 3 OS=Homo sapiens OX=9606 GN=BCAR3 PE=1 SV=1,CLEEHYGTSPGQAR Y6(Phospho), Y266,1.2057
+Q93052,Lipoma-preferred partner OS=Homo sapiens OX=9606 GN=LPP PE=1 SV=1,SAQPSPHYMAAPSSGQIYGSGPQGYNTQPVPVSGQCPPPSTR S13(Phospho), S239,1.205
+P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4,LVSSPCCIVTSTYGWTANMER T16(Phospho), T599,1.2044
+Q9HCD6,Protein TANC2 OS=Homo sapiens OX=9606 GN=TANC2 PE=1 SV=3,DCSYGAVTSPTSTLESR Y4(Phospho), Y164,1.2034
+P25054,Adenomatous polyposis coli protein OS=Homo sapiens OX=9606 GN=APC PE=1 SV=2,FCSYGQYPADLAHK Y4(Phospho), Y997,1.2032
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,GPVSGTEPEPVYSMEAADYR Y19(Phospho), Y453,1.202
+O14639,Actin-binding LIM protein 1 OS=Homo sapiens OX=9606 GN=ABLIM1 PE=1 SV=3,STSQGSINSPVYSR S13(Phospho), S462,1.2017
+P62633,Cellular nucleic acid-binding protein OS=Homo sapiens OX=9606 GN=CNBP PE=1 SV=1,CYSCGEFGHIQK S3(Phospho), S121,1.2011
+Q8WVJ2,NudC domain-containing protein 2 OS=Homo sapiens OX=9606 GN=NUDCD2 PE=1 SV=1,ENPGFDFSGAEISGNYTK Y16(Phospho), Y145,1.2008
+Q9NUM4,Transmembrane protein 106B OS=Homo sapiens OX=9606 GN=TMEM106B PE=1 SV=2,GQENQLVALIPYSDQR Y12(Phospho), Y84,1.2003
+Q6ZN16,Mitogen-activated protein kinase kinase kinase 15 OS=Homo sapiens OX=9606 GN=MAP3K15 PE=1 SV=2,SNCITENPAGPYGQR Y12(Phospho), Y1236,1.2
+Q9P266,Junctional protein associated with coronary artery disease OS=Homo sapiens OX=9606 GN=JCAD PE=1 SV=3,AGASGQPPSGPPGTGNEYGVSPR Y18(Phospho), Y397,1.1996
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,SYEDMIGEEVPSDQYYWAPLAQHER Y15(Phospho), Y334,1.1989
+Q15654,Thyroid receptor-interacting protein 6 OS=Homo sapiens OX=9606 GN=TRIP6 PE=1 SV=3,QAYEPPPPPAYR Y3(Phospho), Y123,1.1977
+P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4,LVSSPCCIVTSTYGWTANMER Y13(Phospho), Y596,1.1977
+P27361,Mitogen-activated protein kinase 3 OS=Homo sapiens OX=9606 GN=MAPK3 PE=1 SV=4,IADPEHDHTGFLTEYVATR T13(Phospho) Y15(Phospho), T202 Y204,1.1966
+Q969T9,WW domain-binding protein 2 OS=Homo sapiens OX=9606 GN=WBP2 PE=1 SV=1,AAEAAASAYYNPGNPHNVYMPTSQPPPPPYYPPEDK Y10(Phospho), Y232,1.1964
+Q9UDY2,Tight junction protein ZO-2 OS=Homo sapiens OX=9606 GN=TJP2 PE=1 SV=2,AYDPDYERAYSPEYR Y10(Phospho) S11(Phospho), Y265 S266,1.1958
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,AFDEDEDDPYVPMRPGVATPLVSSSDYMPMAPQNVSASK Y10(Phospho) S25(Phospho), Y700 S715,1.1945
+Q70EL1,Inactive ubiquitin carboxyl-terminal hydrolase 54 OS=Homo sapiens OX=9606 GN=USP54 PE=1 SV=4,LAEPDIYQEK Y7(Phospho), Y1233,1.1938
+Q8TAF3,WD repeat-containing protein 48 OS=Homo sapiens OX=9606 GN=WDR48 PE=1 SV=1,ASGDYDNDCTNPITPLCTQPDQVIK Y5(Phospho), Y338,1.1936
+Q9HB71,Calcyclin-binding protein OS=Homo sapiens OX=9606 GN=CACYBP PE=1 SV=2,EKPSYDTETDPSEGLMNVLK Y5(Phospho), Y181,1.1916
+P43405,Tyrosine-protein kinase SYK OS=Homo sapiens OX=9606 GN=SYK PE=1 SV=1,EALPMDTEVYESPYADPEEIRPK S12(Phospho), S350,1.1908
+Q8ND83,SLAIN motif-containing protein 1 OS=Homo sapiens OX=9606 GN=SLAIN1 PE=1 SV=3,QDYASTSASVSR Y3(Phospho), Y289,1.189
+O60784,Target of Myb protein 1 OS=Homo sapiens OX=9606 GN=TOM1 PE=1 SV=2,SSPDLTGVVTIYEDLRR Y12(Phospho), Y141,1.1887
+Q8IZP0,Abl interactor 1 OS=Homo sapiens OX=9606 GN=ABI1 PE=1 SV=4,TLEPVKPPTVPNDYMTSPAR T16(Phospho), T215,1.1886
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,LLDDISNGYDDSEDGGHTLGDPSYSYETTEK Y26(Phospho), Y2008,1.1881
+Q92569,Phosphatidylinositol 3-kinase regulatory subunit gamma OS=Homo sapiens OX=9606 GN=PIK3R3 PE=1 SV=2,LQEYHSQYQEK Y8(Phospho), Y188,1.185
+Q4KMP7,TBC1 domain family member 10B OS=Homo sapiens OX=9606 GN=TBC1D10B PE=1 SV=3,TDKYGFLGGSQYSGSLESSIPVDVAR Y4(Phospho), Y307,1.1847
+Q05655,Protein kinase C delta type OS=Homo sapiens OX=9606 GN=PRKCD PE=1 SV=2,DYSNFDQEFLNEK Y2(Phospho), Y630,1.1841
+P42694,Probable helicase with zinc finger domain OS=Homo sapiens OX=9606 GN=HELZ PE=1 SV=2,LTSSAEDEVETTYSR S14(Phospho), S1574,1.1838
+Q02952,A-kinase anchor protein 12 OS=Homo sapiens OX=9606 GN=AKAP12 PE=1 SV=4,QEQAPVEDAGPTGANEDDSDVPAVVPLSEYDAVER Y30(Phospho), Y852,1.1837
+Q13642,Four and a half LIM domains protein 1 OS=Homo sapiens OX=9606 GN=FHL1 PE=1 SV=4,FTAVEDQYYCVDCYK Y8(Phospho), Y207,1.1832
+O95208,Epsin-2 OS=Homo sapiens OX=9606 GN=EPN2 PE=1 SV=3,GSSQPNLSTSHSEQEYGK Y16(Phospho), Y186,1.1822
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,ALYDNVAESPDELSFR Y3(Phospho), Y12,1.1815
+Q13490,Baculoviral IAP repeat-containing protein 2 OS=Homo sapiens OX=9606 GN=BIRC2 PE=1 SV=2,TNPYSYAMSTEEAR Y4(Phospho), Y177,1.1814
+O00459,Phosphatidylinositol 3-kinase regulatory subunit beta OS=Homo sapiens OX=9606 GN=PIK3R2 PE=1 SV=2,EYDQLYEEYTR T10(Phospho), T468,1.1814
+A6NGB9,WAS/WASL-interacting protein family member 3 OS=Homo sapiens OX=9606 GN=WIPF3 PE=1 SV=4,AEPASPAQDAQEPPAPPPPLPPYASCSPR Y23(Phospho), Y299,1.1811
+Q92738,USP6 N-terminal-like protein OS=Homo sapiens OX=9606 GN=USP6NL PE=1 SV=3,ASPAAEDASPSGYPYSGPPPPAYHYR Y15(Phospho), Y804,1.1804
+Q15678,Tyrosine-protein phosphatase non-receptor type 14 OS=Homo sapiens OX=9606 GN=PTPN14 PE=1 SV=2,HPYTVPYGPQGVYSNK Y13(Phospho), Y506,1.1784
+Q99700,Ataxin-2 OS=Homo sapiens OX=9606 GN=ATXN2 PE=1 SV=2,YNEENYGVVSTYDSSLSSYTVPLER Y6(Phospho), Y409,1.1782
+O00192,Armadillo repeat protein deleted in velo-cardio-facial syndrome OS=Homo sapiens OX=9606 GN=ARVCF PE=1 SV=1,SLAADDEGGPELEPDYGTATR Y16(Phospho), Y282,1.1781
+Q9Y5T5,Ubiquitin carboxyl-terminal hydrolase 16 OS=Homo sapiens OX=9606 GN=USP16 PE=1 SV=1,VYEVVNEDPETAFCTLANR Y2(Phospho), Y606,1.1769
+Q6ZVM7,TOM1-like protein 2 OS=Homo sapiens OX=9606 GN=TOM1L2 PE=1 SV=1,KTVTYEDPQAVGGLASALDNR Y5(Phospho), Y404,1.1755
+Q8WZ64,"Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 2 OS=Homo sapiens OX=9606 GN=ARAP2 PE=1 SV=3",SVAWQNSNEENSSSIFPYGETFLFQR S14(Phospho), S330,1.1743
+Q13442,28 kDa heat- and acid-stable phosphoprotein OS=Homo sapiens OX=9606 GN=PDAP1 PE=1 SV=1,QYTSPEEIDAQLQAEK Y2(Phospho), Y17,1.173
+Q9Y6N7,Roundabout homolog 1 OS=Homo sapiens OX=9606 GN=ROBO1 PE=1 SV=1,FVNPSGQPTPYATTQLIQSNLSNNMNNGSGDSGEK S19(Phospho), S1081,1.1728
+Q14126,Desmoglein-2 OS=Homo sapiens OX=9606 GN=DSG2 PE=1 SV=2,QKPATETSMNTASHSLCEQTMVNSENTYSSGSSFPVPK Y28(Phospho), Y882,1.1715
+Q9NRY4,Rho GTPase-activating protein 35 OS=Homo sapiens OX=9606 GN=ARHGAP35 PE=1 SV=3,NEEENIYSVPHDSTQGK S8(Phospho), S1106,1.1715
+Q96AC1,Fermitin family homolog 2 OS=Homo sapiens OX=9606 GN=FERMT2 PE=1 SV=1,KKLDDQSEDEALELEGPLITPGSGSIYSSPGLYSK Y33(Phospho), Y185,1.1707
+P36915,Guanine nucleotide-binding protein-like 1 OS=Homo sapiens OX=9606 GN=GNL1 PE=1 SV=2,NPYALLGEDEC Y3(Phospho), Y599,1.1703
+Q9HB71,Calcyclin-binding protein OS=Homo sapiens OX=9606 GN=CACYBP PE=1 SV=2,EKPSYDTETDPSEGLMNVLK S4(Phospho), S180,1.17
+P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4,LVSSPCCIVTSTYGWTANMER S3(Phospho), S586,1.1691
+Q13625,Apoptosis-stimulating of p53 protein 2 OS=Homo sapiens OX=9606 GN=TP53BP2 PE=1 SV=2,VAAVGPYIQSSTMPR Y7(Phospho), Y350,1.1677
+P49023,Paxillin OS=Homo sapiens OX=9606 GN=PXN PE=1 SV=3,FIHQQPQSSSPVYGSSAK Y13(Phospho), Y88,1.1676
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,SAYASGTTAK Y3(Phospho), Y1189,1.166
+Q86YV5,Tyrosine-protein kinase PRAG1 OS=Homo sapiens OX=9606 GN=PRAG1 PE=1 SV=4,CPPAYTMVGLHNLEPR Y5(Phospho), Y159,1.1644
+Q9Y281,Cofilin-2 OS=Homo sapiens OX=9606 GN=CFL2 PE=1 SV=1,QILVGDIGDTVEDPYTSFVK Y15(Phospho), Y68,1.1618
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,LRSYEDMIGEEVPSDQYYWAPLAQHER S3(Phospho), S320,1.1613
+P49792,E3 SUMO-protein ligase RanBP2 OS=Homo sapiens OX=9606 GN=RANBP2 PE=1 SV=2,GDDYFNYNVQQTSTNPPLPEPGYFTKPPIAAHASR Y4(Phospho), Y961,1.1606
+Q8TED9,Actin filament-associated protein 1-like 1 OS=Homo sapiens OX=9606 GN=AFAP1L1 PE=1 SV=2,VYDDVPYEK Y2(Phospho), Y557,1.159
+Q9H2J4,Phosducin-like protein 3 OS=Homo sapiens OX=9606 GN=PDCL3 PE=1 SV=1,TYEDMTLEELEDHEDEFNEEDER Y2(Phospho), Y48,1.158
+Q9UBP0,Spastin OS=Homo sapiens OX=9606 GN=SPAST PE=1 SV=1,SQTDVYNDSTNLACR Y6(Phospho), Y212,1.1576
+Q86W92,Liprin-beta-1 OS=Homo sapiens OX=9606 GN=PPFIBP1 PE=1 SV=2,DGEYEELLNSSSISSLLDAQGFSDLEK Y4(Phospho), Y353,1.1568
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,LVQLYAVVSEEPIYIVTEYMSK Y14(Phospho), Y338,1.1565
+P42680,Tyrosine-protein kinase Tec OS=Homo sapiens OX=9606 GN=TEC PE=1 SV=2,YVLDDQYTSSSGAK T8(Phospho), T520,1.1556
+Q8TA86,Retinitis pigmentosa 9 protein OS=Homo sapiens OX=9606 GN=RP9 PE=1 SV=2,VAHEDPMYDIIR Y8(Phospho), Y142,1.1542
+P16885,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2 OS=Homo sapiens OX=9606 GN=PLCG2 PE=1 SV=4",RQEELNNQLFLYDTHQNLR Y12(Phospho), Y1217,1.1541
+Q9UPU5,Ubiquitin carboxyl-terminal hydrolase 24 OS=Homo sapiens OX=9606 GN=USP24 PE=1 SV=3,VYDQTNPYTDVR T9(Phospho), T2025,1.154
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,SMGYDDLDYGMMSDYGTAR S13(Phospho), S300,1.1535
+Q05193,Dynamin-1 OS=Homo sapiens OX=9606 GN=DNM1 PE=1 SV=2,IEGSGDQIDTYELSGGAR T10(Phospho), T353,1.1533
+Q9ULL5,Proline-rich protein 12 OS=Homo sapiens OX=9606 GN=PRR12 PE=1 SV=2,AGAGPPPGPPAYDPYGPYCPGR Y15(Phospho), Y169,1.1531
+Q9NZ63,Telomere length and silencing protein 1 homolog OS=Homo sapiens OX=9606 GN=C9orf78 PE=1 SV=1,ATDDYHYEK Y7(Phospho), Y279,1.1528
+P46013,Proliferation marker protein Ki-67 OS=Homo sapiens OX=9606 GN=MKI67 PE=1 SV=2,AVGASFPLYEPAK Y9(Phospho), Y340,1.1527
+Q5XG87,Non-canonical poly(A) RNA polymerase PAPD7 OS=Homo sapiens OX=9606 GN=PAPD7 PE=1 SV=3,IATCNGEQTQNREPESPYGQR Y18(Phospho), Y569,1.1523
+Q13442,28 kDa heat- and acid-stable phosphoprotein OS=Homo sapiens OX=9606 GN=PDAP1 PE=1 SV=1,ARQYTSPEEIDAQLQAEK S6(Phospho), S19,1.1522
+Q12968,"Nuclear factor of activated T-cells, cytoplasmic 3 OS=Homo sapiens OX=9606 GN=NFATC3 PE=1 SV=1",DHLYLPLEPSYR Y4(Phospho), Y150,1.1517
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,EYFTFPASK Y2(Phospho), Y1230,1.1506
+Q96IZ0,PRKC apoptosis WT1 regulator protein OS=Homo sapiens OX=9606 GN=PAWR PE=1 SV=1,YKSTTSVSEEDVSSR S3(Phospho), S228,1.1504
+Q05655,Protein kinase C delta type OS=Homo sapiens OX=9606 GN=PRKCD PE=1 SV=2,RSDSASSEPVGIYQGFEK Y13(Phospho), Y313,1.1498
+Q16513,Serine/threonine-protein kinase N2 OS=Homo sapiens OX=9606 GN=PKN2 PE=1 SV=1,SQSEYKPDTPQSGLEYSGIQELEDR S12(Phospho), S631,1.1471
+P15924,Desmoplakin OS=Homo sapiens OX=9606 GN=DSP PE=1 SV=3,YEVTSGGGGTSR Y1(Phospho), Y28,1.1467
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,HYEDGYPGGSDNYGSLSR Y2(Phospho) Y13(Phospho), Y217 Y228,1.1459
+Q14126,Desmoglein-2 OS=Homo sapiens OX=9606 GN=DSG2 PE=1 SV=2,AASYTEEDENHTAK Y4(Phospho), Y783,1.1452
+Q8TEW0,Partitioning defective 3 homolog OS=Homo sapiens OX=9606 GN=PARD3 PE=1 SV=2,ISHSLYSGIEGLDESPSR Y6(Phospho), Y719,1.1428
+P25398,40S ribosomal protein S12 OS=Homo sapiens OX=9606 GN=RPS12 PE=1 SV=3,QAHLCVLASNCDEPMYVK Y16(Phospho), Y61,1.1426
+P43405,Tyrosine-protein kinase SYK OS=Homo sapiens OX=9606 GN=SYK PE=1 SV=1,QESTVSFNPYEPELAPWAADKGPQR Y10(Phospho), Y323,1.1422
+Q9Y2D5,A-kinase anchor protein 2 OS=Homo sapiens OX=9606 GN=AKAP2 PE=1 SV=3,YSEAAELR Y1(Phospho), Y684,1.1422
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,SMGYDDLDYGMMSDYGTAR Y9(Phospho), Y296,1.1421
+Q8N3R9,MAGUK p55 subfamily member 5 OS=Homo sapiens OX=9606 GN=MPP5 PE=1 SV=3,VYESIGQYGGETVK Y2(Phospho), Y243,1.1418
+Q8IWC1,MAP7 domain-containing protein 3 OS=Homo sapiens OX=9606 GN=MAP7D3 PE=1 SV=2,HMIYEESGNK Y4(Phospho), Y582,1.1397
+Q8TEU7,Rap guanine nucleotide exchange factor 6 OS=Homo sapiens OX=9606 GN=RAPGEF6 PE=1 SV=2,HTHLDDPIAEVEPTDSEPYSCSK Y19(Phospho), Y1411,1.1389
+Q9UK45,U6 snRNA-associated Sm-like protein LSm7 OS=Homo sapiens OX=9606 GN=LSM7 PE=1 SV=1,GFDPLLNLVLDGTIEYMRDPDDQYKLTEDTR T27(Phospho), T65,1.1388
+Q96IZ0,PRKC apoptosis WT1 regulator protein OS=Homo sapiens OX=9606 GN=PAWR PE=1 SV=1,YKSTTSVSEEDVSSR Y1(Phospho), Y226,1.1388
+Q15942,Zyxin OS=Homo sapiens OX=9606 GN=ZYX PE=1 SV=1,LGHPEALSAGTGSPQPPSFTYAQQR T20(Phospho), T315,1.1382
+Q8N8Z6,"Discoidin, CUB and LCCL domain-containing protein 1 OS=Homo sapiens OX=9606 GN=DCBLD1 PE=1 SV=2",HEYALPLAPPEPEYATPIVER Y3(Phospho), Y589,1.1367
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,VKEEGYELPYNPATDDYAVPPPR Y6(Phospho) Y17(Phospho), Y398 Y409,1.1367
+O75970,Multiple PDZ domain protein OS=Homo sapiens OX=9606 GN=MPDZ PE=1 SV=2,DIPELPEREEGEGEESELQNTAYSNWNQPR T21(Phospho), T1141,1.1361
+Q6PKG0,La-related protein 1 OS=Homo sapiens OX=9606 GN=LARP1 PE=1 SV=2,GSESATYVPVAPPTPAWQPEIKPEPAWHDQDETSSVK Y7(Phospho), Y296,1.1353
+P46937,Transcriptional coactivator YAP1 OS=Homo sapiens OX=9606 GN=YAP1 PE=1 SV=2,DESTDSGLSMSSYSVPR S14(Phospho), S408,1.1352
+Q13480,GRB2-associated-binding protein 1 OS=Homo sapiens OX=9606 GN=GAB1 PE=1 SV=2,APSASVDSSLYNLPR Y11(Phospho), Y259,1.1341
+Q6RW13,Type-1 angiotensin II receptor-associated protein OS=Homo sapiens OX=9606 GN=AGTRAP PE=1 SV=1,SAYQTIDSAEAPADPFAVPEGR Y3(Phospho), Y133,1.1334
+E9PAV3,"Nascent polypeptide-associated complex subunit alpha OS=Homo sapiens OX=9606 GN=NACA PE=1 SV=1; Nascent polypeptide-associated complex subunit alpha, muscle-specific form OS=Homo sapiens OX=9606 GN=NACA PE=1 SV=1",SPASDTYIVFGEAK Y7(Phospho), Y120,1.1326
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,HLLAPGPQDIYDVPPVR Y11(Phospho), Y249,1.1316
+P62993,Growth factor receptor-bound protein 2 OS=Homo sapiens OX=9606 GN=GRB2 PE=1 SV=1,DIEQVPQQPTYVQALFDFDPQEDGELGFR Y11(Phospho), Y160,1.1301
+P34932,Heat shock 70 kDa protein 4 OS=Homo sapiens OX=9606 GN=HSPA4 PE=1 SV=4,NKEDQYDHLDAADMTK Y6(Phospho), Y723,1.1295
+Q13490,Baculoviral IAP repeat-containing protein 2 OS=Homo sapiens OX=9606 GN=BIRC2 PE=1 SV=2,TNPYSYAMSTEEAR T1(Phospho), T174,1.1267
+P53801,Pituitary tumor-transforming gene 1 protein-interacting protein OS=Homo sapiens OX=9606 GN=PTTG1IP PE=1 SV=1,YGLFKEENPYAR Y10(Phospho), Y174,1.1257
+Q05397,Focal adhesion kinase 1 OS=Homo sapiens OX=9606 GN=PTK2 PE=1 SV=2,CIGEGQFGDVHQGIYMSPENPALAVAIK Y15(Phospho), Y441,1.1246
+Q9UM54,Unconventional myosin-VI OS=Homo sapiens OX=9606 GN=MYO6 PE=1 SV=4,SVTDYDFAPFLNNSPQQNPAAQIPAR Y5(Phospho), Y1146,1.124
+O75832,26S proteasome non-ATPase regulatory subunit 10 OS=Homo sapiens OX=9606 GN=PSMD10 PE=1 SV=1,DHYEATAMHR Y3(Phospho), Y138,1.1236
+Q15262,Receptor-type tyrosine-protein phosphatase kappa OS=Homo sapiens OX=9606 GN=PTPRK PE=1 SV=2,YLCEGTESPYQTGQLHPAIR Y10(Phospho), Y858,1.1234
+Q9Y2Z0,Protein SGT1 homolog OS=Homo sapiens OX=9606 GN=SUGT1 PE=1 SV=3,LFQQIYSDGSDEVKR Y6(Phospho), Y317,1.1224
+P23528,Cofilin-1 OS=Homo sapiens OX=9606 GN=CFL1 PE=1 SV=3,NIILEEGKEILVGDVGQTVDDPYATFVK T25(Phospho), T70,1.122
+Q92974,Rho guanine nucleotide exchange factor 2 OS=Homo sapiens OX=9606 GN=ARHGEF2 PE=1 SV=4,SLPAGDALYLSFNPPQPSR Y9(Phospho), Y894,1.1188
+Q93052,Lipoma-preferred partner OS=Homo sapiens OX=9606 GN=LPP PE=1 SV=1,YYEGYYAAGPGYGGR Y6(Phospho), Y301,1.118
+Q4KWH8,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1 OS=Homo sapiens OX=9606 GN=PLCH1 PE=1 SV=1",HATNTVYETTCTPISK Y7(Phospho), Y1275,1.1177
+Q16643,Drebrin OS=Homo sapiens OX=9606 GN=DBN1 PE=1 SV=4,EGTQASEGYFSQSQEEEFAQSEELCAK Y9(Phospho), Y597,1.1176
+P20810,Calpastatin OS=Homo sapiens OX=9606 GN=CAST PE=1 SV=4,CGEDDETIPSEYR Y12(Phospho), Y339,1.1173
+Q9HCD6,Protein TANC2 OS=Homo sapiens OX=9606 GN=TANC2 PE=1 SV=3,SQSASYYPVCHSK Y6(Phospho), Y1725,1.1171
+Q9P2B4,CTTNBP2 N-terminal-like protein OS=Homo sapiens OX=9606 GN=CTTNBP2NL PE=1 SV=2,MTNTGLPGPATPAYSYAK Y14(Phospho), Y343,1.1146
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,DVPDGPLLREETYDVPPAFAK T12(Phospho), T326,1.1143
+Q9HBL0,Tensin-1 OS=Homo sapiens OX=9606 GN=TNS1 PE=1 SV=2,SYSPYDYQPCLAGPNQDFHSK Y5(Phospho), Y796,1.1126
+Q7Z417,Nuclear fragile X mental retardation-interacting protein 2 OS=Homo sapiens OX=9606 GN=NUFIP2 PE=1 SV=1,TGYGELNGNAGER Y3(Phospho), Y94,1.1122
+Q5VVQ6,Ubiquitin thioesterase OTU1 OS=Homo sapiens OX=9606 GN=YOD1 PE=1 SV=1,ILVGYPPECLDLSNGDTILEDLPIQSGDMLIIEEDQTRPR Y5(Phospho), Y93,1.1115
+Q9Y4P8,WD repeat domain phosphoinositide-interacting protein 2 OS=Homo sapiens OX=9606 GN=WIPI2 PE=1 SV=1,LDGSLETTNEILDSASHDCPLVTQTYGAAAGK Y26(Phospho), Y400,1.1109
+Q4VCS5,Angiomotin OS=Homo sapiens OX=9606 GN=AMOT PE=1 SV=1,MQNNEELPTYEEAK T9(Phospho), T108,1.1068
+O15067,Phosphoribosylformylglycinamidine synthase OS=Homo sapiens OX=9606 GN=PFAS PE=1 SV=4,ELSDPAGAIIYTSR Y11(Phospho), Y538,1.1049
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 OS=Homo sapiens OX=9606 GN=PAG1 PE=1 SV=2,SGQSLTVPESTYTSIQGDPQR S10(Phospho), S339,1.1044
+Q13895,Bystin OS=Homo sapiens OX=9606 GN=BYSL PE=1 SV=3,GTGEAEEEYVGPR Y9(Phospho), Y49,1.1038
+Q4VCS5,Angiomotin OS=Homo sapiens OX=9606 GN=AMOT PE=1 SV=1,DTTVISHSPNTSYDTALEAR S8(Phospho) Y13(Phospho), S714 Y719,1.1035
+Q8TBA6,Golgin subfamily A member 5 OS=Homo sapiens OX=9606 GN=GOLGA5 PE=1 SV=3,NTDYTELHQQNTDLIYQTGPK Y16(Phospho), Y54,1.1035
+Q96PD2,"Discoidin, CUB and LCCL domain-containing protein 2 OS=Homo sapiens OX=9606 GN=DCBLD2 PE=1 SV=1",ATGNQPPPLVGTYNTLLSR T15(Phospho), T717,1.1026
+P50402,Emerin OS=Homo sapiens OX=9606 GN=EMD PE=1 SV=1,GYNDDYYEESYFTTR Y6(Phospho), Y94,1.1026
+Q9Y6N7,Roundabout homolog 1 OS=Homo sapiens OX=9606 GN=ROBO1 PE=1 SV=1,FVNPSGQPTPYATTQLIQSNLSNNMNNGSGDSGEK Y11(Phospho), Y1073,1.1018
+Q9Y5S9,RNA-binding protein 8A OS=Homo sapiens OX=9606 GN=RBM8A PE=1 SV=1,MREDYDSVEQDGDEPGPQR Y5(Phospho), Y54,1.1017
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,LSYLSAPGSEYSMYSTDSR S12(Phospho), S831,1.1015
+O43491,Band 4.1-like protein 2 OS=Homo sapiens OX=9606 GN=EPB41L2 PE=1 SV=1,DFPGAAGEISAYGPGLVSIAVVQDGDGRR Y12(Phospho), Y577,1.1012
+O94991,SLIT and NTRK-like protein 5 OS=Homo sapiens OX=9606 GN=SLITRK5 PE=2 SV=2,LNVEPDYLEVLEK Y7(Phospho), Y945,1.1011
+Q99871,HAUS augmin-like complex subunit 7 OS=Homo sapiens OX=9606 GN=HAUS7 PE=1 SV=3,GGDDYSEDEGDSSVSR S6(Phospho), S26,1.1006
+Q9ULC8,Probable palmitoyltransferase ZDHHC8 OS=Homo sapiens OX=9606 GN=ZDHHC8 PE=1 SV=3,SQADSLFGDSGVYDAPSSYSLQQASVLSEGPR Y13(Phospho), Y579,1.1003
+Q5JXC2,Migration and invasion-inhibitory protein OS=Homo sapiens OX=9606 GN=MIIP PE=1 SV=3,ESSGSGVEEDHECVYCYR Y15(Phospho), Y241,1.1001
+P29317,Ephrin type-A receptor 2 OS=Homo sapiens OX=9606 GN=EPHA2 PE=1 SV=2,VLEDDPEATYTTSGGK T9(Phospho), T771,1.0996
+Q8IZP0,Abl interactor 1 OS=Homo sapiens OX=9606 GN=ABI1 PE=1 SV=4,TLEPVKPPTVPNDYMTSPAR Y14(Phospho), Y213,1.0973
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,LQHQQLYYSQDDSNRK Y7(Phospho), Y1115,1.0969
+Q9NP31,SH2 domain-containing protein 2A OS=Homo sapiens OX=9606 GN=SH2D2A PE=1 SV=3,GSPGEAPSNIYVEVEDEGLPATLGHPVLR Y11(Phospho), Y305,1.0968
+Q12874,Splicing factor 3A subunit 3 OS=Homo sapiens OX=9606 GN=SF3A3 PE=1 SV=1,ENPSEEAQNLVEFTDEEGYGR Y19(Phospho), Y136,1.096
+P23528,Cofilin-1 OS=Homo sapiens OX=9606 GN=CFL1 PE=1 SV=3,NIILEEGKEILVGDVGQTVDDPYATFVK Y23(Phospho), Y68,1.0953
+P51116,Fragile X mental retardation syndrome-related protein 2 OS=Homo sapiens OX=9606 GN=FXR2 PE=1 SV=2,DPDSNPYSLLDTSEPEPPVDSEPGEPPPASAR Y7(Phospho), Y519,1.0951
+Q9UM11,Fizzy-related protein homolog OS=Homo sapiens OX=9606 GN=FZR1 PE=1 SV=2,SSPDDGNDVSPYSLSPVSNK Y12(Phospho), Y148,1.094
+P25054,Adenomatous polyposis coli protein OS=Homo sapiens OX=9606 GN=APC PE=1 SV=2,SSAAHTHSNTYNFTK Y11(Phospho), Y935,1.0937
+Q96PD2,"Discoidin, CUB and LCCL domain-containing protein 2 OS=Homo sapiens OX=9606 GN=DCBLD2 PE=1 SV=1",ATGNQPPPLVGTYNTLLSR Y13(Phospho), Y715,1.0932
+P19174,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1 OS=Homo sapiens OX=9606 GN=PLCG1 PE=1 SV=1",IGTAEPDYGALYEGR Y8(Phospho), Y771,1.0928
+Q9Y2X7,ARF GTPase-activating protein GIT1 OS=Homo sapiens OX=9606 GN=GIT1 PE=1 SV=2,LQPFHSTELEDDAIYSVHVPAGLYR Y15(Phospho), Y545,1.0906
+Q9BVS4,Serine/threonine-protein kinase RIO2 OS=Homo sapiens OX=9606 GN=RIOK2 PE=1 SV=2,VQGGVPAGSDEYEDECPHLIALSSLNR Y12(Phospho), Y445,1.0897
+Q96IZ0,PRKC apoptosis WT1 regulator protein OS=Homo sapiens OX=9606 GN=PAWR PE=1 SV=1,STGVVNIPAAECLDEYEDDEAGQKER Y16(Phospho), Y177,1.0896
+P22314,Ubiquitin-like modifier-activating enzyme 1 OS=Homo sapiens OX=9606 GN=UBA1 PE=1 SV=3,VGPDTERIYDDDFFQNLDGVANALDNVDAR Y9(Phospho), Y560,1.0892
+P08670,Vimentin OS=Homo sapiens OX=9606 GN=VIM PE=1 SV=4,SLYASSPGGVYATR Y11(Phospho), Y61,1.0882
+Q93008,Probable ubiquitin carboxyl-terminal hydrolase FAF-X OS=Homo sapiens OX=9606 GN=USP9X PE=1 SV=3,AQENYEGSEEVSPPQTK Y5(Phospho), Y2556,1.0876
+Q8TAA9,Vang-like protein 1 OS=Homo sapiens OX=9606 GN=VANGL1 PE=1 SV=1,VYNVDGPSNNATGQSR Y2(Phospho), Y312,1.0869
+Q13263,Transcription intermediary factor 1-beta OS=Homo sapiens OX=9606 GN=TRIM28 PE=1 SV=5,VFPGSTTEDYNLIVIER Y10(Phospho), Y517,1.0869
+P41227,N-alpha-acetyltransferase 11 OS=Homo sapiens OX=9606 GN=NAA11 PE=1 SV=3; N-alpha-acetyltransferase 10 OS=Homo sapiens OX=9606 GN=NAA10 PE=1 SV=1,YYADGEDAYAMKR Y9(Phospho), Y145,1.0868
+P54756,Ephrin type-A receptor 4 OS=Homo sapiens OX=9606 GN=EPHA4 PE=1 SV=1; Ephrin type-A receptor 5 OS=Homo sapiens OX=9606 GN=EPHA5 PE=1 SV=3; Ephrin type-A receptor 3 OS=Homo sapiens OX=9606 GN=EPHA3 PE=1 SV=2,VLEDDPEAAYTTR Y10(Phospho), Y779,1.0867
+Q96EY5,Multivesicular body subunit 12A OS=Homo sapiens OX=9606 GN=MVB12A PE=1 SV=1,SLADIEEEYNYGFVVEK Y11(Phospho), Y256,1.0856
+Q9NX55,Huntingtin-interacting protein K OS=Homo sapiens OX=9606 GN=HYPK PE=1 SV=2,VTDYAEEKEIQSSNLETAMSVIGDR Y4(Phospho), Y49,1.0856
+P09651,Heterogeneous nuclear ribonucleoprotein A1 OS=Homo sapiens OX=9606 GN=HNRNPA1 PE=1 SV=5,SSGPYGGGGQYFAKPR S2(Phospho), S338,1.0848
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TPQASTYSYETSDLCYTAEKKSPSEAR Y7(Phospho) S22(Phospho), Y2057 S2072,1.0832
+Q86UK7,E3 ubiquitin-protein ligase ZNF598 OS=Homo sapiens OX=9606 GN=ZNF598 PE=1 SV=1,RNEGVVGGEDYEEVDR Y11(Phospho), Y306,1.0821
+O95425,Supervillin OS=Homo sapiens OX=9606 GN=SVIL PE=1 SV=2,YGSFEEAEASYPILNR Y1(Phospho), Y966,1.08
+Q9P2M7,Cingulin OS=Homo sapiens OX=9606 GN=CGN PE=1 SV=2,ATIYGILR Y4(Phospho), Y313,1.0797
+Q92900,Regulator of nonsense transcripts 1 OS=Homo sapiens OX=9606 GN=UPF1 PE=1 SV=2,SQIDVALSQDSTYQGER S11(Phospho), S1110,1.0793
+P11274,Breakpoint cluster region protein OS=Homo sapiens OX=9606 GN=BCR PE=1 SV=2,SSESSCGVDGDYEDAELNPR Y12(Phospho), Y246,1.078
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,SHNSALYSQVQK Y7(Phospho), Y449,1.0779
+Q9H939,Proline-serine-threonine phosphatase-interacting protein 2 OS=Homo sapiens OX=9606 GN=PSTPIP2 PE=1 SV=4,SSPDDPNYSLVDDYSLLYQ Y8(Phospho), Y323,1.0779
+Q9H939,Proline-serine-threonine phosphatase-interacting protein 2 OS=Homo sapiens OX=9606 GN=PSTPIP2 PE=1 SV=4,SSPDDPNYSLVDDYSLLYQ S15(Phospho), S330,1.0762
+Q9NUM4,Transmembrane protein 106B OS=Homo sapiens OX=9606 GN=TMEM106B PE=1 SV=2,EDAYDGVTSENMR Y4(Phospho), Y18,1.0762
+Q9Y520,Protein PRRC2C OS=Homo sapiens OX=9606 GN=PRRC2C PE=1 SV=4,ATEEPEDVRSEAALDQEQITAAYSVEHNQLEAHPK S24(Phospho), S848,1.0754
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,LNGPQDHSHLLYSTIPR Y12(Phospho), Y96,1.0741
+Q16832,Discoidin domain-containing receptor 2 OS=Homo sapiens OX=9606 GN=DDR2 PE=1 SV=2,SSSPSEQGSNSTYDR Y13(Phospho), Y471,1.0736
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,AFDEDEDDPYVPMRPGVATPLVSSSDYMPMAPQNVSASK Y10(Phospho), Y700,1.0712
+Q9Y3S2,Zinc finger protein 330 OS=Homo sapiens OX=9606 GN=ZNF330 PE=1 SV=1,QTGGEEGDGASGYDAYWK S11(Phospho), S248,1.0702
+Q16630,Cleavage and polyadenylation specificity factor subunit 6 OS=Homo sapiens OX=9606 GN=CPSF6 PE=1 SV=2,GAAPNVVYTYTGK Y8(Phospho), Y74,1.0701
+P07814,Bifunctional glutamate/proline--tRNA ligase OS=Homo sapiens OX=9606 GN=EPRS PE=1 SV=5,GFFICDQPYEPVSPYSCK Y9(Phospho), Y684,1.07
+Q15375,Ephrin type-A receptor 7 OS=Homo sapiens OX=9606 GN=EPHA7 PE=1 SV=3,ADQEGDEELYFHFK Y10(Phospho), Y597,1.0699
+Q99755,Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha OS=Homo sapiens OX=9606 GN=PIP5K1A PE=1 SV=1; Putative PIP5K1A and PSMD4-like protein OS=Homo sapiens OX=9606 GN=PIPSL PE=5 SV=1,ALYSTAMESIQGEAR Y3(Phospho), Y360,1.0695
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,SYEDMIGEEVPSDQYYWAPLAQHER Y2(Phospho), Y321,1.0689
+Q86YV9,Hermansky-Pudlak syndrome 6 protein OS=Homo sapiens OX=9606 GN=HPS6 PE=1 SV=1,ALLEQTGAQGWLSGPVLSPYEDILWDPSTPPPTPPR S18(Phospho), S755,1.0674
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,AFDEDEDDPYVPMRPGVATPLVSSSDYMPMAPQNVSASK S25(Phospho) Y27(Phospho), S715 Y717,1.0673
+P53041,Serine/threonine-protein phosphatase 5 OS=Homo sapiens OX=9606 GN=PPP5C PE=1 SV=1,GNHETDNMNQIYGFEGEVK Y12(Phospho), Y313,1.0663
+O75794,Cell division cycle protein 123 homolog OS=Homo sapiens OX=9606 GN=CDC123 PE=1 SV=1,CTNSEVTVQPSPYLSYR Y13(Phospho), Y301,1.0654
+Q969T9,WW domain-binding protein 2 OS=Homo sapiens OX=9606 GN=WBP2 PE=1 SV=1,AAEAAASAYYNPGNPHNVYMPTSQPPPPPYYPPEDK Y9(Phospho), Y231,1.0653
+Q05682,Caldesmon OS=Homo sapiens OX=9606 GN=CALD1 PE=1 SV=3,IAYQRNDDDEEEAAR Y3(Phospho), Y27,1.0651
+Q93052,Lipoma-preferred partner OS=Homo sapiens OX=9606 GN=LPP PE=1 SV=1,YYEGYYAAGPGYGGR Y2(Phospho), Y297,1.0642
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,AQQGLYQVPGPSPQFQSPPAK Y6(Phospho), Y128,1.064
+Q86SQ0,Pleckstrin homology-like domain family B member 2 OS=Homo sapiens OX=9606 GN=PHLDB2 PE=1 SV=2,ASSESSYLSILPK Y7(Phospho), Y567,1.0637
+Q96EY5,Multivesicular body subunit 12A OS=Homo sapiens OX=9606 GN=MVB12A PE=1 SV=1,RNDSIYEASSLYGISAMDGVPFTLHPR Y6(Phospho), Y204,1.0634
+Q15717,ELAV-like protein 1 OS=Homo sapiens OX=9606 GN=ELAVL1 PE=1 SV=2,NVALLSQLYHSPAR Y9(Phospho), Y200,1.063
+Q9UQB8,Brain-specific angiogenesis inhibitor 1-associated protein 2 OS=Homo sapiens OX=9606 GN=BAIAP2 PE=1 SV=1,NSYATTENK Y3(Phospho), Y353,1.0627
+Q14126,Desmoglein-2 OS=Homo sapiens OX=9606 GN=DSG2 PE=1 SV=2,VYAPASTLVDQPYANEGTVVVTER Y2(Phospho) Y13(Phospho), Y968 Y979,1.062
+P51114,Fragile X mental retardation syndrome-related protein 1 OS=Homo sapiens OX=9606 GN=FXR1 PE=1 SV=3,RGPNYTSGYGTNSELSNPSETESER T11(Phospho), T401,1.0615
+Q9UKY7,Protein CDV3 homolog OS=Homo sapiens OX=9606 GN=CDV3 PE=1 SV=1,EVDYSGLR Y4(Phospho), Y95,1.0574
+Q96D71,RalBP1-associated Eps domain-containing protein 1 OS=Homo sapiens OX=9606 GN=REPS1 PE=1 SV=3,HAASYSSDSENQGSYSGVIPPPPGR Y15(Phospho), Y126,1.0573
+Q5SW79,Centrosomal protein of 170 kDa OS=Homo sapiens OX=9606 GN=CEP170 PE=1 SV=1,GTPLYGQPSWWGDDEVDEKR Y5(Phospho), Y177,1.056
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 OS=Homo sapiens OX=9606 GN=PAG1 PE=1 SV=2,SVDGDQGLGMEGPYEVLK Y14(Phospho), Y163,1.056
+P23921,Ribonucleoside-diphosphate reductase large subunit OS=Homo sapiens OX=9606 GN=RRM1 PE=1 SV=1,DDSIEGIYDTLK Y8(Phospho), Y232,1.0545
+Q15057,"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2 OS=Homo sapiens OX=9606 GN=ACAP2 PE=1 SV=3",ESEGLYGQPGDETYQDIFR Y14(Phospho), Y750,1.0535
+Q9C0H9,SRC kinase signaling inhibitor 1 OS=Homo sapiens OX=9606 GN=SRCIN1 PE=1 SV=4,GEGLYADPYGLLHEGR Y5(Phospho), Y396,1.0501
+A6NGB9,WAS/WASL-interacting protein family member 3 OS=Homo sapiens OX=9606 GN=WIPF3 PE=1 SV=4,AEPASPAQDAQEPPAPPPPLPPYASCSPR S5(Phospho) Y23(Phospho), S281 Y299,1.049
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,QTSNPNGPTPQYQTTAR T15(Phospho), T309,1.0484
+Q9NP74,Palmdelphin OS=Homo sapiens OX=9606 GN=PALMD PE=1 SV=1,AEESIEDIYANIPDLPK Y9(Phospho), Y140,1.0461
+Q02410,Amyloid-beta A4 precursor protein-binding family A member 1 OS=Homo sapiens OX=9606 GN=APBA1 PE=1 SV=3,AQDPEDESAYAVQYRPEAEEYTEQAEAEHAEATHR T22(Phospho), T130,1.046
+Q5VT25,Serine/threonine-protein kinase MRCK alpha OS=Homo sapiens OX=9606 GN=CDC42BPA PE=1 SV=1,KLQESTQTVQALQYSTVDGPLTASK Y14(Phospho), Y474,1.0449
+Q68D51,DENN domain-containing protein 2C OS=Homo sapiens OX=9606 GN=DENND2C PE=1 SV=2,VLDSSYGITK Y6(Phospho), Y185,1.0431
+Q9UQB8,Brain-specific angiogenesis inhibitor 1-associated protein 2 OS=Homo sapiens OX=9606 GN=BAIAP2 PE=1 SV=1,QRPYSVAVPAFSQGLDDYGAR S5(Phospho), S492,1.043
+A1XBS5,Protein FAM92A OS=Homo sapiens OX=9606 GN=FAM92A PE=1 SV=2,NSLYAPDYSSR S10(Phospho), S232,1.043
+O75674,TOM1-like protein 1 OS=Homo sapiens OX=9606 GN=TOM1L1 PE=1 SV=2,SDLQPPNYYEVMEFDPLAPAVTTEAIYEEIDAHQHK T23(Phospho), T456,1.043
+P06733,Alpha-enolase OS=Homo sapiens OX=9606 GN=ENO1 PE=1 SV=2,AAVPSGASTGIYEALELRDNDK Y12(Phospho), Y44,1.0427
+P37198,Nuclear pore glycoprotein p62 OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=3,EQSGTIYLQHADEEREK Y7(Phospho), Y422,1.0413
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,VKEEGYELPYNPATDDYAVPPPR Y6(Phospho) T14(Phospho), Y398 T406,1.0411
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,VLPPEVADGGVVDSGVYAVPPPAER S14(Phospho), S407,1.041
+P43405,Tyrosine-protein kinase SYK OS=Homo sapiens OX=9606 GN=SYK PE=1 SV=1,ADENYYKAQTHGK Y6(Phospho), Y526,1.0395
+Q8WZ64,"Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 2 OS=Homo sapiens OX=9606 GN=ARAP2 PE=1 SV=3",MQDIPIYANVHK Y7(Phospho), Y77,1.0369
+Q9NSK0,Kinesin light chain 4 OS=Homo sapiens OX=9606 GN=KLC4 PE=1 SV=3,GQGATAAQQGGYEIPAR Y12(Phospho), Y205,1.0366
+Q5JTD0,Tight junction-associated protein 1 OS=Homo sapiens OX=9606 GN=TJAP1 PE=1 SV=1,NSPLPNCTYATR T8(Phospho), T351,1.0352
+Q13017,Rho GTPase-activating protein 5 OS=Homo sapiens OX=9606 GN=ARHGAP5 PE=1 SV=2,GYSDEIYVVPDDSQNR Y7(Phospho), Y1109,1.0345
+Q8IXW5,Putative RNA polymerase II subunit B1 CTD phosphatase RPAP2 OS=Homo sapiens OX=9606 GN=RPAP2 PE=1 SV=1,ASENSESEYSR S10(Phospho), S320,1.0336
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,TQTPPVSPAPQPTEERLPSSPVYEDAASFK S7(Phospho) Y23(Phospho), S405 Y421,1.0333
+Q9Y490,Talin-1 OS=Homo sapiens OX=9606 GN=TLN1 PE=1 SV=3,SNTSPEELGPLANQLTSDYGR Y19(Phospho), Y1893,1.0329
+P62241,40S ribosomal protein S8 OS=Homo sapiens OX=9606 GN=RPS8 PE=1 SV=2,QWYESHYALPLGR Y7(Phospho), Y117,1.0326
+Q8IZP0,Abl interactor 1 OS=Homo sapiens OX=9606 GN=ABI1 PE=1 SV=4,TLEPVKPPTVPNDYMTSPAR S17(Phospho), S216,1.0324
+Q9NYB9,Abl interactor 2 OS=Homo sapiens OX=9606 GN=ABI2 PE=1 SV=1,TLEPVRPPVVPNDYVPSPTR Y14(Phospho), Y213,1.0319
+Q96PD2,"Discoidin, CUB and LCCL domain-containing protein 2 OS=Homo sapiens OX=9606 GN=DCBLD2 PE=1 SV=1",TDSCSSAQAQYDTPK T13(Phospho), T734,1.03
+O15357,"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2 OS=Homo sapiens OX=9606 GN=INPPL1 PE=1 SV=2",NSFNNPAYYVLEGVPHQLLPPEPPSPAR Y8(Phospho), Y986,1.0298
+Q14790,Caspase-8 OS=Homo sapiens OX=9606 GN=CASP8 PE=1 SV=1,GIPVETDSEEQPYLEMDLSSPQTR Y13(Phospho), Y380,1.0293
+Q15678,Tyrosine-protein phosphatase non-receptor type 14 OS=Homo sapiens OX=9606 GN=PTPN14 PE=1 SV=2,NLNIINTHAYNQPEDLVYSQPEMR Y10(Phospho), Y477,1.028
+O15042,U2 snRNP-associated SURP motif-containing protein OS=Homo sapiens OX=9606 GN=U2SURP PE=1 SV=2,AAAEIYEEFLAAFEGSDGNK Y6(Phospho), Y117,1.0252
+P23528; Q9Y281,Cofilin-1 OS=Homo sapiens OX=9606 GN=CFL1 PE=1 SV=3; Cofilin-2 OS=Homo sapiens OX=9606 GN=CFL2 PE=1 SV=1,YALYDATYETK Y1(Phospho), Y82,1.025
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,VKEEGYELPYNPATDDYAVPPPR Y6(Phospho) Y10(Phospho), Y398 Y402,1.0238
+P49023,Paxillin OS=Homo sapiens OX=9606 GN=PXN PE=1 SV=3,FIHQQPQSSSPVYGSSAK S10(Phospho) Y13(Phospho), S85 Y88,1.0235
+Q13546,Receptor-interacting serine/threonine-protein kinase 1 OS=Homo sapiens OX=9606 GN=RIPK1 PE=1 SV=3,LQDEANYHLYGSR Y10(Phospho), Y387,1.0232
+O95297,Myelin protein zero-like protein 1 OS=Homo sapiens OX=9606 GN=MPZL1 PE=1 SV=1,SESVVYADIR Y6(Phospho), Y263,1.022
+Q13813,"Spectrin alpha chain, non-erythrocytic 1 OS=Homo sapiens OX=9606 GN=SPTAN1 PE=1 SV=3",VAEDLESEGLMAEEVQAVQQQEVYGMMPR Y24(Phospho), Y1176,1.0207
+O00401,Neural Wiskott-Aldrich syndrome protein OS=Homo sapiens OX=9606 GN=WASL PE=1 SV=2,ETSKVIYDFIEK Y7(Phospho), Y256,1.0203
+P61244,Protein max OS=Homo sapiens OX=9606 GN=MAX PE=1 SV=1,SSAQLQTNYPSSDNSLYTNAK Y17(Phospho), Y123,1.0191
+P54105,Methylosome subunit pICln OS=Homo sapiens OX=9606 GN=CLNS1A PE=1 SV=1,TEDSIRDYEDGMEVDTTPTVAGQFEDADVDH Y8(Phospho), Y214,1.0181
+Q99755,Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha OS=Homo sapiens OX=9606 GN=PIP5K1A PE=1 SV=1; Putative PIP5K1A and PSMD4-like protein OS=Homo sapiens OX=9606 GN=PIPSL PE=5 SV=1,EPLSSETQYSVDTR T13(Phospho), T350,1.0167
+Q14185,Dedicator of cytokinesis protein 1 OS=Homo sapiens OX=9606 GN=DOCK1 PE=1 SV=2,GSVADYGNLMENQDLLGSPTPPPPPPHQR Y6(Phospho), Y1811,1.0167
+Q9C026,E3 ubiquitin-protein ligase TRIM9 OS=Homo sapiens OX=9606 GN=TRIM9 PE=1 SV=1,MSLYSEADSGYGSYGGFASAPTTPCQK Y11(Phospho), Y78,1.0165
+Q9UQB8,Brain-specific angiogenesis inhibitor 1-associated protein 2 OS=Homo sapiens OX=9606 GN=BAIAP2 PE=1 SV=1,QRPYSVAVPAFSQGLDDYGAR Y18(Phospho), Y505,1.0164
+P42684,Tyrosine-protein kinase ABL2 OS=Homo sapiens OX=9606 GN=ABL2 PE=1 SV=1,YELTGNFSSVASLQHADGFSFTPAQQEANLVPPK Y1(Phospho), Y683,1.0162
+O14964,Hepatocyte growth factor-regulated tyrosine kinase substrate OS=Homo sapiens OX=9606 GN=HGS PE=1 SV=1,STYTSYPK Y6(Phospho), Y289,1.0145
+Q9UL54,Serine/threonine-protein kinase TAO2 OS=Homo sapiens OX=9606 GN=TAOK2 PE=1 SV=2,LPGSDNLYDDPYQPEITPSPLQPPAAPAPTSTTSSAR Y8(Phospho), Y426,1.0118
+P31943,Heterogeneous nuclear ribonucleoprotein H OS=Homo sapiens OX=9606 GN=HNRNPH1 PE=1 SV=4; Heterogeneous nuclear ribonucleoprotein F OS=Homo sapiens OX=9606 GN=HNRNPF PE=1 SV=3,ATENDIYNFFSPLNPVR Y7(Phospho), Y306,1.0103
+Q92574,Hamartin OS=Homo sapiens OX=9606 GN=TSC1 PE=1 SV=2,SADVTTSPYADTQNSYGCATSTPYSTSR Y9(Phospho), Y297,1.0094
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,IYVVDPFSECCMDISLSPSR Y2(Phospho), Y1046,1.0092
+Q02410,Amyloid-beta A4 precursor protein-binding family A member 1 OS=Homo sapiens OX=9606 GN=APBA1 PE=1 SV=3,AQDPEDESAYAVQYRPEAEEYTEQAEAEHAEATHR Y10(Phospho), Y118,1.0079
+P18206,Vinculin OS=Homo sapiens OX=9606 GN=VCL PE=1 SV=4,NPGNQAAYEHFETMK Y8(Phospho), Y692,1.007
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TATCHSSSSPPIDAASAEPYGFR S9(Phospho) Y20(Phospho), S1819 Y1830,1.004
+Q96NE9,FERM domain-containing protein 6 OS=Homo sapiens OX=9606 GN=FRMD6 PE=1 SV=1,DTGPEDSYSSSAIHR S11(Phospho), S415,1.0025
+Q9NUM4,Transmembrane protein 106B OS=Homo sapiens OX=9606 GN=TMEM106B PE=1 SV=2,GQENQLVALIPYSDQR S13(Phospho), S85,1.0021
+O43390,Heterogeneous nuclear ribonucleoprotein R OS=Homo sapiens OX=9606 GN=HNRNPR PE=1 SV=1,STAYEDYYYHPPPR Y4(Phospho), Y431,1.002
+Q8N8Z6,"Discoidin, CUB and LCCL domain-containing protein 1 OS=Homo sapiens OX=9606 GN=DCBLD1 PE=1 SV=2",HEYALPLAPPEPEYATPIVER Y14(Phospho), Y600,1.0018
+Q9NZJ9,Diphosphoinositol polyphosphate phosphohydrolase 3-alpha OS=Homo sapiens OX=9606 GN=NUDT10 PE=1 SV=1; Diphosphoinositol polyphosphate phosphohydrolase 2 OS=Homo sapiens OX=9606 GN=NUDT4 PE=1 SV=2; Diphosphoinositol polyphosphate phosphohydrolase 3-beta OS=Homo sapiens OX=9606 GN=NUDT11 PE=1 SV=1,EVYEEAGVK Y3(Phospho), Y67,1.0011
+O15067,Phosphoribosylformylglycinamidine synthase OS=Homo sapiens OX=9606 GN=PFAS PE=1 SV=4,ELSDPAGAIIYTSR S13(Phospho), S540,0.999
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,VGQGYVYEAAQPEQDEYDIPR Y5(Phospho), Y222,0.9982
+P55072,Transitional endoplasmic reticulum ATPase OS=Homo sapiens OX=9606 GN=VCP PE=1 SV=4,FPSGNQGGAGPSQGSGGGTGGSVYTEDNDDDLYG T25(Phospho), T797,0.9938
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,AGPLAGGVTTFVALYDYESR Y17(Phospho), Y95,0.9934
+Q15654,Thyroid receptor-interacting protein 6 OS=Homo sapiens OX=9606 GN=TRIP6 PE=1 SV=3,VNFCPLPSEQCYQAPGGPEDR Y12(Phospho), Y55,0.9914
+Q8WX93,Palladin OS=Homo sapiens OX=9606 GN=PALLD PE=1 SV=3,YAALSDQGLDIK Y1(Phospho), Y1348,0.9914
+Q96HC4,PDZ and LIM domain protein 5 OS=Homo sapiens OX=9606 GN=PDLIM5 PE=1 SV=5,YTEFYHVPTHSDASK Y5(Phospho), Y251,0.9907
+Q8TER5,Rho guanine nucleotide exchange factor 40 OS=Homo sapiens OX=9606 GN=ARHGEF40 PE=1 SV=3,SPGDGHNAPVEGPEGEYVELLEVTLPVR Y17(Phospho), Y242,0.9903
+Q9Y5X1,Sorting nexin-9 OS=Homo sapiens OX=9606 GN=SNX9 PE=1 SV=1,EKIPIIVGDYGPMWVYPTSTFDCVVADPR Y10(Phospho), Y239,0.9902
+P78324,Tyrosine-protein phosphatase non-receptor type substrate 1 OS=Homo sapiens OX=9606 GN=SIRPA PE=1 SV=2,EITQDTNDITYADLNLPK T10(Phospho), T428,0.9895
+P17028,Zinc finger protein 24 OS=Homo sapiens OX=9606 GN=ZNF24 PE=1 SV=4,IHTGEKPYECVQCGK Y8(Phospho), Y335,0.989
+Q92900,Regulator of nonsense transcripts 1 OS=Homo sapiens OX=9606 GN=UPF1 PE=1 SV=2,SQIDVALSQDSTYQGER Y13(Phospho), Y1112,0.9887
+P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4,NPDDITQEEYGEFYK Y10(Phospho), Y301,0.9871
+P35611,Alpha-adducin OS=Homo sapiens OX=9606 GN=ADD1 PE=1 SV=2,YFDRVDENNPEYLR Y1(Phospho), Y24,0.9866
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 OS=Homo sapiens OX=9606 GN=PAG1 PE=1 SV=2,SREEDPTLTEEEISAMYSSVNKPGQLVNK S14(Phospho), S314,0.9853
+P82970,High mobility group nucleosome-binding domain-containing protein 5 OS=Homo sapiens OX=9606 GN=HMGN5 PE=1 SV=1,QEAVVEEDYNENAK Y9(Phospho), Y76,0.9852
+Q6P2Q9,Pre-mRNA-processing-splicing factor 8 OS=Homo sapiens OX=9606 GN=PRPF8 PE=1 SV=2,HGDEIITSTTSNYETQTFSSK S8(Phospho), S2057,0.984
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,HYEDGYPGGSDNYGSLSR S10(Phospho), S225,0.9833
+Q86V48,Leucine zipper protein 1 OS=Homo sapiens OX=9606 GN=LUZP1 PE=1 SV=2,EFALNNENYSLSNR Y9(Phospho), Y414,0.9812
+Q96PD2,"Discoidin, CUB and LCCL domain-containing protein 2 OS=Homo sapiens OX=9606 GN=DCBLD2 PE=1 SV=1",AGKPGLPAPDELVYQVPQSTQEVSGAGR Y14(Phospho), Y750,0.9801
+Q5T5P2,Sickle tail protein homolog OS=Homo sapiens OX=9606 GN=KIAA1217 PE=1 SV=2,NEGFYADPYLYHEGR Y9(Phospho), Y397,0.9797
+P50991,T-complex protein 1 subunit delta OS=Homo sapiens OX=9606 GN=CCT4 PE=1 SV=4,TDMDNQIVVSDYAQMDR Y12(Phospho), Y269,0.9794
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,ADGATSDDLDLHDDRLSYLSAPGSEYSMYSTDSR Y26(Phospho), Y830,0.9786
+Q96C90,Protein phosphatase 1 regulatory subunit 14B OS=Homo sapiens OX=9606 GN=PPP1R14B PE=1 SV=3,VYFQSPPGAAGEGPGGADDEGPVRR Y2(Phospho), Y29,0.9778
+O94804,Serine/threonine-protein kinase 10 OS=Homo sapiens OX=9606 GN=STK10 PE=1 SV=1,FFPYSSADAS Y4(Phospho), Y962,0.9761
+Q6PJT7,Zinc finger CCCH domain-containing protein 14 OS=Homo sapiens OX=9606 GN=ZC3H14 PE=1 SV=1,QTYDDGAATR Y3(Phospho), Y147,0.9759
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,LTDPKEDPIYDEPEGLAPVPPQGLYDLPR Y25(Phospho), Y377,0.9731
+P42684,Tyrosine-protein kinase ABL2 OS=Homo sapiens OX=9606 GN=ABL2 PE=1 SV=1,AASSSSVVPYLPR Y10(Phospho), Y568,0.9724
+Q86SQ0,Pleckstrin homology-like domain family B member 2 OS=Homo sapiens OX=9606 GN=PHLDB2 PE=1 SV=2,TSASEGNPYVSSTLSVPASPR Y9(Phospho) S19(Phospho), Y324 S334,0.9723
+Q16539,Mitogen-activated protein kinase 14 OS=Homo sapiens OX=9606 GN=MAPK14 PE=1 SV=3,HTDDEMTGYVATR T12(Phospho), T185,0.9723
+Q9Y4J8,Dystrobrevin alpha OS=Homo sapiens OX=9606 GN=DTNA PE=1 SV=2,LQDEAYQVSLQG Y6(Phospho), Y737,0.9698
+Q00013,55 kDa erythrocyte membrane protein OS=Homo sapiens OX=9606 GN=MPP1 PE=1 SV=2,SRPEAVSHPLNTVTEDMYTNGSPAPGSPAQVK S22(Phospho), S52,0.9687
+Q01804,OTU domain-containing protein 4 OS=Homo sapiens OX=9606 GN=OTUD4 PE=1 SV=4,QFYNQTYGSR S9(Phospho), S1049,0.9658
+Q9P270,SLAIN motif-containing protein 2 OS=Homo sapiens OX=9606 GN=SLAIN2 PE=1 SV=2,MQEESLRQEYAATTSR Y10(Phospho), Y293,0.9652
+P49815,Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=2,APAQTPAEPTPGYEVGQR Y13(Phospho), Y1788,0.9633
+Q12965,Unconventional myosin-Ie OS=Homo sapiens OX=9606 GN=MYO1E PE=1 SV=2,NTTQNTGYSSGTQNANYPVR Y17(Phospho), Y950,0.9628
+O75347,Tubulin-specific chaperone A OS=Homo sapiens OX=9606 GN=TBCA PE=1 SV=3,RLEAAYLDLQR Y6(Phospho), Y75,0.9624
+Q6UUV9,CREB-regulated transcription coactivator 1 OS=Homo sapiens OX=9606 GN=CRTC1 PE=1 SV=2,QADSCPYGTMYLSPPADTSWR Y7(Phospho), Y133,0.9618
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,LSYLSAPGSEYSMYSTDSR S9(Phospho), S828,0.9607
+P06733,Beta-enolase OS=Homo sapiens OX=9606 GN=ENO3 PE=1 SV=5; Gamma-enolase OS=Homo sapiens OX=9606 GN=ENO2 PE=1 SV=3; Alpha-enolase OS=Homo sapiens OX=9606 GN=ENO1 PE=1 SV=2,AAVPSGASTGIYEALELR T9(Phospho), T41,0.9603
+P09234,U1 small nuclear ribonucleoprotein C OS=Homo sapiens OX=9606 GN=SNRPC PE=1 SV=1,FYCDYCDTYLTHDSPSVR T8(Phospho), T11,0.9582
+Q96EY5,Multivesicular body subunit 12A OS=Homo sapiens OX=9606 GN=MVB12A PE=1 SV=1,RNDSIYEASSLYGISAMDGVPFTLHPR Y12(Phospho), Y210,0.9579
+P60709,"Actin, cytoplasmic 1 OS=Homo sapiens OX=9606 GN=ACTB PE=1 SV=1; Actin, cytoplasmic 2 OS=Homo sapiens OX=9606 GN=ACTG1 PE=1 SV=1",TTGIVMDSGDGVTHTVPIYEGYALPHAILR Y19(Phospho), Y166,0.9576
+P16591,Tyrosine-protein kinase Fer OS=Homo sapiens OX=9606 GN=FER PE=1 SV=2,VQENDGKEPPPVVNYEEDAR Y15(Phospho), Y402,0.9556
+Q15417,Calponin-3 OS=Homo sapiens OX=9606 GN=CNN3 PE=1 SV=1,CASQAGMTAYGTRR Y10(Phospho), Y182,0.9549
+P08133,Annexin A6 OS=Homo sapiens OX=9606 GN=ANXA6 PE=1 SV=3,LSGGDDDAAGQFFPEAAQVAYQMWELSAVAR Y21(Phospho), Y340,0.954
+Q9UHP3,Ubiquitin carboxyl-terminal hydrolase 25 OS=Homo sapiens OX=9606 GN=USP25 PE=1 SV=4,TPQQEETTYYQTALPGNDR Y9(Phospho), Y69,0.9535
+Q8IWX8,Calcium homeostasis endoplasmic reticulum protein OS=Homo sapiens OX=9606 GN=CHERP PE=1 SV=3,GVGVALDDPYENYRR Y13(Phospho), Y897,0.9522
+Q8TDY4,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 3 OS=Homo sapiens OX=9606 GN=ASAP3 PE=1 SV=1",TYETVASLGAATPQGESEDCPPPLPVK Y2(Phospho), Y733,0.9522
+Q96BY7,Autophagy-related protein 2 homolog B OS=Homo sapiens OX=9606 GN=ATG2B PE=1 SV=5,EGITDTAQTIYETAAR T13(Phospho), T2014,0.9511
+P14923,Junction plakoglobin OS=Homo sapiens OX=9606 GN=JUP PE=1 SV=3,HVAAGTQQPYTDGVR T11(Phospho), T551,0.9499
+Q92625,Ankyrin repeat and SAM domain-containing protein 1A OS=Homo sapiens OX=9606 GN=ANKS1A PE=1 SV=4,EEDEHPYELLLTAETKK Y7(Phospho), Y455,0.9498
+P51116,Fragile X mental retardation syndrome-related protein 2 OS=Homo sapiens OX=9606 GN=FXR2 PE=1 SV=2,DPDSNPYSLLDTSEPEPPVDSEPGEPPPASAR S8(Phospho), S520,0.9483
+P50542,Peroxisomal targeting signal 1 receptor OS=Homo sapiens OX=9606 GN=PEX5 PE=1 SV=3,DAEAHPWLSDYDDLTSATYDK Y11(Phospho), Y312,0.9472
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,AFDEDEDDPYVPMRPGVATPLVSSSDYMPMAPQNVSASK S25(Phospho), S715,0.9471
+P60709,"Actin, gamma-enteric smooth muscle OS=Homo sapiens OX=9606 GN=ACTG2 PE=1 SV=1; Actin, cytoplasmic 1 OS=Homo sapiens OX=9606 GN=ACTB PE=1 SV=1; Actin, aortic smooth muscle OS=Homo sapiens OX=9606 GN=ACTA2 PE=1 SV=1; Actin, alpha skeletal muscle OS=Homo sapiens OX=9606 GN=ACTA1 PE=1 SV=1; Actin, alpha cardiac muscle 1 OS=Homo sapiens OX=9606 GN=ACTC1 PE=1 SV=1; Actin, cytoplasmic 2 OS=Homo sapiens OX=9606 GN=ACTG1 PE=1 SV=1",DSYVGDEAQSK Y3(Phospho), Y54,0.946
+O75970,Multiple PDZ domain protein OS=Homo sapiens OX=9606 GN=MPDZ PE=1 SV=2,DIPELPEREEGEGEESELQNTAYSNWNQPR Y23(Phospho), Y1143,0.9419
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,DLEQPTYRYESSSYTDQFSR Y7(Phospho), Y1059,0.9389
+Q9H792,Inactive tyrosine-protein kinase PEAK1 OS=Homo sapiens OX=9606 GN=PEAK1 PE=1 SV=4,YQEVWTSSTSPR Y1(Phospho), Y531,0.9388
+P13639,Elongation factor 2 OS=Homo sapiens OX=9606 GN=EEF2 PE=1 SV=4,LMEPIYLVEIQCPEQVVGGIYGVLNR Y21(Phospho), Y760,0.9383
+Q9UDY2,Tight junction protein ZO-2 OS=Homo sapiens OX=9606 GN=TJP2 PE=1 SV=2,HPDIYAVPIK Y5(Phospho), Y1118,0.9377
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,SPPLIGSESAYESFLSADDK Y11(Phospho), Y1410,0.9366
+Q8TEW0,Partitioning defective 3 homolog OS=Homo sapiens OX=9606 GN=PARD3 PE=1 SV=2,KNASSVSQDSWEQNYSPGEGFQSAK Y15(Phospho), Y1244,0.933
+O75145,Liprin-alpha-3 OS=Homo sapiens OX=9606 GN=PPFIA3 PE=1 SV=3,YSQAPTLPSGAHLDPYVAGSGR Y16(Phospho), Y533,0.9294
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,FVAYNEEEEEEDCSLAGPNSYPGSTGAAVGAHDACR Y4(Phospho), Y1733,0.929
+P08865,40S ribosomal protein SA OS=Homo sapiens OX=9606 GN=RPSA PE=1 SV=4,ADHQPLTEASYVNLPTIALCNTDSPLR Y11(Phospho), Y139,0.9284
+Q8WXE0,Caskin-2 OS=Homo sapiens OX=9606 GN=CASKIN2 PE=1 SV=2,SHSLSRPGPTEGDAEGEAEGPVGSTLGSYATLTR S5(Phospho) Y29(Phospho), S802 Y826,0.928
+Q6ZV73,"FYVE, RhoGEF and PH domain-containing protein 6 OS=Homo sapiens OX=9606 GN=FGD6 PE=1 SV=2",SVTSLCAPEYENIR Y10(Phospho), Y748,0.9269
+Q86SQ0,Pleckstrin homology-like domain family B member 2 OS=Homo sapiens OX=9606 GN=PHLDB2 PE=1 SV=2,SHDNVYSLGGLEGR Y6(Phospho), Y162,0.9258
+Q86XL3,Ankyrin repeat and LEM domain-containing protein 2 OS=Homo sapiens OX=9606 GN=ANKLE2 PE=1 SV=4,EPPLYYGVCPVYEDVPAR Y12(Phospho), Y206,0.9257
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 OS=Homo sapiens OX=9606 GN=PAG1 PE=1 SV=2,DSSSQENMVEDCLYETVK Y14(Phospho), Y181,0.9249
+Q9H814,Phosphorylated adapter RNA export protein OS=Homo sapiens OX=9606 GN=PHAX PE=1 SV=1,AFQNTATACAPVSHYR Y15(Phospho), Y57,0.9241
+Q9NQ84,G-protein coupled receptor family C group 5 member C OS=Homo sapiens OX=9606 GN=GPRC5C PE=1 SV=2,VPSEGAYDIILPR Y7(Phospho), Y387,0.9232
+Q9Y5K8,V-type proton ATPase subunit D OS=Homo sapiens OX=9606 GN=ATP6V1D PE=1 SV=1,DNVAGVTLPVFEHYHEGTDSYELTGLAR S20(Phospho), S118,0.9212
+Q8WXE0,Caskin-2 OS=Homo sapiens OX=9606 GN=CASKIN2 PE=1 SV=2,SHSLSRPGPTEGDAEGEAEGPVGSTLGSYATLTR S3(Phospho) Y29(Phospho), S800 Y826,0.9189
+P23528; Q9Y281,Cofilin-1 OS=Homo sapiens OX=9606 GN=CFL1 PE=1 SV=3; Cofilin-2 OS=Homo sapiens OX=9606 GN=CFL2 PE=1 SV=1,YALYDATYETK Y8(Phospho), Y89,0.9152
+O60739,Eukaryotic translation initiation factor 1 OS=Homo sapiens OX=9606 GN=EIF1 PE=1 SV=1; Eukaryotic translation initiation factor 1b OS=Homo sapiens OX=9606 GN=EIF1B PE=1 SV=2,FACNGTVIEHPEYGEVIQLQGDQR Y13(Phospho), Y79,0.913
+P22626,Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens OX=9606 GN=HNRNPA2B1 PE=1 SV=2,NMGGPYGGGNYGPGGSGGSGGYGGR Y6(Phospho), Y331,0.9106
+Q8WXE0,Caskin-2 OS=Homo sapiens OX=9606 GN=CASKIN2 PE=1 SV=2,SHSLSRPGPTEGDAEGEAEGPVGSTLGSYATLTR T10(Phospho) Y29(Phospho), T807 Y826,0.91
+Q16643,Drebrin OS=Homo sapiens OX=9606 GN=DBN1 PE=1 SV=4,LREDENAEPVGTTYQK Y14(Phospho), Y163,0.9093
+Q8WUA2,Peptidyl-prolyl cis-trans isomerase-like 4 OS=Homo sapiens OX=9606 GN=PPIL4 PE=1 SV=1,QDTKYDLILDEQAEDSK Y5(Phospho), Y363,0.9085
+Q05397,Focal adhesion kinase 1 OS=Homo sapiens OX=9606 GN=PTK2 PE=1 SV=2,SNDKVYENVTGLVK S1(Phospho), S920,0.9062
+Q14126,Desmoglein-2 OS=Homo sapiens OX=9606 GN=DSG2 PE=1 SV=2,VYAPASTLVDQPYANEGTVVVTER Y2(Phospho), Y968,0.901
+O14639,Actin-binding LIM protein 1 OS=Homo sapiens OX=9606 GN=ABLIM1 PE=1 SV=3,STSQGSINSPVYSR Y12(Phospho), Y461,0.9006
+Q92560,Ubiquitin carboxyl-terminal hydrolase BAP1 OS=Homo sapiens OX=9606 GN=BAP1 PE=1 SV=2,IGLATAGEPYHDIR Y10(Phospho), Y223,0.8977
+Q9NZ63,Telomere length and silencing protein 1 homolog OS=Homo sapiens OX=9606 GN=C9orf78 PE=1 SV=1,NAEDCLYELPENIR Y7(Phospho), Y147,0.8957
+P23528; Q9Y281,Cofilin-1 OS=Homo sapiens OX=9606 GN=CFL1 PE=1 SV=3; Cofilin-2 OS=Homo sapiens OX=9606 GN=CFL2 PE=1 SV=1,YALYDATYETK Y4(Phospho), Y85,0.8947
+Q9NP73,Putative bifunctional UDP-N-acetylglucosamine transferase and deubiquitinase ALG13 OS=Homo sapiens OX=9606 GN=ALG13 PE=1 SV=2,AEPDYETSGVYSTTASTANLSLQDR Y5(Phospho), Y804,0.894
+P14923,Junction plakoglobin OS=Homo sapiens OX=9606 GN=JUP PE=1 SV=3,TTTYTQGVPPSQGDLEYQMSTTAR Y17(Phospho), Y74,0.894
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,HYEDGYPGGSDNYGSLSR Y13(Phospho), Y228,0.8925
+A7KAX9,Rho GTPase-activating protein 32 OS=Homo sapiens OX=9606 GN=ARHGAP32 PE=1 SV=1,YAASGQESLR Y1(Phospho), Y1927,0.8902
+O75674,TOM1-like protein 1 OS=Homo sapiens OX=9606 GN=TOM1L1 PE=1 SV=2,SDLQPPNYYEVMEFDPLAPAVTTEAIYEEIDAHQHK Y9(Phospho) Y27(Phospho), Y442 Y460,0.8898
+Q96DR7,Rho guanine nucleotide exchange factor 26 OS=Homo sapiens OX=9606 GN=ARHGEF26 PE=1 SV=4,GQGTFDGEENAVLYQNYK Y14(Phospho), Y380,0.8894
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,SEGFELYNNSTQNGSPESPQLPWAEYSEPK Y7(Phospho), Y1132,0.888
+P78324,Tyrosine-protein phosphatase non-receptor type substrate 1 OS=Homo sapiens OX=9606 GN=SIRPA PE=1 SV=2,EITQDTNDITYADLNLPK Y11(Phospho), Y429,0.8869
+Q9Y490,Talin-1 OS=Homo sapiens OX=9606 GN=TLN1 PE=1 SV=3,ALDYYMLR Y4(Phospho), Y70,0.8861
+O95429,BAG family molecular chaperone regulator 4 OS=Homo sapiens OX=9606 GN=BAG4 PE=1 SV=1,DSSYPYSQSDQSMNR Y6(Phospho), Y302,0.8859
+P55072,Transitional endoplasmic reticulum ATPase OS=Homo sapiens OX=9606 GN=VCP PE=1 SV=4,FPSGNQGGAGPSQGSGGGTGGSVYTEDNDDDLYG Y33(Phospho), Y805,0.8858
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,SEGFELYNNSTQNGSPESPQLPWAEYSEPK Y26(Phospho), Y1151,0.8828
+Q14320,Protein FAM50B OS=Homo sapiens OX=9606 GN=FAM50B PE=1 SV=1; Protein FAM50A OS=Homo sapiens OX=9606 GN=FAM50A PE=1 SV=2,FSAHYDAVEAELK Y5(Phospho), Y53,0.8806
+Q8TEW0,Partitioning defective 3 homolog OS=Homo sapiens OX=9606 GN=PARD3 PE=1 SV=2,ISHSLYSGIEGLDESPSR S7(Phospho), S720,0.8802
+Q07157,Tight junction protein ZO-1 OS=Homo sapiens OX=9606 GN=TJP1 PE=1 SV=3,HEEQPAPGYDTHGR Y9(Phospho), Y1165,0.8788
+P49023,Paxillin OS=Homo sapiens OX=9606 GN=PXN PE=1 SV=3,FIHQQPQSSSPVYGSSAK S8(Phospho) Y13(Phospho), S83 Y88,0.8777
+Q8IY95,Transmembrane protein 192 OS=Homo sapiens OX=9606 GN=TMEM192 PE=1 SV=1,AKPEPDILEEEKIYAYPSNITSETGFR Y14(Phospho), Y213,0.8749
+Q96P48,"Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 1 OS=Homo sapiens OX=9606 GN=ARAP1 PE=1 SV=3",LSSAYLLGVPGSEQPDR Y5(Phospho), Y431,0.8738
+P51991,Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2,SSGSPYGGGYGSGGGSGGYGSR Y10(Phospho), Y364,0.8734
+O15226,NF-kappa-B-repressing factor OS=Homo sapiens OX=9606 GN=NKRF PE=1 SV=2,QEGQVGHYELVMPQAN Y8(Phospho), Y682,0.8731
+Q8WYP5,Protein ELYS OS=Homo sapiens OX=9606 GN=AHCTF1 PE=1 SV=3,EISEASENIYSDVR S11(Phospho), S1791,0.8725
+P68363; Q9BQE3,Tubulin alpha-3C/D chain OS=Homo sapiens OX=9606 GN=TUBA3C PE=1 SV=3; Tubulin alpha-3E chain OS=Homo sapiens OX=9606 GN=TUBA3E PE=1 SV=2; Tubulin alpha-1A chain OS=Homo sapiens OX=9606 GN=TUBA1A PE=1 SV=1; Tubulin alpha-8 chain OS=Homo sapiens OX=9606 GN=TUBA8 PE=1 SV=1; Tubulin alpha-1B chain OS=Homo sapiens OX=9606 GN=TUBA1B PE=1 SV=1; Tubulin alpha-1C chain OS=Homo sapiens OX=9606 GN=TUBA1C PE=1 SV=1; Tubulin alpha-4A chain OS=Homo sapiens OX=9606 GN=TUBA4A PE=1 SV=1,VGINYQPPTVVPGGDLAK Y5(Phospho), Y357,0.8717
+P50395,Rab GDP dissociation inhibitor beta OS=Homo sapiens OX=9606 GN=GDI2 PE=1 SV=2,TDDYLDQPCYETINR Y10(Phospho), Y203,0.8714
+Q9H4A3,Serine/threonine-protein kinase WNK1 OS=Homo sapiens OX=9606 GN=WNK1 PE=1 SV=2,GHMNYEGPGMAR Y5(Phospho), Y2276,0.8704
+Q96KG7,Multiple epidermal growth factor-like domains protein 10 OS=Homo sapiens OX=9606 GN=MEGF10 PE=1 SV=1,DSPYAEINNSTSANR Y4(Phospho), Y1061,0.8692
+P51991,Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2,SSGSPYGGGYGSGGGSGGYGSR Y19(Phospho), Y373,0.8683
+O75794,Cell division cycle protein 123 homolog OS=Homo sapiens OX=9606 GN=CDC123 PE=1 SV=1,CTNSEVTVQPSPYLSYR S11(Phospho), S299,0.8671
+Q9UEU0,Vesicle transport through interaction with t-SNAREs homolog 1B OS=Homo sapiens OX=9606 GN=VTI1B PE=1 SV=3,YGIYAVENEHMNR Y4(Phospho), Y115,0.867
+O60641,Clathrin coat assembly protein AP180 OS=Homo sapiens OX=9606 GN=SNAP91 PE=1 SV=2,IAAAQYSVTGSAVAR Y6(Phospho), Y15,0.8663
+Q96GP6,Scavenger receptor class F member 2 OS=Homo sapiens OX=9606 GN=SCARF2 PE=1 SV=4,SASSVEGPGGALYAR Y13(Phospho), Y628,0.8629
+P46939,Utrophin OS=Homo sapiens OX=9606 GN=UTRN PE=1 SV=2,LLIAQEPLYQCLVTTETFETGVPFSDLEK Y9(Phospho), Y1757,0.8625
+P07900; P08238,Heat shock protein HSP 90-alpha OS=Homo sapiens OX=9606 GN=HSP90AA1 PE=1 SV=5; Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4; Putative heat shock protein HSP 90-beta 2 OS=Homo sapiens OX=9606 GN=HSP90AB2P PE=1 SV=2; Heat shock protein HSP 90-alpha A2 OS=Homo sapiens OX=9606 GN=HSP90AA2P PE=1 SV=2,EKYIDQEELNK Y3(Phospho), Y284,0.8617
+Q9NRY4,Rho GTPase-activating protein 35 OS=Homo sapiens OX=9606 GN=ARHGAP35 PE=1 SV=3,SVSSSPWLPQDGFDPSDYAEPMDAVVKPR S16(Phospho), S1085,0.8599
+Q05397,Focal adhesion kinase 1 OS=Homo sapiens OX=9606 GN=PTK2 PE=1 SV=2,THAVSVSETDDYAEIIDEEDTYTMPSTR Y12(Phospho), Y397,0.8593
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 OS=Homo sapiens OX=9606 GN=PAG1 PE=1 SV=2,AEFAEYASVDR Y6(Phospho), Y227,0.8588
+Q96RT1,Erbin OS=Homo sapiens OX=9606 GN=ERBIN PE=1 SV=2,AQIPEGDYLSYR Y8(Phospho), Y1104,0.8573
+P22314,Ubiquitin-like modifier-activating enzyme 1 OS=Homo sapiens OX=9606 GN=UBA1 PE=1 SV=3,NGSEADIDEGLYSR S13(Phospho), S56,0.8566
+Q13123,Protein Red OS=Homo sapiens OX=9606 GN=IK PE=1 SV=3,RDGVNKDYEETELISTTANYR Y8(Phospho), Y114,0.856
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,VLPPEVADGGVVDSGVYAVPPPAER Y17(Phospho), Y410,0.8558
+P45984,Mitogen-activated protein kinase 9 OS=Homo sapiens OX=9606 GN=MAPK9 PE=1 SV=2,TACTNFMMTPYVVTR Y11(Phospho), Y185,0.8557
+Q99871,HAUS augmin-like complex subunit 7 OS=Homo sapiens OX=9606 GN=HAUS7 PE=1 SV=3,GGDDYSEDEGDSSVSR Y5(Phospho), Y25,0.8556
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,VGQGYVYEAAQPEQDEYDIPR Y7(Phospho), Y224,0.8554
+O75563,Src kinase-associated phosphoprotein 2 OS=Homo sapiens OX=9606 GN=SKAP2 PE=1 SV=1,PNPSSTSSPYPLPEEIR Y10(Phospho), Y11,0.8551
+Q9NWZ8,Gem-associated protein 8 OS=Homo sapiens OX=9606 GN=GEMIN8 PE=1 SV=1,LDSYVNADHDLYCNTR Y12(Phospho), Y179,0.8548
+P78324,Tyrosine-protein phosphatase non-receptor type substrate 1 OS=Homo sapiens OX=9606 GN=SIRPA PE=1 SV=2,QPAPKPEPSFSEYASVQVPR S11(Phospho), S494,0.8536
+Q15375,Ephrin type-A receptor 7 OS=Homo sapiens OX=9606 GN=EPHA7 PE=1 SV=3,VIEDDPEAVYTTTGGKIPVR Y10(Phospho), Y791,0.8495
+Q9C0H5,Rho GTPase-activating protein 39 OS=Homo sapiens OX=9606 GN=ARHGAP39 PE=1 SV=2,SGDYSTMEGPELR Y4(Phospho), Y448,0.8492
+Q14019,Coactosin-like protein OS=Homo sapiens OX=9606 GN=COTL1 PE=1 SV=3,KAGGANYDAQTE Y7(Phospho), Y137,0.8484
+Q08211,ATP-dependent RNA helicase A OS=Homo sapiens OX=9606 GN=DHX9 PE=1 SV=4,AENNSEVGASGYGVPGPTWDR Y12(Phospho), Y132,0.8476
+Q9BY89,Uncharacterized protein KIAA1671 OS=Homo sapiens OX=9606 GN=KIAA1671 PE=1 SV=2,YDIVHAVGER Y1(Phospho), Y733,0.8459
+Q9H792,Inactive tyrosine-protein kinase PEAK1 OS=Homo sapiens OX=9606 GN=PEAK1 PE=1 SV=4,FNSYNNAGMPPFPIIIHDEPTYAR T21(Phospho), T615,0.8447
+Q07912,Activated CDC42 kinase 1 OS=Homo sapiens OX=9606 GN=TNK2 PE=1 SV=3,YATPQVIQAPGPR Y1(Phospho), Y827,0.8443
+Q99615,DnaJ homolog subfamily C member 7 OS=Homo sapiens OX=9606 GN=DNAJC7 PE=1 SV=2,EQGNAYYAK Y7(Phospho), Y39,0.8442
+Q7Z5L2,Coiled-coil domain-containing protein R3HCC1L OS=Homo sapiens OX=9606 GN=R3HCC1L PE=1 SV=2,VLEILYEFPR Y6(Phospho), Y218,0.844
+O76039,Cyclin-dependent kinase-like 5 OS=Homo sapiens OX=9606 GN=CDKL5 PE=1 SV=1,NLSEGNNANYTEYVATR Y13(Phospho), Y171,0.8438
+Q01433,AMP deaminase 2 OS=Homo sapiens OX=9606 GN=AMPD2 PE=1 SV=2,TYEQGPDTPVSADAPVHPPALEQHPYEHCEPSTMPGDLGLGLR Y26(Phospho), Y307,0.8436
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,SEGFELYNNSTQNGSPESPQLPWAEYSEPK S10(Phospho), S1135,0.842
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,TPLVLAAPPPDSPPAEDVYDVPPPAPDLYDVPPGLR Y19(Phospho), Y362,0.8418
+P09651,Heterogeneous nuclear ribonucleoprotein A1 OS=Homo sapiens OX=9606 GN=HNRNPA1 PE=1 SV=5,NQGGYGGSSSSSSYGSGR Y14(Phospho), Y366,0.8407
+O95235,Kinesin-like protein KIF20A OS=Homo sapiens OX=9606 GN=KIF20A PE=1 SV=1,TPTCQSSTDCSPYAR Y13(Phospho), Y869,0.8391
+Q13625,Apoptosis-stimulating of p53 protein 2 OS=Homo sapiens OX=9606 GN=TP53BP2 PE=1 SV=2,IIYEVDDPSLPNDEGITALHNAVCAGHTEIVK Y3(Phospho), Y947,0.829
+P29317,Ephrin type-A receptor 2 OS=Homo sapiens OX=9606 GN=EPHA2 PE=1 SV=2,VLEDDPEATYTTSGGK Y10(Phospho), Y772,0.8278
+Q9NRY4,Rho GTPase-activating protein 35 OS=Homo sapiens OX=9606 GN=ARHGAP35 PE=1 SV=3,KSVSSSPWLPQDGFDPSDYAEPMDAVVKPR Y19(Phospho), Y1087,0.8271
+Q96J84,Kin of IRRE-like protein 1 OS=Homo sapiens OX=9606 GN=KIRREL1 PE=1 SV=2,TPYEAYDPIGK Y3(Phospho), Y721,0.8251
+P09234,U1 small nuclear ribonucleoprotein C OS=Homo sapiens OX=9606 GN=SNRPC PE=1 SV=1,FYCDYCDTYLTHDSPSVR Y9(Phospho), Y12,0.8243
+Q8WXE0,Caskin-2 OS=Homo sapiens OX=9606 GN=CASKIN2 PE=1 SV=2,SHSLSRPGPTEGDAEGEAEGPVGSTLGSYATLTR Y29(Phospho), Y826,0.8197
+Q8WXE0,Caskin-2 OS=Homo sapiens OX=9606 GN=CASKIN2 PE=1 SV=2,NTYNQTALDIVNQFTTSQASR Y3(Phospho), Y253,0.8187
+P39023,60S ribosomal protein L3 OS=Homo sapiens OX=9606 GN=RPL3 PE=1 SV=2,NNASTDYDLSDK Y7(Phospho), Y307,0.8179
+P49023,Paxillin OS=Homo sapiens OX=9606 GN=PXN PE=1 SV=3,VGEEEHVYSFPNK S9(Phospho), S119,0.8175
+Q96AE4,Far upstream element-binding protein 1 OS=Homo sapiens OX=9606 GN=FUBP1 PE=1 SV=3,IGGDAGTSLNSNDYGYGGQK Y14(Phospho), Y58,0.8174
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,LPSSPVYEDAASFK Y7(Phospho), Y421,0.817
+O00221,NF-kappa-B inhibitor epsilon OS=Homo sapiens OX=9606 GN=NFKBIE PE=1 SV=3,KGPDEAEESQYDSGIESLR S9(Phospho), S153,0.8166
+Q9NYV4,Cyclin-dependent kinase 12 OS=Homo sapiens OX=9606 GN=CDK12 PE=1 SV=2,SNEETDDYGKAQVAK Y8(Phospho), Y161,0.8164
+P45984,Mitogen-activated protein kinase 9 OS=Homo sapiens OX=9606 GN=MAPK9 PE=1 SV=2,TACTNFMMTPYVVTR T14(Phospho), T188,0.8163
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 OS=Homo sapiens OX=9606 GN=PAG1 PE=1 SV=2,ENDYESISDLQQGR Y4(Phospho), Y417,0.8153
+P54756,Ephrin type-A receptor 4 OS=Homo sapiens OX=9606 GN=EPHA4 PE=1 SV=1; Ephrin type-A receptor 5 OS=Homo sapiens OX=9606 GN=EPHA5 PE=1 SV=3; Ephrin type-A receptor 3 OS=Homo sapiens OX=9606 GN=EPHA3 PE=1 SV=2,VLEDDPEAAYTTR T12(Phospho), T781,0.8134
+Q9BVX2,Transmembrane protein 106C OS=Homo sapiens OX=9606 GN=TMEM106C PE=1 SV=1,EQEEAIAQFPYVEFTGR Y11(Phospho), Y40,0.8128
+Q9NZM3,Intersectin-2 OS=Homo sapiens OX=9606 GN=ITSN2 PE=1 SV=3,REEPEALYAAVNK Y8(Phospho), Y968,0.8128
+O00459,Phosphatidylinositol 3-kinase regulatory subunit beta OS=Homo sapiens OX=9606 GN=PIK3R2 PE=1 SV=2,NETEDQYALMEDEDDLPHHEER Y7(Phospho), Y605,0.8126
+Q15654,Thyroid receptor-interacting protein 6 OS=Homo sapiens OX=9606 GN=TRIP6 PE=1 SV=3,TGSLKPNPASPLPASPYGGPTPASYTTASTPAGPAFPVQVK T21(Phospho), T153,0.8121
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,NNYALNTTATYAEPYRPIQYR T10(Phospho) Y15(Phospho), T477 Y482,0.8116
+P07437,Tubulin beta-4A chain OS=Homo sapiens OX=9606 GN=TUBB4A PE=1 SV=2; Tubulin beta-6 chain OS=Homo sapiens OX=9606 GN=TUBB6 PE=1 SV=1; Tubulin beta chain OS=Homo sapiens OX=9606 GN=TUBB PE=1 SV=2; Tubulin beta-4B chain OS=Homo sapiens OX=9606 GN=TUBB4B PE=1 SV=1; Tubulin beta-2B chain OS=Homo sapiens OX=9606 GN=TUBB2B PE=1 SV=1,VSDTVVEPYNATLSVHQLVENTDETYCIDNEALYDICFR Y34(Phospho), Y208,0.8095
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,VKEEGYELPYNPATDDYAVPPPR Y6(Phospho), Y398,0.809
+Q9H992,E3 ubiquitin-protein ligase MARCH7 OS=Homo sapiens OX=9606 GN=MARCH7 PE=1 SV=1,SLNSENSYVSPR Y8(Phospho), Y315,0.8037
+P60709,"POTE ankyrin domain family member F OS=Homo sapiens OX=9606 GN=POTEF PE=1 SV=2; Actin, gamma-enteric smooth muscle OS=Homo sapiens OX=9606 GN=ACTG2 PE=1 SV=1; Putative beta-actin-like protein 3 OS=Homo sapiens OX=9606 GN=POTEKP PE=5 SV=1; Actin, cytoplasmic 1 OS=Homo sapiens OX=9606 GN=ACTB PE=1 SV=1; POTE ankyrin domain family member E OS=Homo sapiens OX=9606 GN=POTEE PE=2 SV=3; Actin, aortic smooth muscle OS=Homo sapiens OX=9606 GN=ACTA2 PE=1 SV=1; Actin, alpha skeletal muscle OS=Homo sapiens OX=9606 GN=ACTA1 PE=1 SV=1; Beta-actin-like protein 2 OS=Homo sapiens OX=9606 GN=ACTBL2 PE=1 SV=2; Actin, alpha cardiac muscle 1 OS=Homo sapiens OX=9606 GN=ACTC1 PE=1 SV=1; Actin, cytoplasmic 2 OS=Homo sapiens OX=9606 GN=ACTG1 PE=1 SV=1",SYELPDGQVITIGNER Y2(Phospho), Y940,0.8027
+P27986,Phosphatidylinositol 3-kinase regulatory subunit alpha OS=Homo sapiens OX=9606 GN=PIK3R1 PE=1 SV=2,KLNEWLGNENTEDQYSLVEDDEDLPHHDEK S16(Phospho), S608,0.8023
+P62993,Growth factor receptor-bound protein 2 OS=Homo sapiens OX=9606 GN=GRB2 PE=1 SV=1,DIEQVPQQPTYVQALFDFDPQEDGELGFR T10(Phospho), T159,0.7999
+P46821,Microtubule-associated protein 1B OS=Homo sapiens OX=9606 GN=MAP1B PE=1 SV=2,TATCHSSSSPPIDAASAEPYGFR Y20(Phospho), Y1830,0.793
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,VKEEGYELPYNPATDDYAVPPPR T14(Phospho), T406,0.7917
+Q6P2Q9,Pre-mRNA-processing-splicing factor 8 OS=Homo sapiens OX=9606 GN=PRPF8 PE=1 SV=2,HGDEIITSTTSNYETQTFSSK T10(Phospho), T2059,0.7901
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,QDVYGPQPQVR Y4(Phospho), Y257,0.79
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,AKTQTPPVSPAPQPTEERLPSSPVYEDAASFK T5(Phospho) Y25(Phospho), T401 Y421,0.7892
+P55196,Afadin OS=Homo sapiens OX=9606 GN=AFDN PE=1 SV=3,ITSVSTGNLCTEEQTPPPRPEAYPIPTQTYTR T31(Phospho), T1227,0.7853
+Q99439,Calponin-2 OS=Homo sapiens OX=9606 GN=CNN2 PE=1 SV=4,CASQSGMTAYGTRR Y10(Phospho), Y184,0.7849
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,ADSHEGEVAEGKLPSPPGPQELLDSPPALYAEPLDSLR Y30(Phospho), Y296,0.7848
+P62917,60S ribosomal protein L8 OS=Homo sapiens OX=9606 GN=RPL8 PE=1 SV=2,ASGNYATVISHNPETK Y5(Phospho), Y133,0.7829
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,WPLPPLPLSATGSNAIEEEGDYIEVIFNSAMTPAMALADSAIR Y22(Phospho), Y1016,0.7816
+P53778,Mitogen-activated protein kinase 12 OS=Homo sapiens OX=9606 GN=MAPK12 PE=1 SV=3,QADSEMTGYVVTR Y9(Phospho), Y185,0.7794
+O43150,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 2 OS=Homo sapiens OX=9606 GN=ASAP2 PE=1 SV=3",EDRPISFYQLGSNQLQSNAVSLAR Y8(Phospho), Y724,0.7791
+P31943,Heterogeneous nuclear ribonucleoprotein H OS=Homo sapiens OX=9606 GN=HNRNPH1 PE=1 SV=4,GAYGGGYGGYDDYNGYNDGYGFGSDR Y13(Phospho), Y246,0.7784
+P52799,Ephrin-B2 OS=Homo sapiens OX=9606 GN=EFNB2 PE=1 SV=1,TADSVFCPHYEK Y10(Phospho), Y304,0.7741
+P42680,Tyrosine-protein kinase Tec OS=Homo sapiens OX=9606 GN=TEC PE=1 SV=2,YVLDDQYTSSSGAK Y7(Phospho), Y519,0.7739
+P78524,Suppression of tumorigenicity 5 protein OS=Homo sapiens OX=9606 GN=ST5 PE=1 SV=3,STLEENAYEDIVGDLPK Y8(Phospho), Y488,0.7736
+P23193,Transcription elongation factor A protein 1 OS=Homo sapiens OX=9606 GN=TCEA1 PE=1 SV=2,TGDDYIAIGADEEELGSQIEEAIYQEIR Y24(Phospho), Y177,0.7704
+P35637,RNA-binding protein FUS OS=Homo sapiens OX=9606 GN=FUS PE=1 SV=1,APKPDGPGGGPGGSHMGGNYGDDR Y20(Phospho), Y468,0.7668
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,QSAFSNYVNVEFGVPFPNPANDLSDLLR Y7(Phospho), Y959,0.7627
+O14974,Protein phosphatase 1 regulatory subunit 12A OS=Homo sapiens OX=9606 GN=PPP1R12A PE=1 SV=1,NSSVNEGSTYHK Y10(Phospho), Y549,0.7604
+P50552,Vasodilator-stimulated phosphoprotein OS=Homo sapiens OX=9606 GN=VASP PE=1 SV=3,VQIYHNPTANSFR Y4(Phospho), Y39,0.7596
+Q96RT1,Erbin OS=Homo sapiens OX=9606 GN=ERBIN PE=1 SV=2,SESTENQSYAK Y9(Phospho), Y1021,0.7517
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,MNYVHR Y3(Phospho), Y385,0.7514
+P08621,U1 small nuclear ribonucleoprotein 70 kDa OS=Homo sapiens OX=9606 GN=SNRNP70 PE=1 SV=2,EFEVYGPIKR Y5(Phospho), Y126,0.7499
+Q14247,Src substrate cortactin OS=Homo sapiens OX=9606 GN=CTTN PE=1 SV=2,LPSSPVYEDAASFK S4(Phospho), S418,0.7479
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,HYEDGYPGGSDNYGSLSR Y2(Phospho), Y217,0.747
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,TVHDMEQFGQQQYDIYER Y13(Phospho), Y369,0.7445
+Q99439,Calponin-2 OS=Homo sapiens OX=9606 GN=CNN2 PE=1 SV=4,CASQSGMTAYGTR T12(Phospho), T186,0.7444
+P22626,Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens OX=9606 GN=HNRNPA2B1 PE=1 SV=2,GFGDGYNGYGGGPGGGNFGGSPGYGGGR Y9(Phospho), Y247,0.7436
+P43243,Matrin-3 OS=Homo sapiens OX=9606 GN=MATR3 PE=1 SV=2,SQESGYYDR Y7(Phospho), Y214,0.74
+P78524,Suppression of tumorigenicity 5 protein OS=Homo sapiens OX=9606 GN=ST5 PE=1 SV=3,ENPYEDVDLK Y4(Phospho), Y501,0.7382
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,STTNYVDFYSTK Y5(Phospho), Y1168,0.7369
+Q00535,Cyclin-dependent-like kinase 5 OS=Homo sapiens OX=9606 GN=CDK5 PE=1 SV=3,IGEGTYGTVFK Y6(Phospho), Y15,0.7368
+Q86SQ0,Pleckstrin homology-like domain family B member 2 OS=Homo sapiens OX=9606 GN=PHLDB2 PE=1 SV=2,TSASEGNPYVSSTLSVPASPR Y9(Phospho), Y324,0.7341
+O14544,Suppressor of cytokine signaling 6 OS=Homo sapiens OX=9606 GN=SOCS6 PE=1 SV=2,VYDSVQSSGPMVVTSLTEELKK Y2(Phospho), Y358,0.7331
+P86790;P86791,Vacuolar fusion protein CCZ1 homolog B OS=Homo sapiens OX=9606 GN=CCZ1B PE=1 SV=1;Vacuolar fusion protein CCZ1 homolog OS=Homo sapiens OX=9606 GN=CCZ1 PE=1 SV=1,AMSDYWVVGK Y5(Phospho), Y437,0.7321
+Q12906,Interleukin enhancer-binding factor 3 OS=Homo sapiens OX=9606 GN=ILF3 PE=1 SV=3,NADHSMNYQYR Y8(Phospho), Y891,0.7291
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,TVHDMEQFGQQQYDIYER Y16(Phospho), Y372,0.7286
+Q8TEQ6,Gem-associated protein 5 OS=Homo sapiens OX=9606 GN=GEMIN5 PE=1 SV=3,DGHYAVAAK Y4(Phospho), Y1039,0.7277
+Q92620,Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16 OS=Homo sapiens OX=9606 GN=DHX38 PE=1 SV=2,EHGVYASSK Y5(Phospho), Y145,0.7276
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,SHNSALYSQVQK S8(Phospho), S450,0.7271
+O60664,Perilipin-3 OS=Homo sapiens OX=9606 GN=PLIN3 PE=1 SV=3,LEPQIASASEYAHR Y11(Phospho), Y95,0.7269
+P42677,40S ribosomal protein S27-like OS=Homo sapiens OX=9606 GN=RPS27L PE=1 SV=3; 40S ribosomal protein S27 OS=Homo sapiens OX=9606 GN=RPS27 PE=1 SV=3,LVQSPNSYFMDVK Y8(Phospho), Y31,0.7265
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,VGQGYVYEAAQPEQDEYDIPR Y17(Phospho), Y234,0.7263
+Q9H706,GRB2-associated and regulator of MAPK protein 1 OS=Homo sapiens OX=9606 GN=GAREM1 PE=1 SV=2,QWTTITAHSLEEGHYVIGPK Y15(Phospho), Y74,0.726
+Q08357,Sodium-dependent phosphate transporter 2 OS=Homo sapiens OX=9606 GN=SLC20A2 PE=1 SV=1,SDGHVYHTVHK Y6(Phospho), Y344,0.7259
+Q96RT1,Erbin OS=Homo sapiens OX=9606 GN=ERBIN PE=1 SV=2,ANTAYHLHQR Y5(Phospho), Y1042,0.725
+Q9BUJ2,Heterogeneous nuclear ribonucleoprotein U-like protein 1 OS=Homo sapiens OX=9606 GN=HNRNPUL1 PE=1 SV=2,NYILDQTNVYGSAQR Y10(Phospho), Y510,0.7246
+Q9NP61,ADP-ribosylation factor GTPase-activating protein 3 OS=Homo sapiens OX=9606 GN=ARFGAP3 PE=1 SV=1,QSQADYETR Y6(Phospho), Y441,0.7246
+Q9BYM8,RanBP-type and C3HC4-type zinc finger-containing protein 1 OS=Homo sapiens OX=9606 GN=RBCK1 PE=1 SV=2,NSQEAEVSCPFIDNTYSCSGK Y16(Phospho), Y330,0.7236
+Q9H3P7,Golgi resident protein GCP60 OS=Homo sapiens OX=9606 GN=ACBD3 PE=1 SV=4,DCHEEVYAGSHQYPGR Y7(Phospho), Y492,0.7236
+Q8TCZ2,CD99 antigen-like protein 2 OS=Homo sapiens OX=9606 GN=CD99L2 PE=1 SV=1,YSTLHTQSAEPPPPPEPARI Y1(Phospho), Y243,0.7215
+P22626,Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens OX=9606 GN=HNRNPA2B1 PE=1 SV=2,NMGGPYGGGNYGPGGSGGSGGYGGR Y11(Phospho), Y336,0.7202
+Q9Y6N7,Roundabout homolog 1 OS=Homo sapiens OX=9606 GN=ROBO1 PE=1 SV=1,NGLTSTYAGIR Y7(Phospho), Y932,0.7187
+Q15464,SH2 domain-containing adapter protein B OS=Homo sapiens OX=9606 GN=SHB PE=1 SV=2,DKVTIADDYSDPFDAK Y9(Phospho), Y246,0.7077
+Q9Y285,Phenylalanine--tRNA ligase alpha subunit OS=Homo sapiens OX=9606 GN=FARSA PE=1 SV=3,THSQGGYGSQGYK Y7(Phospho), Y305,0.7067
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,NNYALNTTATYAEPYRPIQYR Y15(Phospho), Y482,0.7058
+Q92841,Probable ATP-dependent RNA helicase DDX17 OS=Homo sapiens OX=9606 GN=DDX17 PE=1 SV=2,TTSSANNPNLMYQDECDRR Y12(Phospho), Y580,0.7035
+Q15417; Q99439,Calponin-3 OS=Homo sapiens OX=9606 GN=CNN3 PE=1 SV=1; Calponin-2 OS=Homo sapiens OX=9606 GN=CNN2 PE=1 SV=4,GPSYGLSAEVK Y4(Phospho), Y10,0.7022
+P53396,ATP-citrate synthase OS=Homo sapiens OX=9606 GN=ACLY PE=1 SV=3,TTDGVYEGVAIGGDRYPGSTFMDHVLR Y6(Phospho), Y682,0.6998
+Q8IVL1,Neuron navigator 2 OS=Homo sapiens OX=9606 GN=NAV2 PE=1 SV=3,THSLSNADGQYDPYTDSR Y14(Phospho), Y1602,0.6997
+Q99952,Tyrosine-protein phosphatase non-receptor type 18 OS=Homo sapiens OX=9606 GN=PTPN18 PE=1 SV=2,SAEEAPLYSK Y8(Phospho), Y389,0.6957
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,LPQLVDMAAQIASGMAYVER Y17(Phospho), Y379,0.6955
+P0DMV8;P0DMV9,Putative heat shock 70 kDa protein 7 OS=Homo sapiens OX=9606 GN=HSPA7 PE=5 SV=2; Heat shock 70 kDa protein 6 OS=Homo sapiens OX=9606 GN=HSPA6 PE=1 SV=2; Heat shock-related 70 kDa protein 2 OS=Homo sapiens OX=9606 GN=HSPA2 PE=1 SV=1; Heat shock cognate 71 kDa protein OS=Homo sapiens OX=9606 GN=HSPA8 PE=1 SV=1; Heat shock 70 kDa protein 1A OS=Homo sapiens OX=9606 GN=HSPA1A PE=1 SV=1;Heat shock 70 kDa protein 1B OS=Homo sapiens OX=9606 GN=HSPA1B PE=1 SV=1; Heat shock 70 kDa protein 1-like OS=Homo sapiens OX=9606 GN=HSPA1L PE=1 SV=2,TTPSYVAFTDTER Y5(Phospho), Y43,0.689
+Q15058,Kinesin-like protein KIF14 OS=Homo sapiens OX=9606 GN=KIF14 PE=1 SV=1,QHLEQEIYVNK Y8(Phospho), Y1023,0.6865
+Q9NUM4,Transmembrane protein 106B OS=Homo sapiens OX=9606 GN=TMEM106B PE=1 SV=2,NGDVSQFPYVEFTGR Y9(Phospho), Y50,0.6854
+Q15459,Splicing factor 3A subunit 1 OS=Homo sapiens OX=9606 GN=SF3A1 PE=1 SV=1,EKQSDDEVYAPGLDIESSLK Y9(Phospho), Y456,0.6834
+Q68D51,DENN domain-containing protein 2C OS=Homo sapiens OX=9606 GN=DENND2C PE=1 SV=2,RNPHYQTLER Y5(Phospho), Y475,0.6695
+P51991,Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2,SSGSPYGGGYGSGGGSGGYGSR S21(Phospho), S375,0.6673
+Q0VF96,Cingulin-like protein 1 OS=Homo sapiens OX=9606 GN=CGNL1 PE=1 SV=2,ENSEELQLPENPYAQPSPIR Y13(Phospho), Y108,0.6658
+Q13480,GRB2-associated-binding protein 1 OS=Homo sapiens OX=9606 GN=GAB1 PE=1 SV=2,DASSQDCYDIPR Y8(Phospho), Y406,0.6652
+Q8TDY4,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 3 OS=Homo sapiens OX=9606 GN=ASAP3 PE=1 SV=1",TYETVASLGAATPQGESEDCPPPLPVK T4(Phospho), T735,0.6644
+Q9UGP4,LIM domain-containing protein 1 OS=Homo sapiens OX=9606 GN=LIMD1 PE=1 SV=1,ESLATSEMSAFHQPGPCEDPSCLTHGDYYDNLSLASPK Y29(Phospho), Y180,0.6633
+Q00341,Vigilin OS=Homo sapiens OX=9606 GN=HDLBP PE=1 SV=2,MDYVEINIDHK Y3(Phospho), Y437,0.6622
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 OS=Homo sapiens OX=9606 GN=PAG1 PE=1 SV=2,SGQSLTVPESTYTSIQGDPQR Y12(Phospho), Y341,0.662
+P51991,Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2,SSGSPYGGGYGSGGGSGGYGSR S16(Phospho), S370,0.6584
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,LPSPPGPQELLDSPPALYAEPLDSLR S13(Phospho), S291,0.6562
+Q9Y3S2,Zinc finger protein 330 OS=Homo sapiens OX=9606 GN=ZNF330 PE=1 SV=1,TYASGYAHYEEQEN Y9(Phospho), Y315,0.6548
+O60716,Catenin delta-1 OS=Homo sapiens OX=9606 GN=CTNND1 PE=1 SV=1,NFHYPPDGYSR S10(Phospho), S214,0.6494
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,EADSSSDYVNMDFTKR S6(Phospho), S919,0.6455
+O60291,E3 ubiquitin-protein ligase MGRN1 OS=Homo sapiens OX=9606 GN=MGRN1 PE=1 SV=2,AVSPAIPSAPLYEEITYSGISDGLSQASCPLAAIDHILDSSR Y17(Phospho), Y416,0.6448
+P14923,Junction plakoglobin OS=Homo sapiens OX=9606 GN=JUP PE=1 SV=3,NEGTATYAAAVLFR Y7(Phospho), Y644,0.6413
+Q9BVX2,Transmembrane protein 106C OS=Homo sapiens OX=9606 GN=TMEM106C PE=1 SV=1,EQEEAIAQFPYVEFTGR T15(Phospho), T44,0.6407
+P27986,Phosphatidylinositol 3-kinase regulatory subunit alpha OS=Homo sapiens OX=9606 GN=PIK3R1 PE=1 SV=2,LNEWLGNENTEDQYSLVEDDEDLPHHDEK Y14(Phospho), Y607,0.6406
+Q15464,SH2 domain-containing adapter protein B OS=Homo sapiens OX=9606 GN=SHB PE=1 SV=2,LDYCGGSGEPGGVQR Y3(Phospho), Y114,0.6394
+P53396,ATP-citrate synthase OS=Homo sapiens OX=9606 GN=ACLY PE=1 SV=3,EGDYVLFHHEGGVDVGDVDAK Y4(Phospho), Y131,0.6382
+Q9C0H9,SRC kinase signaling inhibitor 1 OS=Homo sapiens OX=9606 GN=SRCIN1 PE=1 SV=4,AAGGGGPLYGDGYGFR Y9(Phospho), Y462,0.6317
+P56945,Breast cancer anti-estrogen resistance protein 1 OS=Homo sapiens OX=9606 GN=BCAR1 PE=1 SV=2,FTSQDSPDGQYENSEGGWMEDYDYVHLQGKEEFEK Y22(Phospho), Y664,0.6316
+P07948,Tyrosine-protein kinase Lyn OS=Homo sapiens OX=9606 GN=LYN PE=1 SV=3; Tyrosine-protein kinase HCK OS=Homo sapiens OX=9606 GN=HCK PE=1 SV=5,VIEDNEYTAR Y7(Phospho), Y397,0.6259
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,IAPCPSQDSLYSDPLDSTSAQAGEGVQR Y11(Phospho), Y315,0.6231
+P78559,Microtubule-associated protein 1A OS=Homo sapiens OX=9606 GN=MAP1A PE=1 SV=6,SHATTEPEQTEPEQREPTPYPDER Y20(Phospho), Y1959,0.6215
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,LVQLYAVVSEEPIYIVTEYMSK Y5(Phospho) T17(Phospho), Y329 T341,0.6179
+Q15427,Splicing factor 3B subunit 4 OS=Homo sapiens OX=9606 GN=SF3B4 PE=1 SV=1,NQDATVYVGGLDEK Y7(Phospho), Y16,0.6138
+P06733,Beta-enolase OS=Homo sapiens OX=9606 GN=ENO3 PE=1 SV=5; Gamma-enolase OS=Homo sapiens OX=9606 GN=ENO2 PE=1 SV=3; Alpha-enolase OS=Homo sapiens OX=9606 GN=ENO1 PE=1 SV=2,AAVPSGASTGIYEALELR Y12(Phospho), Y44,0.6119
+Q9UKK9,ADP-sugar pyrophosphatase OS=Homo sapiens OX=9606 GN=NUDT5 PE=1 SV=1,TLHYECIVLVK Y4(Phospho), Y74,0.6107
+P36954,DNA-directed RNA polymerase II subunit RPB9 OS=Homo sapiens OX=9606 GN=POLR2I PE=1 SV=1,NCDYQQEADNSCIYVNK Y14(Phospho), Y54,0.6103
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 OS=Homo sapiens OX=9606 GN=PAG1 PE=1 SV=2,SPSSCNDLYATVK Y9(Phospho), Y359,0.6048
+Q86Z02,Homeodomain-interacting protein kinase 2 OS=Homo sapiens OX=9606 GN=HIPK2 PE=1 SV=2; Homeodomain-interacting protein kinase 1 OS=Homo sapiens OX=9606 GN=HIPK1 PE=1 SV=1,AVCSTYLQSR Y6(Phospho), Y361,0.6041
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,VKEEGYELPYNPATDDYAVPPPR Y10(Phospho), Y402,0.6001
+Q7KZF4,Staphylococcal nuclease domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SND1 PE=1 SV=1,DYVAPTANLDQK Y2(Phospho), Y329,0.5996
+Q9NWQ8,Phosphoprotein associated with glycosphingolipid-enriched microdomains 1 OS=Homo sapiens OX=9606 GN=PAG1 PE=1 SV=2,SGQSLTVPESTYTSIQGDPQR T11(Phospho), T340,0.5984
+P31689,DnaJ homolog subfamily A member 1 OS=Homo sapiens OX=9606 GN=DNAJA1 PE=1 SV=2,HYNGEAYEDDEHHPR Y7(Phospho), Y381,0.5919
+P53778,Mitogen-activated protein kinase 12 OS=Homo sapiens OX=9606 GN=MAPK12 PE=1 SV=3,QADSEMTGYVVTR T12(Phospho), T188,0.5886
+P04075,Fructose-bisphosphate aldolase A OS=Homo sapiens OX=9606 GN=ALDOA PE=1 SV=2,PYQYPALTPEQK Y2(Phospho), Y3,0.582
+P51991,Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2,SSGSPYGGGYGSGGGSGGYGSR S4(Phospho), S358,0.5782
+Q15417,Calponin-3 OS=Homo sapiens OX=9606 GN=CNN3 PE=1 SV=1,CASQAGMTAYGTRR T12(Phospho), T184,0.5749
+Q96NE9,FERM domain-containing protein 6 OS=Homo sapiens OX=9606 GN=FRMD6 PE=1 SV=1,DTGPEDSYSSSAIHR Y8(Phospho), Y412,0.5739
+Q8NBF2,NHL repeat-containing protein 2 OS=Homo sapiens OX=9606 GN=NHLRC2 PE=1 SV=1,FAGSGNEENRNNAYPHK Y14(Phospho), Y403,0.5703
+Q00839,Heterogeneous nuclear ribonucleoprotein U OS=Homo sapiens OX=9606 GN=HNRNPU PE=1 SV=6,GNFTLPEVAECFDEITYVELQKEEAQK Y17(Phospho), Y654,0.5669
+P09651,Heterogeneous nuclear ribonucleoprotein A1 OS=Homo sapiens OX=9606 GN=HNRNPA1 PE=1 SV=5,NQGGYGGSSSSSSYGSGR S13(Phospho), S365,0.5561
+P68104,Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1; Putative elongation factor 1-alpha-like 3 OS=Homo sapiens OX=9606 GN=EEF1A1P5 PE=5 SV=1,YYVTIIDAPGHR Y2(Phospho), Y86,0.5537
+Q13573,SNW domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SNW1 PE=1 SV=1,TSNEVQYDQR Y7(Phospho), Y407,0.5515
+Q6IBS0,Twinfilin-2 OS=Homo sapiens OX=9606 GN=TWF2 PE=1 SV=2,KIEIGDGAELTAEFLYDEVHPK Y16(Phospho), Y309,0.5494
+Q9HC35,Echinoderm microtubule-associated protein-like 4 OS=Homo sapiens OX=9606 GN=EML4 PE=1 SV=3,DVIINQEGEYIK Y10(Phospho), Y226,0.5443
+P29401,Transketolase OS=Homo sapiens OX=9606 GN=TKT PE=1 SV=3,NMAEQIIQEIYSQIQSK Y11(Phospho), Y275,0.5367
+P22626,Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens OX=9606 GN=HNRNPA2B1 PE=1 SV=2,YHTINGHNAEVR Y1(Phospho), Y174,0.525
+P42677,40S ribosomal protein S27-like OS=Homo sapiens OX=9606 GN=RPS27L PE=1 SV=3; 40S ribosomal protein S27 OS=Homo sapiens OX=9606 GN=RPS27 PE=1 SV=3,LVQSPNSYFMDVK S7(Phospho), S30,0.5159
+Q8TAA3,Proteasome subunit alpha-type 8 OS=Homo sapiens OX=9606 GN=PSMA8 PE=2 SV=3; Proteasome subunit alpha type-7 OS=Homo sapiens OX=9606 GN=PSMA7 PE=1 SV=1,LYQTDPSGTYHAWK Y10(Phospho), Y161,0.5155
+O43491,Band 4.1-like protein 2 OS=Homo sapiens OX=9606 GN=EPB41L2 PE=1 SV=1,VEGDNIYVR Y7(Phospho), Y623,0.5088
+Q00839,Heterogeneous nuclear ribonucleoprotein U OS=Homo sapiens OX=9606 GN=HNRNPU PE=1 SV=6,EKPYFPIPEEYTFIQNVPLEDR T12(Phospho), T474,0.4975
+Q9H992,E3 ubiquitin-protein ligase MARCH7 OS=Homo sapiens OX=9606 GN=MARCH7 PE=1 SV=1,GSSLNDTYHSR Y8(Phospho), Y37,0.4877
+P49023,Paxillin OS=Homo sapiens OX=9606 GN=PXN PE=1 SV=3,VGEEEHVYSFPNK Y8(Phospho), Y118,0.486
+Q06124,Tyrosine-protein phosphatase non-receptor type 11 OS=Homo sapiens OX=9606 GN=PTPN11 PE=1 SV=2,IQNTGDYYDLYGGEK Y7(Phospho), Y62,0.4746
+Q9UBC2,Epidermal growth factor receptor substrate 15-like 1 OS=Homo sapiens OX=9606 GN=EPS15L1 PE=1 SV=1,SLEQYDQVLDGAHGASLTDLANLSEGVSLAER Y5(Phospho), Y564,0.4609
+P0DMV8;P0DMV9,Putative heat shock 70 kDa protein 7 OS=Homo sapiens OX=9606 GN=HSPA7 PE=5 SV=2; Heat shock 70 kDa protein 6 OS=Homo sapiens OX=9606 GN=HSPA6 PE=1 SV=2; Heat shock-related 70 kDa protein 2 OS=Homo sapiens OX=9606 GN=HSPA2 PE=1 SV=1; Heat shock cognate 71 kDa protein OS=Homo sapiens OX=9606 GN=HSPA8 PE=1 SV=1; Heat shock 70 kDa protein 1A OS=Homo sapiens OX=9606 GN=HSPA1A PE=1 SV=1;Heat shock 70 kDa protein 1B OS=Homo sapiens OX=9606 GN=HSPA1B PE=1 SV=1; Heat shock 70 kDa protein 1-like OS=Homo sapiens OX=9606 GN=HSPA1L PE=1 SV=2,TTPSYVAFTDTER T2(Phospho), T40,0.4567
+Q7Z4W1,L-xylulose reductase OS=Homo sapiens OX=9606 GN=DCXR PE=1 SV=2,AVTNHSVYCSTK Y8(Phospho), Y149,0.4559
+Q05397,Focal adhesion kinase 1 OS=Homo sapiens OX=9606 GN=PTK2 PE=1 SV=2,GSIDREDGSLQGPIGNQHIYQPVGKPDPAAPPK Y20(Phospho), Y861,0.4491
+P50395,Rab GDP dissociation inhibitor beta OS=Homo sapiens OX=9606 GN=GDI2 PE=1 SV=2,TDDYLDQPCYETINR T12(Phospho), T205,0.4477
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,QTSNPNGPTPQYQTTAR Y12(Phospho), Y306,0.4424
+O14654,Insulin receptor substrate 4 OS=Homo sapiens OX=9606 GN=IRS4 PE=1 SV=1,EADSSSDYVNMDFTKR Y8(Phospho), Y921,0.4399
+Q99569,Plakophilin-4 OS=Homo sapiens OX=9606 GN=PKP4 PE=1 SV=2,NNYALNTTATYAEPYRPIQYR T10(Phospho), T477,0.438
+P63244,Receptor of activated protein C kinase 1 OS=Homo sapiens OX=9606 GN=RACK1 PE=1 SV=3,HLYTLDGGDIINALCFSPNR Y3(Phospho), Y228,0.4246
+P29597,Non-receptor tyrosine-protein kinase TYK2 OS=Homo sapiens OX=9606 GN=TYK2 PE=1 SV=3,LLAQAEGEPCYIR Y11(Phospho), Y292,0.4183
+P51991,Heterogeneous nuclear ribonucleoprotein A3 OS=Homo sapiens OX=9606 GN=HNRNPA3 PE=1 SV=2,SSGSPYGGGYGSGGGSGGYGSR S2(Phospho), S356,0.4122
+Q7KZF4,Staphylococcal nuclease domain-containing protein 1 OS=Homo sapiens OX=9606 GN=SND1 PE=1 SV=1,EYGMIYLGK Y2(Phospho), Y109,0.4109
+Q86YV5,Tyrosine-protein kinase PRAG1 OS=Homo sapiens OX=9606 GN=PRAG1 PE=1 SV=4,EATQPEPIYAESTK Y9(Phospho), Y413,0.4088
+P09651,Heterogeneous nuclear ribonucleoprotein A1 OS=Homo sapiens OX=9606 GN=HNRNPA1 PE=1 SV=5,YHTVNGHNCEVR Y1(Phospho), Y167,0.3962
+Q5R372,Rab GTPase-activating protein 1-like OS=Homo sapiens OX=9606 GN=RABGAP1L PE=1 SV=1,GHTNAGDAIYEVVSLQR Y10(Phospho), Y455,0.3909
+Q9UJU6,Drebrin-like protein OS=Homo sapiens OX=9606 GN=DBNL PE=1 SV=1,EQRYQEQGGEASPQR Y4(Phospho), Y224,0.3808
+B5ME19,Eukaryotic translation initiation factor 3 subunit C-like protein OS=Homo sapiens OX=9606 GN=EIF3CL PE=3 SV=1; Eukaryotic translation initiation factor 3 subunit C OS=Homo sapiens OX=9606 GN=EIF3C PE=1 SV=1,QQQSQTAY Y8(Phospho), Y914,0.3769
+P07948,Tyrosine-protein kinase Lyn OS=Homo sapiens OX=9606 GN=LYN PE=1 SV=3,AEERPTFDYLQSVLDDFYTATEGQYQQQP Y25(Phospho), Y508,0.3637
+P29401,Transketolase OS=Homo sapiens OX=9606 GN=TKT PE=1 SV=3,NMAEQIIQEIYSQIQSK S12(Phospho), S276,0.3585
+Q674X7,Kazrin OS=Homo sapiens OX=9606 GN=KAZN PE=1 SV=2,QSQQTLYHSHPPHPADR Y7(Phospho), Y294,0.3554
+P68104,Elongation factor 1-alpha 1 OS=Homo sapiens OX=9606 GN=EEF1A1 PE=1 SV=1; Putative elongation factor 1-alpha-like 3 OS=Homo sapiens OX=9606 GN=EEF1A1P5 PE=5 SV=1,YYVTIIDAPGHR Y1(Phospho), Y85,0.3442
+P60709,"Actin, cytoplasmic 1 OS=Homo sapiens OX=9606 GN=ACTB PE=1 SV=1; POTE ankyrin domain family member E OS=Homo sapiens OX=9606 GN=POTEE PE=2 SV=3; Actin, cytoplasmic 2 OS=Homo sapiens OX=9606 GN=ACTG1 PE=1 SV=1",LCYVALDFEQEMATAASSSSLEK Y3(Phospho), Y218,0.3152
+P12931,Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens OX=9606 GN=SRC PE=1 SV=3,GAYCLSVSDFDNAK Y3(Phospho), Y187,0.2834
+Q13523,Serine/threonine-protein kinase PRP4 homolog OS=Homo sapiens OX=9606 GN=PRPF4B PE=1 SV=3,LCDFGSASHVADNDITPYLVSR Y18(Phospho), Y849,0.2773
+P18433,Receptor-type tyrosine-protein phosphatase alpha OS=Homo sapiens OX=9606 GN=PTPRA PE=1 SV=3,VVQEYIDAFSDYANFK Y12(Phospho), Y798,0.2493
+P07195,L-lactate dehydrogenase B chain OS=Homo sapiens OX=9606 GN=LDHB PE=1 SV=2,MVVESAYEVIK Y7(Phospho), Y240,0.2441
+Q8TEW8,Partitioning defective 3 homolog B OS=Homo sapiens OX=9606 GN=PARD3B PE=1 SV=2,ARPSEYDLLWVPGR Y6(Phospho), Y1056,0.2381
+Q14498,RNA-binding protein 39 OS=Homo sapiens OX=9606 GN=RBM39 PE=1 SV=2,YRSPYSGPK S3(Phospho) Y5(Phospho), S97 Y99,0.2268
+P68431,Histone H3.3 OS=Homo sapiens OX=9606 GN=H3F3A PE=1 SV=2; Histone H3.1t OS=Homo sapiens OX=9606 GN=HIST3H3 PE=1 SV=3; Histone H3.3C OS=Homo sapiens OX=9606 GN=H3F3C PE=1 SV=3; Histone H3.1 OS=Homo sapiens OX=9606 GN=HIST1H3A PE=1 SV=2; Histone H3.2 OS=Homo sapiens OX=9606 GN=HIST2H3A PE=1 SV=3,YRPGTVALR Y1(Phospho), Y42,0.2228
+Q13523,Serine/threonine-protein kinase PRP4 homolog OS=Homo sapiens OX=9606 GN=PRPF4B PE=1 SV=3,LCDFGSASHVADNDITPYLVSR T16(Phospho), T847,0.1785
+Q99704,Docking protein 1 OS=Homo sapiens OX=9606 GN=DOK1 PE=1 SV=1,LTDPKEDPIYDEPEGLAPVPPQGLYDLPR Y10(Phospho), Y362,0.1694
+P08670,Vimentin OS=Homo sapiens OX=9606 GN=VIM PE=1 SV=4,SLYASSPGGVYATR Y3(Phospho), Y53,0.1684
+P31153,S-adenosylmethionine synthase isoform type-2 OS=Homo sapiens OX=9606 GN=MAT2A PE=1 SV=1,TAAYGHFGR Y4(Phospho), Y377,0.1661
+Q9H2U1,ATP-dependent RNA helicase DHX36 OS=Homo sapiens OX=9606 GN=DHX36 PE=1 SV=2,SSGGGYGGGPAGGHGGNR Y6(Phospho), Y22,0.1377
+Q13242,Serine/arginine-rich splicing factor 9 OS=Homo sapiens OX=9606 GN=SRSF9 PE=1 SV=1,GSPHYFSPFRPY S2(Phospho), S211,0.124
+Q92738,USP6 N-terminal-like protein OS=Homo sapiens OX=9606 GN=USP6NL PE=1 SV=3,QYNHAAANQNSNATSNIR Y2(Phospho), Y464,0.1195
+Q9BQE3,Tubulin alpha-1C chain OS=Homo sapiens OX=9606 GN=TUBA1C PE=1 SV=1,EDMAALEKDYEEVGADSADGEDEGEEY Y10(Phospho), Y432,0.1081
+P62805,Histone H4 OS=Homo sapiens OX=9606 GN=HIST1H4A PE=1 SV=2,DAVTYTEHAK Y5(Phospho), Y73,0.1018
+Q00526,Cyclin-dependent kinase 2 OS=Homo sapiens OX=9606 GN=CDK2 PE=1 SV=2; Cyclin-dependent kinase 1 OS=Homo sapiens OX=9606 GN=CDK1 PE=1 SV=3; Cyclin-dependent kinase 3 OS=Homo sapiens OX=9606 GN=CDK3 PE=1 SV=1,IGEGTYGVVYK Y6(Phospho), Y15,0.0787
+P08238,Heat shock protein HSP 90-beta OS=Homo sapiens OX=9606 GN=HSP90AB1 PE=1 SV=4; Putative heat shock protein HSP 90-beta 2 OS=Homo sapiens OX=9606 GN=HSP90AB2P PE=1 SV=2,SIYYITGESK Y3(Phospho), Y484,0.0641
+P00338,L-lactate dehydrogenase A chain OS=Homo sapiens OX=9606 GN=LDHA PE=1 SV=2,QVVESAYEVIK Y7(Phospho), Y239,0.0375
+P68363; Q9BQE3,Tubulin alpha-3C/D chain OS=Homo sapiens OX=9606 GN=TUBA3C PE=1 SV=3; Tubulin alpha chain-like 3 OS=Homo sapiens OX=9606 GN=TUBAL3 PE=1 SV=2; Tubulin alpha-1A chain OS=Homo sapiens OX=9606 GN=TUBA1A PE=1 SV=1; Tubulin alpha-8 chain OS=Homo sapiens OX=9606 GN=TUBA8 PE=1 SV=1; Tubulin alpha-1B chain OS=Homo sapiens OX=9606 GN=TUBA1B PE=1 SV=1; Tubulin alpha-1C chain OS=Homo sapiens OX=9606 GN=TUBA1C PE=1 SV=1; Tubulin alpha-4A chain OS=Homo sapiens OX=9606 GN=TUBA4A PE=1 SV=1,EDAANNYAR Y7(Phospho), Y103,-0.084
+P49840,Glycogen synthase kinase-3 alpha OS=Homo sapiens OX=9606 GN=GSK3A PE=1 SV=2; Glycogen synthase kinase-3 beta OS=Homo sapiens OX=9606 GN=GSK3B PE=1 SV=2,GEPNVSYICSR Y7(Phospho), Y279,-0.1656
+P22681,E3 ubiquitin-protein ligase CBL OS=Homo sapiens OX=9606 GN=CBL PE=1 SV=2,LPPGEQCEGEEDTEYMTPSSRPLRPLDTSQSSR S20(Phospho), S705,-0.2857
+P35637,RNA-binding protein FUS OS=Homo sapiens OX=9606 GN=FUS PE=1 SV=1,SSGGYEPR Y5(Phospho), Y239,-0.7461
