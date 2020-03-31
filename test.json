@@ -1,0 +1,1 @@
+{"cat1": {"proteins": [1, 2, 5], "edges": {"cat2": [2, 5], "cat3": [1]}}, "cat2": {"proteins": [4, 2, 8, 5], "edges": {"cat1": [2, 5], "cat3": [8, 4]}}, "cat3": {"proteins": [8, 4, 1], "edges": {"cat1": [1], "cat2": [8, 4]}}}

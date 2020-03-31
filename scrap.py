@@ -35,6 +35,7 @@ os.listdir()
 df = pd.read_csv("List_of_Proteins_Enriched_Above1.5.csv")
 df.columns 
 
+os.chdir("/home/user")
 with open("./UniprotID_to_KEGGID_KEGGPathway_above1.5.txt","r") as  phile:
     brit_contents = phile.read()
 
@@ -48,7 +49,7 @@ state = "node"
 for i,line in enumerate(lines_list):
     if line == "":
         continue
-    if "hsa" in line and len(current["proteins"])!=0:
+    if "hsa" == line[:3] and len(current["proteins"])!=0:
         # we ended ele chunk append to brit
         brit_dict[node_name] = current
         current = dict(proteins=[])
@@ -58,11 +59,34 @@ for i,line in enumerate(lines_list):
         current["proteins"].append(line.strip())
     print("prog {}".format(i/len(lines_list)))
 
+[name for name in brit_dict if len(brit_dict[name]["proteins"])> 1]
+
 print(brit_dict)
 original = brit_dict.copy()
 backup = brit_dict.copy()
 
 brit_dict = backup.copy()
+
+for k in brit_dict:
+    print(len(brit_dict[k]["proteins"]))
+
+## sanity check that multiple subproteins can actually be found
+one_prot = brit_dict[list(brit_dict.keys())[0]]["proteins"]
+another_prot = brit_dict[list(brit_dict.keys())[1]]["proteins"]
+set(one_prot).intersection(set(another_prot))
+another_prot    
+set(one_prot).intersection(set(another_prot)) == set(brit_dict[list(brit_dict.keys())[0]]["edges"][list(brit_dict.keys())[1]])
+
+## only export a small part
+sub = {}
+for k in list(brit_dict.keys())[0]:
+    sub[k] = brit_dict[k]
+
+sub[list(brit_dict.keys())[0]] = brit_dict[list(brit_dict.keys())[0]]
+
+
+with open("./testing/public/subtest.json","w") as phile:
+    phile.write(json.dumps(sub))
 
 ##set overlap counter
 for i,current_node in enumerate(brit_dict):
@@ -72,11 +96,15 @@ for i,current_node in enumerate(brit_dict):
         if other_node == current_node:
             continue
         other_proteins = brit_dict[other_node]["proteins"]
+        print(len(current_proteins),len(other_proteins))
         overlap = set(current_proteins).intersection(other_proteins)
         if len(overlap)!= 0:
             edges[other_node] =list(overlap)
     brit_dict[current_node]["edges"] = edges
 
+import pprint
+pp = pprint.PrettyPrinter()
+pp.pprint(brit_dict)
 
 ##not great code, exponential timing algorithm, small number of eles though
 for i,count_node in enumerate(brit_dict):
@@ -105,7 +133,8 @@ for cat in brit_dict:
 with open("biochem_network_graph.json","w") as phile:
     phile.write(json.dumps(brit_dict))
 
-
+with open("./testing/public/bio.json","w") as phile:
+    phile.write(json.dumps(brit_dict))
 ## upload the data back to the drive
 
 import json
@@ -122,10 +151,37 @@ dot = Graph(comment="Brittany vis")
 for node in brit_dict:
     dot.node(node,node)
     for other_node in brit_dict[node]["edges"]:
-        dot.edge(node,other_node,constraint="true")
+        for edge in brit_dict[node]["edges"][other_node]:
+            dot.edge(node,other_node,edge,concentrate="true")
 
 ## get the graphviz in path
 
 os.environ["PATH"]+=os.pathsep + "/home/user/miniconda3/pkgs/graphviz-2.40.1-h21bd128_2/bin"
 
 dot.render("test.gv",format="svg")
+
+##make a test
+brit_dict = dict(cat1 = dict(proteins=[2,5]),cat2 = dict(proteins=[4,2,8,5]),cat3 =dict(proteins=[8,4,1]))
+brit_dict_copy = brit_dict.copy()
+##set overlap counter
+for i,current_node in enumerate(brit_dict_copy):
+    current_proteins = brit_dict_copy[current_node]["proteins"]
+    edges = {}
+    for other_node in brit_dict_copy:
+        if other_node == current_node:
+            continue
+        other_proteins = brit_dict_copy[other_node]["proteins"]
+        overlap = set(current_proteins).intersection(other_proteins)
+        if len(overlap)!= 0:
+            edges[other_node] =list(overlap)
+    brit_dict_copy[current_node]["edges"] = edges
+
+brit_dict_copy
+
+import json
+with open("./testing/public/test.json","w") as phile:
+    phile.write(json.dumps(brit_dict_copy))
+
+
+
+ set(["there is a list of words","another"]).intersection(set(["another","there is a list of words"]))
