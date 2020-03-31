@@ -2,8 +2,8 @@
   let distanceTool = 1000;
   let strengthTool = -509;
   import * as d3 from "d3";
-  let width = 3000;
-  let height = 3000;
+  let width = 30000;
+  let height = 30000;
   let max = 0;
   let createGraph = (data, svgArg) => {
     let nodes = [];
@@ -106,19 +106,26 @@
   };
 
   window.onload = async () => {
-    let data = await fetch("./subtest.json").then(res => res.json());
+    let data = await fetch("./clean.json").then(res => res.json());
     let svg = d3.select("#container").append("svg");
     let node = createGraph(data, svg);
   };
 </script>
+<style>
+#holder {
+    position:fixed;
+    left:0;
+}</style>
+<div id="holder">
 
 <label>
-  <input type="number" bind:value={distanceTool} min="0" max="3000" />
-  <input type="range" bind:value={distanceTool} min="0" max="3000" />
+  <input type="number" bind:value={distanceTool} min="0" max="30000" />
+  <input type="range" bind:value={distanceTool} min="0" max="30000" />
 </label>
 <label>
-  <input type="number" bind:value={strengthTool} min="-1000" max="-30" />
-  <input type="range" bind:value={strengthTool} min="-1000" max="-30" />
+  <input type="number" bind:value={strengthTool} min="-10000" max="-30" />
+  <input type="range" bind:value={strengthTool} min="-10000" max="-30" />
 </label>
 
+</div>
 <div id="container" />

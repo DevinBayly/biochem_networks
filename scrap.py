@@ -46,6 +46,33 @@ current = dict(proteins=[])
 node_name = ""
 state = "node"
 
+chunks = ["hsa"+f for f in brit_contents.strip().split("\n\nhsa")]
+
+brit_dict = {}
+for chunk in chunks:
+    lines = [f.strip() for f in chunk.split("\n") if f!=""]
+    brit_dict[lines[0]] ={"proteins":lines[1:]}
+
+
+
+##set overlap counter
+for i,current_node in enumerate(brit_dict):
+    current_proteins = brit_dict[current_node]["proteins"]
+    edges = {}
+    for other_node in brit_dict:
+        if other_node == current_node:
+            continue
+        other_proteins = brit_dict[other_node]["proteins"]
+        print(len(current_proteins),len(other_proteins))
+        overlap = set(current_proteins).intersection(other_proteins)
+        if len(overlap)!= 0:
+            edges[other_node] =list(overlap)
+    brit_dict[current_node]["edges"] = edges
+
+with open("./testing/public/clean.json","w") as phile:
+    phile.write(json.dumps(brit_dict))
+
+
 for i,line in enumerate(lines_list):
     if line == "":
         continue
@@ -70,6 +97,8 @@ brit_dict = backup.copy()
 for k in brit_dict:
     print(len(brit_dict[k]["proteins"]))
 
+brit_dict[list(brit_dict.keys())[1]]
+
 ## sanity check that multiple subproteins can actually be found
 one_prot = brit_dict[list(brit_dict.keys())[0]]["proteins"]
 another_prot = brit_dict[list(brit_dict.keys())[1]]["proteins"]
@@ -79,11 +108,12 @@ set(one_prot).intersection(set(another_prot)) == set(brit_dict[list(brit_dict.ke
 
 ## only export a small part
 sub = {}
-for k in list(brit_dict.keys())[0]:
+for k in list(brit_dict.keys())[:2]:
     sub[k] = brit_dict[k]
 
-sub[list(brit_dict.keys())[0]] = brit_dict[list(brit_dict.keys())[0]]
+sub[list(brit_dict.keys())[1]] = brit_dict[list(brit_dict.keys())[1]]
 
+sub.keys()
 
 with open("./testing/public/subtest.json","w") as phile:
     phile.write(json.dumps(sub))
