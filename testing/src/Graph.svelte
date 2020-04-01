@@ -2,33 +2,35 @@
   let distanceTool = window.innerHeight / 3;
   let off = false;
   let strengthTool = -509;
-  let threshold = 0;
+  let threshold = 4;
   import * as d3 from "d3";
   let width = window.innerWidth;
   let height = window.innerHeight;
   let max = 0;
   let createGraph = (data, svgArg) => {
+    //remove previous
+    d3.select("svg").remove()
     let nodes = [];
     let links = [];
     let existingNames = [];
-    for (let name in data) {
-      existingNames.push(name);
-    }
 
     for (let nodename in data) {
-      nodes.push({ id: nodename, value: data[nodename].proteins.length });
 
       for (let othernode in data[nodename].edges) {
         //now make as many edges are in the data
-        if (existingNames.indexOf(othernode) == -1) {
-          nodes.push({ id: othernode, value: 1 });
-        }
         let el = {
           source: nodename,
           target: othernode,
           value: data[nodename].edges[othernode].length
         };
-        links.push(el);
+        if (el.value >= threshold){
+          links.push(el);
+          let node = { id: nodename, value: data[nodename].proteins.length }
+          if (existingNames.indexOf(node.id)==-1) {
+            nodes.push(node);
+            existingNames.push(node.id)
+          }
+        }
         if (max < el.value) {
           max = el.value;
         }
@@ -105,13 +107,6 @@
         .force("link", d3.forceLink(links).distance(distanceTool))
         .force("center", d3.forceCenter(width / 2, height / 2))
         .force("charge", d3.forceManyBody().strength(strengthTool));
-      link.attr("stroke-opacity", d => {
-        if (d.value > threshold) {
-          return 0.6;
-        } else {
-          return 0;
-        }
-      });
     }, 2000);
     svg.call(
       d3
@@ -128,11 +123,18 @@
     return svg;
   };
 
+  let data 
+  let svg
   window.onload = async () => {
-    let data = await fetch("./clean.json").then(res => res.json());
-    let svg = d3.select("#container").append("svg");
-    let node = createGraph(data, svg);
+    data = await fetch("./clean.json").then(res => res.json());
+    svg = d3.select("#container").append("svg");
+    //let node = createGraph(data, svg);
   };
+  let restart =()=> {
+
+    svg = d3.select("#container").append("svg");
+    createGraph(data,svg)
+  }
 </script>
 
 <style>
@@ -152,8 +154,8 @@
     <input type="range" bind:value={distanceTool} min="0" max="3000" />
   </label>
   <label>
-    <input type="number" bind:value={threshold} min="0" {max} />
-    <input type="range" bind:value={threshold} min="0" {max} />
+    <input type="number" bind:value={threshold} min="0" {max} on:change={restart}/>
+    <input type="range" bind:value={threshold} min="0" {max} on:change={restart}/>
   </label>
 
   <label>
