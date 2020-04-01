@@ -1,11 +1,13 @@
 <script>
+
   let distanceTool = 120;
   let off = false;
   let strengthTool = -50;
-  let threshold = 6;
+  let threshold = 2;
   import * as d3 from "d3";
-  let width = window.innerWidth;
-  let height = window.innerHeight;
+  import {legend} from "./legend.js";
+  let width = 5000;
+  let height = 5000;
   let max = 0;
   let createGraph = (data, svgArg) => {
     //remove previous
@@ -70,6 +72,11 @@
       .attr("stroke-width", d => d.value)
       .attr("stroke", d => d3.interpolateViridis(d.value / max));
 
+  document.querySelector("#legend").append(legend({
+  color: d3.scaleSequential([0, max], d3.interpolateViridis),
+  title: "Number of shared proteins chunks",
+  height:40
+}))
     const node = zoom_group
       .append("g")
       .attr("stroke", "#fff")
@@ -78,23 +85,48 @@
       .data(nodes)
       .join("circle")
       .attr("r", d => d.value)
-      .attr("fill", "black");
+      .attr("fill", "black")
+      .call(d3.drag() 
+            .on("start", dragstarted) 
+            .on("drag", dragged)      
+            .on("end", dragended)     
+         );
+    function dragstarted(d) {
+      if (!d3.event.active) simulation.alphaTarget(0.3).restart();//sets the current target alpha to the specified number in the range [0,1].
+      d.fy = d.y; //fx - the node’s fixed x-position. Original is null.
+      d.fx = d.x; //fy - the node’s fixed y-position. Original is null.
+    }
+
+    //When the drag gesture starts, the targeted node is fixed to the pointer
+    function dragged(d) {
+      d.fx = d3.event.x;
+      d.fy = d3.event.y;
+    }
+
+    //the targeted node is released when the gesture ends
+    function dragended(d) {
+      if (!d3.event.active) simulation.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+      
+      console.log("data after dragged is ...",data);
+    }
 
     zoom_group.append("g").selectAll("text").data(nodes).enter().append("text").text(d => d.id)
-    .attr("x",d=> d.x)
-    .attr("y",d=> d.y)
+    .attr("x",d=> d.x+d.value)
+    .attr("y",d=> d.y + d.value)
     .attr("dy",5);
 
     let ticked = () => {
       link
-        .attr("x1", d => Math.min(width - 100, Math.abs(d.source.x)))
-        .attr("y1", d => Math.min(height - 100, Math.abs(d.source.y)))
-        .attr("x2", d => Math.min(width - 100, Math.abs(d.target.x)))
-        .attr("y2", d => Math.min(height - 100, Math.abs(d.target.y)));
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
 
       node
-        .attr("cx", d => Math.min(width - 100, Math.abs(d.x)))
-        .attr("cy", d => Math.min(height - 100, Math.abs(d.y)));
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y);
 
     zoom_group.selectAll("text")
     .attr("x",d=> d.x)
@@ -140,7 +172,7 @@
     //let node = createGraph(data, svg);
   };
   let restart =()=> {
-
+    
     svg = d3.select("#container").append("svg");
     createGraph(data,svg)
   }
@@ -165,18 +197,25 @@
 <div id="labels">
 
   <label>
+    Min shared protein count
+    <input type="number" bind:value={threshold} min="0"  max="7" on:change={restart}/>
+    <input type="range" bind:value={threshold} min="0" max="7" on:change={restart}/>
+  </label>
+  <label>
+    Edge Length
     <input type="number" bind:value={distanceTool} min="0" max="3000" />
     <input type="range" bind:value={distanceTool} min="0" max="3000" />
   </label>
   <label>
-    <input type="number" bind:value={threshold} min="0"  max={max} on:change={restart}/>
-    <input type="range" bind:value={threshold} min="0" max={max} on:change={restart}/>
+    Repulsion Strength
+    <input type="number" bind:value={strengthTool} min="-10000" max="400" />
+    <input type="range" bind:value={strengthTool} min="-10000" max="400" />
   </label>
-
   <label>
-    <input type="number" bind:value={strengthTool} min="-10000" max="-30" />
-    <input type="range" bind:value={strengthTool} min="-10000" max="-30" />
-  </label>
+  Stop animation
   <input type="checkbox" bind:checked={off} />
+  </label>
 </div>
+</div>
+<div id="legend">
 </div>
