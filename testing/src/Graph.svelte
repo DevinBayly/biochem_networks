@@ -1,8 +1,8 @@
 <script>
-  let distanceTool = window.innerHeight / 3;
+  let distanceTool = 120;
   let off = false;
-  let strengthTool = -509;
-  let threshold = 4;
+  let strengthTool = -50;
+  let threshold = 6;
   import * as d3 from "d3";
   let width = window.innerWidth;
   let height = window.innerHeight;
@@ -80,7 +80,10 @@
       .attr("r", d => d.value)
       .attr("fill", "black");
 
-    node.append("title").text(d => d.id);
+    zoom_group.append("g").selectAll("text").data(nodes).enter().append("text").text(d => d.id)
+    .attr("x",d=> d.x)
+    .attr("y",d=> d.y)
+    .attr("dy",5);
 
     let ticked = () => {
       link
@@ -92,6 +95,12 @@
       node
         .attr("cx", d => Math.min(width - 100, Math.abs(d.x)))
         .attr("cy", d => Math.min(height - 100, Math.abs(d.y)));
+
+    zoom_group.selectAll("text")
+    .attr("x",d=> d.x)
+    .attr("y",d=> d.y)
+    .attr("dy",5);
+
     };
     setInterval(() => {
       if (!off ) {
@@ -100,7 +109,7 @@
         simulation.alpha(1)
         simulation.restart()
       }
-    }, 1000);
+    }, 100);
     d3.interval(() => {
       simulation
         .nodes(nodes)
@@ -141,6 +150,12 @@
   #holder {
       display:flex;
   }
+  text {
+  text-anchor: middle;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  fill: #666;
+  font-size: 16px;
+}
 </style>
 
 
@@ -154,8 +169,8 @@
     <input type="range" bind:value={distanceTool} min="0" max="3000" />
   </label>
   <label>
-    <input type="number" bind:value={threshold} min="0" {max} on:change={restart}/>
-    <input type="range" bind:value={threshold} min="0" {max} on:change={restart}/>
+    <input type="number" bind:value={threshold} min="0"  max={max} on:change={restart}/>
+    <input type="range" bind:value={threshold} min="0" max={max} on:change={restart}/>
   </label>
 
   <label>
