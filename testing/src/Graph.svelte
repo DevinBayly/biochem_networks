@@ -5,7 +5,7 @@
   let strengthTool = -50;
   let threshold = 2;
   import * as d3 from "d3";
-  import {legend} from "./legend.js";
+  import {colorCanvas} from "./legend.js";
   let width = 5000;
   let height = 5000;
   let max = 0;
@@ -72,11 +72,6 @@
       .attr("stroke-width", d => d.value)
       .attr("stroke", d => d3.interpolateViridis(d.value / max));
 
-  document.querySelector("#legend").append(legend({
-  color: d3.scaleSequential([0, max], d3.interpolateViridis),
-  title: "Number of shared proteins chunks",
-  height:40
-}))
     const node = zoom_group
       .append("g")
       .attr("stroke", "#fff")
@@ -129,8 +124,8 @@
         .attr("cy", d => d.y);
 
     zoom_group.selectAll("text")
-    .attr("x",d=> d.x)
-    .attr("y",d=> d.y)
+    .attr("x",d=> d.x+d.value)
+    .attr("y",d=> d.y+ d.value)
     .attr("dy",5);
 
     };
@@ -175,6 +170,8 @@
     
     svg = d3.select("#container").append("svg");
     createGraph(data,svg)
+    
+    setTimeout(()=>{colorCanvas()},2000)
   }
 </script>
 
@@ -218,4 +215,5 @@
 </div>
 </div>
 <div id="legend">
+<canvas></canvas>
 </div>
