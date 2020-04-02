@@ -240,6 +240,7 @@
     <button id="download">Download svg</button>
   </div>
 </div>
+<p>Number of shared elements in category</p>
 <div id="legend">
   <canvas />
 </div>
