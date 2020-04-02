@@ -1,23 +1,21 @@
 <script>
-
   let distanceTool = 120;
   let off = false;
   let strengthTool = -50;
   let threshold = 2;
   import * as d3 from "d3";
-  import {colorCanvas} from "./legend.js";
+  import { colorCanvas } from "./legend.js";
   let width = 5000;
   let height = 5000;
   let max = 0;
   let createGraph = (data, svgArg) => {
     //remove previous
-    d3.select("svg").remove()
+    d3.select("svg").remove();
     let nodes = [];
     let links = [];
     let existingNames = [];
 
     for (let nodename in data) {
-
       for (let othernode in data[nodename].edges) {
         //now make as many edges are in the data
         let el = {
@@ -25,12 +23,15 @@
           target: othernode,
           value: data[nodename].edges[othernode].length
         };
-        if (el.value >= threshold){
+        if (el.value >= threshold) {
           links.push(el);
-          let node = { id: nodename, value: data[nodename].proteins.length }
-          if (existingNames.indexOf(node.id)==-1) {
+          let node = {
+            id: nodename,
+            value: data[nodename].proteins.length * 5
+          };
+          if (existingNames.indexOf(node.id) == -1) {
             nodes.push(node);
-            existingNames.push(node.id)
+            existingNames.push(node.id);
           }
         }
         if (max < el.value) {
@@ -40,10 +41,10 @@
     }
 
     const simulation = d3.forceSimulation(nodes);
-    console.log(simulation)
+    console.log(simulation);
 
     simulation.stop();
-    console.log(simulation)
+    console.log(simulation);
     let forces = simulation
       .force(
         "link",
@@ -57,7 +58,7 @@
     const svg = svgArg.attr("viewBox", [0, 0, width, height]);
 
     console.log(simulation);
-    
+
     const zoom_group = svg.append("g");
 
     // make a color
@@ -81,13 +82,15 @@
       .join("circle")
       .attr("r", d => d.value)
       .attr("fill", "black")
-      .call(d3.drag() 
-            .on("start", dragstarted) 
-            .on("drag", dragged)      
-            .on("end", dragended)     
-         );
+      .call(
+        d3
+          .drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended)
+      );
     function dragstarted(d) {
-      if (!d3.event.active) simulation.alphaTarget(0.3).restart();//sets the current target alpha to the specified number in the range [0,1].
+      if (!d3.event.active) simulation.alphaTarget(0.3).restart(); //sets the current target alpha to the specified number in the range [0,1].
       d.fy = d.y; //fx - the node’s fixed x-position. Original is null.
       d.fx = d.x; //fy - the node’s fixed y-position. Original is null.
     }
@@ -103,14 +106,20 @@
       if (!d3.event.active) simulation.alphaTarget(0);
       d.fx = null;
       d.fy = null;
-      
-      console.log("data after dragged is ...",data);
+
+      console.log("data after dragged is ...", data);
     }
 
-    zoom_group.append("g").selectAll("text").data(nodes).enter().append("text").text(d => d.id)
-    .attr("x",d=> d.x+d.value)
-    .attr("y",d=> d.y + d.value)
-    .attr("dy",5);
+    zoom_group
+      .append("g")
+      .selectAll("text")
+      .data(nodes)
+      .enter()
+      .append("text")
+      .text(d => d.id.replace(/hsa.*? /, ""))
+      .attr("x", d => d.x + d.value)
+      .attr("y", d => d.y + d.value)
+      .attr("dy", 5);
 
     let ticked = () => {
       link
@@ -119,22 +128,20 @@
         .attr("x2", d => d.target.x)
         .attr("y2", d => d.target.y);
 
-      node
-        .attr("cx", d => d.x)
-        .attr("cy", d => d.y);
+      node.attr("cx", d => d.x).attr("cy", d => d.y);
 
-    zoom_group.selectAll("text")
-    .attr("x",d=> d.x+d.value)
-    .attr("y",d=> d.y+ d.value)
-    .attr("dy",5);
-
+      zoom_group
+        .selectAll("text")
+        .attr("x", d => d.x + d.value)
+        .attr("y", d => d.y + d.value)
+        .attr("dy", 5);
     };
     setInterval(() => {
-      if (!off ) {
+      if (!off) {
         simulation.tick();
         ticked();
-        simulation.alpha(1)
-        simulation.restart()
+        simulation.alpha(1);
+        simulation.restart();
       }
     }, 100);
     d3.interval(() => {
@@ -159,61 +166,80 @@
     return svg;
   };
 
-  let data 
-  let svg
+  let data;
+  let svg;
   window.onload = async () => {
     data = await fetch("./clean.json").then(res => res.json());
     svg = d3.select("#container").append("svg");
     //let node = createGraph(data, svg);
+    let download = document.querySelector("#download");
+    download.onclick = () => {
+      let a = document.createElement("a");
+      a.href = URL.createObjectURL(new Blob([document.querySelector("svg").outerHTML]))
+      a.download = "ProteinNetwork.svg";
+      a.click();
+    };
   };
-  let restart =()=> {
-    
+  let restart = () => {
     svg = d3.select("#container").append("svg");
-    createGraph(data,svg)
-    
-    setTimeout(()=>{colorCanvas()},2000)
-  }
+    createGraph(data, svg);
+
+    setTimeout(() => {
+      colorCanvas();
+    }, 2000);
+  };
+  // download button code
 </script>
 
 <style>
   #holder {
-      display:flex;
+    display: flex;
   }
   text {
-  text-anchor: middle;
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
-  fill: #666;
-  font-size: 16px;
-}
+    text-anchor: middle;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    fill: #666;
+    font-size: 16px;
+  }
 </style>
-
 
 <div id="holder">
 
-<div id="container" />
-<div id="labels">
+  <div id="container" />
+  <div id="labels">
 
-  <label>
-    Min shared protein count
-    <input type="number" bind:value={threshold} min="0"  max="7" on:change={restart}/>
-    <input type="range" bind:value={threshold} min="0" max="7" on:change={restart}/>
-  </label>
-  <label>
-    Edge Length
-    <input type="number" bind:value={distanceTool} min="0" max="3000" />
-    <input type="range" bind:value={distanceTool} min="0" max="3000" />
-  </label>
-  <label>
-    Repulsion Strength
-    <input type="number" bind:value={strengthTool} min="-10000" max="400" />
-    <input type="range" bind:value={strengthTool} min="-10000" max="400" />
-  </label>
-  <label>
-  Stop animation
-  <input type="checkbox" bind:checked={off} />
-  </label>
-</div>
+    <label>
+      Min shared protein count
+      <input
+        type="number"
+        bind:value={threshold}
+        min="0"
+        max="7"
+        on:change={restart} />
+      <input
+        type="range"
+        bind:value={threshold}
+        min="0"
+        max="7"
+        on:change={restart} />
+    </label>
+    <label>
+      Edge Length
+      <input type="number" bind:value={distanceTool} min="0" max="3000" />
+      <input type="range" bind:value={distanceTool} min="0" max="3000" />
+    </label>
+    <label>
+      Repulsion Strength
+      <input type="number" bind:value={strengthTool} min="-10000" max="400" />
+      <input type="range" bind:value={strengthTool} min="-10000" max="400" />
+    </label>
+    <label>
+      Stop animation
+      <input type="checkbox" bind:checked={off} />
+    </label>
+    <button id="download">Download svg</button>
+  </div>
 </div>
 <div id="legend">
-<canvas></canvas>
+  <canvas />
 </div>
