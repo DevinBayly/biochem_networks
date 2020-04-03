@@ -19439,7 +19439,7 @@ var app = (function () {
     			t3 = text("This project was produced to assist a UArizona Biochemistry PhD candidate\n  ");
     			a1 = element("a");
     			a1.textContent = "Brittany Stankavich";
-    			t5 = text(" with her understanding of the relationships between\n  certain protein categories and their components");
+    			t5 = text(" with her understanding of the relationships between\n  certain protein categories and their components.");
     			t6 = space();
     			create_component(graph.$$.fragment);
     			if (img.src !== (img_src_value = "rtdvicon.png")) attr_dev(img, "src", img_src_value);

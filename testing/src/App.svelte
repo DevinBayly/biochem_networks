@@ -16,6 +16,6 @@
 <p>
   This project was produced to assist a UArizona Biochemistry PhD candidate
   <a href="https://cbc.arizona.edu/directory/people/brittany-stankavich">Brittany Stankavich</a> with her understanding of the relationships between
-  certain protein categories and their components
+  certain protein categories and their components.
 </p>
 <Graph />
