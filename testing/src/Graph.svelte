@@ -2,7 +2,7 @@
   let distanceTool = 120;
   let off = false;
   let strengthTool = -50;
-  let threshold = 2;
+  let threshold = 5;
   import * as d3 from "d3";
   import { colorCanvas } from "./legend.js";
   let width = 5000;
@@ -168,6 +168,15 @@
 
   let data;
   let svg;
+
+  let restart = () => {
+    svg = d3.select("#container").append("svg");
+    createGraph(data, svg);
+
+    setTimeout(() => {
+      colorCanvas();
+    }, 2000);
+  };
   window.onload = async () => {
     data = await fetch("./clean.json").then(res => res.json());
     svg = d3.select("#container").append("svg");
@@ -179,14 +188,7 @@
       a.download = "ProteinNetwork.svg";
       a.click();
     };
-  };
-  let restart = () => {
-    svg = d3.select("#container").append("svg");
-    createGraph(data, svg);
-
-    setTimeout(() => {
-      colorCanvas();
-    }, 2000);
+    restart()
   };
   // download button code
 </script>
