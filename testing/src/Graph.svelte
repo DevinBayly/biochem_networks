@@ -56,6 +56,8 @@
       .force("charge", d3.forceManyBody().strength(-509))
       .force("center", d3.forceCenter(width / 2, height / 2));
     const svg = svgArg.attr("viewBox", [0, 0, width, height]);
+    svg.attr("height",height/10)
+    svg.attr("width",width/10)
 
     console.log(simulation);
 
