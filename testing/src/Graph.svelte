@@ -27,7 +27,7 @@
           links.push(el);
           let node = {
             id: nodename,
-            value: data[nodename].proteins.length * 5
+            value: data[nodename]["category_value"]
           };
           if (existingNames.indexOf(node.id) == -1) {
             nodes.push(node);
@@ -74,16 +74,19 @@
       .join("line")
       .attr("stroke-width", d => d.value)
       .attr("stroke", d => d3.interpolateViridis(d.value / max));
-
     const node = zoom_group
       .append("g")
       .attr("stroke", "#fff")
-      .attr("stroke-width", 1.5)
+      .attr("stroke-width", 3.5)
       .selectAll("circle")
       .data(nodes)
       .join("circle")
-      .attr("r", d => d.value)
-      .attr("fill", "black")
+      .attr("r",20)
+      .attr("fill",d=>{
+        //first get us down to a 0-10, floor to categorize, then div by 10 to interpolation range 0-1
+        return d3.interpolateViridis(Math.floor(d/40)/10)
+      } )
+      .attr("opacity",.5)
       .call(
         d3
           .drag()
@@ -134,8 +137,9 @@
 
       zoom_group
         .selectAll("text")
-        .attr("x", d => d.x + d.value)
-        .attr("y", d => d.y + d.value)
+        
+        .attr("x", d => d.x + (Math.floor(d.value/40)+1)*5)
+        .attr("y", d => d.y + (Math.floor(d.value/40)+1)*5)
         .attr("dy", 5);
     };
     setInterval(() => {
@@ -180,7 +184,7 @@
     }, 2000);
   };
   window.onload = async () => {
-    data = await fetch("./clean.json").then(res => res.json());
+    data = await fetch("./total_counts_version.json").then(res => res.json());
     svg = d3.select("#container").append("svg");
     //let node = createGraph(data, svg);
     let download = document.querySelector("#download");

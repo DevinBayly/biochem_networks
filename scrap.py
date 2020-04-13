@@ -215,3 +215,34 @@ with open("./testing/public/test.json","w") as phile:
 
 
  set(["there is a list of words","another"]).intersection(set(["another","there is a list of words"]))
+
+import json
+with open("./testing/public/clean.json","r") as phile:
+    contents = json.loads(phile.read())
+
+
+allps = [p  for f in contents.values() for p in f["proteins"]]
+uniques = set(allps)
+counts = {}
+for p in uniques:
+    counts[p] = allps.count(p)
+
+counts
+sums = []
+for cat in contents:
+    sum = 0
+    print(cat)
+    ##iterate over the existing proteins 
+    for cat_p in contents[cat]["proteins"]:
+        print("category_protein",cat_p)
+        sum += counts[cat_p]
+    contents[cat]["category_value"] = sum
+    sums.append(sum)
+len(set(sums))
+with open("./testing/public/total_counts_version.json","w") as phile:
+    phile.write(json.dumps(contents))
+
+
+firstkey = contents["hsahsa04810 Regulation of actin cytoskeleton - Homo sapiens (human) (14)"]
+firstkey["proteins"]
+
