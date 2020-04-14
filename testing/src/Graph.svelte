@@ -5,8 +5,8 @@
   let threshold = 5;
   import * as d3 from "d3";
   import { colorCanvas } from "./legend.js";
-  let width = 5000;
-  let height = 5000;
+  let width = 7000*2;
+  let height = 7000*2;
   let max = 0;
   let createGraph = (data, svgArg) => {
     //remove previous
@@ -56,8 +56,8 @@
       .force("charge", d3.forceManyBody().strength(-509))
       .force("center", d3.forceCenter(width / 2, height / 2));
     const svg = svgArg.attr("viewBox", [0, 0, width, height]);
-    svg.attr("height",height/10)
-    svg.attr("width",width/10)
+    svg.attr("height", height / 10);
+    svg.attr("width", width / 10);
 
     console.log(simulation);
 
@@ -72,21 +72,20 @@
       .selectAll("line")
       .data(links)
       .join("line")
-      .attr("stroke-width", d => d.value)
+      .attr("stroke-width", d => d.value*10)
       .attr("stroke", d => d3.interpolateViridis(d.value / max));
     const node = zoom_group
       .append("g")
-      .attr("stroke", "#fff")
-      .attr("stroke-width", 3.5)
       .selectAll("circle")
       .data(nodes)
       .join("circle")
-      .attr("r",20)
-      .attr("fill",d=>{
+      .attr("stroke", d => {
         //first get us down to a 0-10, floor to categorize, then div by 10 to interpolation range 0-1
-        return d3.interpolateViridis(Math.floor(d/40)/10)
-      } )
-      .attr("opacity",.5)
+        return d3.interpolateViridis(Math.floor(d.value / 40) / 10);
+      })
+      .attr("stroke-width", 30.5)
+      .attr("r", d=> d.value)
+      .attr("fill-opacity", 0)
       .call(
         d3
           .drag()
@@ -109,9 +108,9 @@
     //the targeted node is released when the gesture ends
     function dragended(d) {
       if (!d3.event.active) simulation.alphaTarget(0);
-      d.fx = null;
-      d.fy = null;
-
+      d.fx = d3.event.x;
+      d.fy = d3.event.y;
+      d.moused= true
       console.log("data after dragged is ...", data);
     }
 
@@ -122,8 +121,8 @@
       .enter()
       .append("text")
       .text(d => d.id.replace(/hsa.*? /, ""))
-      .attr("x", d => d.x + d.value)
-      .attr("y", d => d.y + d.value)
+      .attr("x", d => d.x + (Math.floor(d.value / 40) + 1) * 5)
+      .attr("y", d => d.y + (Math.floor(d.value / 40) + 1) * 5)
       .attr("dy", 5);
 
     let ticked = () => {
@@ -137,18 +136,34 @@
 
       zoom_group
         .selectAll("text")
-        
-        .attr("x", d => d.x + (Math.floor(d.value/40)+1)*5)
-        .attr("y", d => d.y + (Math.floor(d.value/40)+1)*5)
+
+        .attr("x", d => d.x + (Math.floor(d.value / 40) + 1) * 5)
+        .attr("y", d => d.y + (Math.floor(d.value / 40) + 1) * 5)
         .attr("dy", 5);
     };
+    let prevIter
     setInterval(() => {
-      if (!off) {
-        simulation.tick();
-        ticked();
-        simulation.alpha(1);
-        simulation.restart();
+      if (off) {
+        nodes.map(node=> {
+          node.fx = node.x
+          node.fy = node.y
+        })
+        prevIter = off
       }
+      if (!off && prevIter) {
+        // go through and change all the not mouse spec ones back to non fx
+        nodes.map(node=> {
+          if (!node.moused) {
+            node.fx = null
+            node.fy = null
+          }
+        })
+
+      }
+      simulation.tick();
+      ticked();
+      simulation.alpha(1);
+      simulation.restart();
     }, 100);
     d3.interval(() => {
       simulation
@@ -190,11 +205,13 @@
     let download = document.querySelector("#download");
     download.onclick = () => {
       let a = document.createElement("a");
-      a.href = URL.createObjectURL(new Blob([document.querySelector("svg").outerHTML]))
+      a.href = URL.createObjectURL(
+        new Blob([document.querySelector("svg").outerHTML])
+      );
       a.download = "ProteinNetwork.svg";
       a.click();
     };
-    restart()
+    restart();
   };
   // download button code
 </script>
@@ -207,7 +224,7 @@
     text-anchor: middle;
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     fill: #666;
-    font-size: 16px;
+    font-size: 100px;
   }
 </style>
 
